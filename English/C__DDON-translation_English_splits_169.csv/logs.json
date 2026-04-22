@@ -16,5 +16,14 @@
     "old_value": null,
     "new_value": null,
     "comment": "test"
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "translate",
+    "user": "Sapphira",
+    "timestamp": "2026-04-22T22:11:54.728346",
+    "old_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test",
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.",
+    "comment": null
   }
 ]
