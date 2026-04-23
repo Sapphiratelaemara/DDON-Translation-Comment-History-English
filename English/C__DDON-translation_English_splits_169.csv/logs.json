@@ -115,5 +115,95 @@
     "old_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test6",
     "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test6",
     "comment": null
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "translate",
+    "user": "Sapphira",
+    "timestamp": "2026-04-23T02:45:59.174171",
+    "old_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test6",
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": null
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "reject",
+    "user": "reviewer",
+    "timestamp": "2026-04-23T02:46:04.257502",
+    "old_value": null,
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": "Translation needs improvement"
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "translate",
+    "user": "translator",
+    "timestamp": "2026-04-23T02:46:11.893862",
+    "old_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": null
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "approve",
+    "user": "Sapphira",
+    "timestamp": "2026-04-23T02:46:11.904793",
+    "old_value": null,
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": null
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "translate",
+    "user": "Sapphira",
+    "timestamp": "2026-04-23T02:46:23.233850",
+    "old_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": null
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "reject",
+    "user": "reviewer",
+    "timestamp": "2026-04-23T02:46:28.057323",
+    "old_value": null,
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": "Translation needs improvement"
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "reject",
+    "user": "reviewer",
+    "timestamp": "2026-04-23T02:46:33.676056",
+    "old_value": null,
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": "Translation needs improvement"
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "translate",
+    "user": "translator",
+    "timestamp": "2026-04-23T02:46:37.139326",
+    "old_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": null
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "approve",
+    "user": "Sapphira",
+    "timestamp": "2026-04-23T02:46:37.153456",
+    "old_value": null,
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": null
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "reject",
+    "user": "reviewer",
+    "timestamp": "2026-04-23T02:46:50.857513",
+    "old_value": null,
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.test7",
+    "comment": "Translation needs improvement"
   }
 ]
