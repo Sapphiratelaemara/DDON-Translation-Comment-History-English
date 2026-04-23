@@ -52,5 +52,23 @@
     "old_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew. test2",
     "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew. test2",
     "comment": null
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "translate",
+    "user": "Sapphira",
+    "timestamp": "2026-04-23T02:00:07.151399",
+    "old_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew. test2",
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.",
+    "comment": null
+  },
+  {
+    "id": "SEARCH_296",
+    "action": "translate",
+    "user": "translator",
+    "timestamp": "2026-04-23T02:00:13.909709",
+    "old_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.",
+    "new_value": "When the seekers dost acknowledge thee,\nthou shalt gain power anew.",
+    "comment": null
   }
 ]
