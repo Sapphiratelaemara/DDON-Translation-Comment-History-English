@@ -1,0 +1,51 @@
+[
+  {
+    "id": "MANUAL_334",
+    "action": "translate",
+    "user": "Sapphira",
+    "timestamp": "2026-04-25T19:31:58.212739",
+    "old_value": null,
+    "new_value": "&quot;Broken wine bottle&quot; found. test",
+    "comment": null,
+    "comments": [
+      {
+        "id": "MANUAL_334_0_1777140391.477317",
+        "entry_id": "MANUAL_334",
+        "user": "Anonymous",
+        "text": "test",
+        "timestamp": "2026-04-25T20:06:31.477330",
+        "parent_id": null,
+        "history_entry_id": "MANUAL_334"
+      }
+    ]
+  },
+  {
+    "id": "MANUAL_334",
+    "action": "translate",
+    "user": "Sapphira",
+    "timestamp": "2026-04-25T20:06:40.195437",
+    "old_value": "&amp;quot;Broken wine bottle&amp;quot; found. test",
+    "new_value": "&quot;Broken wine bottle&quot; found.test2",
+    "comment": null,
+    "comments": [
+      {
+        "id": "MANUAL_334_0_1777140405.958954",
+        "entry_id": "MANUAL_334",
+        "user": "Anonymous",
+        "text": "test2",
+        "timestamp": "2026-04-25T20:06:45.958963",
+        "parent_id": null,
+        "history_entry_id": "MANUAL_334"
+      },
+      {
+        "id": "MANUAL_334_1_1777140409.824853",
+        "entry_id": "MANUAL_334",
+        "user": "Anonymous",
+        "text": "test3",
+        "timestamp": "2026-04-25T20:06:49.824861",
+        "parent_id": null,
+        "history_entry_id": "MANUAL_334"
+      }
+    ]
+  }
+]
