@@ -2,7 +2,7 @@
   "MANUAL_334": {
     "id": "MANUAL_334",
     "source_text": "「c」を発見した",
-    "translated_text": "&quot;Broken wine bottle&quot; found.test3",
+    "translated_text": "&amp;quot;Broken wine bottle&amp;quot; found.test3",
     "status": "translated",
     "translator": "Sapphira",
     "approver": null,
