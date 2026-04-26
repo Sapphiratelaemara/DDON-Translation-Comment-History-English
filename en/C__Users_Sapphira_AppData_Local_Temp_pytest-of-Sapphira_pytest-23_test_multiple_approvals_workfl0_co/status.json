@@ -1,0 +1,17 @@
+{
+  "test_003": {
+    "id": "test_003",
+    "source_text": "ありがとう",
+    "translated_text": "Thanks",
+    "status": "approved",
+    "translator": "translator2",
+    "approver": "reviewer1",
+    "created_at": "2026-04-26T02:34:08.269301",
+    "updated_at": "2026-04-26T02:34:08.297133",
+    "approved_at": "2026-04-26T02:34:08.297127",
+    "file_path": "C:\\Users\\Sapphira\\AppData\\Local\\Temp\\pytest-of-Sapphira\\pytest-23\\test_multiple_approvals_workfl0\\config\\test_multi_workflow.csv",
+    "row_index": 2,
+    "speaker": "NPC3",
+    "entry_type": "dialogue"
+  }
+}
