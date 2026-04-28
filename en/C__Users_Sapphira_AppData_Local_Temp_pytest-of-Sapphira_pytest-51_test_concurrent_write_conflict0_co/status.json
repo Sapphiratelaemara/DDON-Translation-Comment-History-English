@@ -118,5 +118,20 @@
     "row_index": 0,
     "speaker": "NPC1",
     "entry_type": "dialogue"
+  },
+  "test_conflict_2026-04-26T15:23:52.473205_2026-04-26T15:23:52.473205_2026-04-26T15:23:52.473205_2026-04-26T15:23:52.473205_2026-04-26T15:23:52.473205_2026-04-26T15:23:52.473205_2026-04-26T15:23:52.473205_2026-04-26T15:23:52.473205": {
+    "id": "test_conflict",
+    "source_text": "こんにちは",
+    "translated_text": "Hello World",
+    "status": "translated",
+    "translator": "translator2",
+    "approver": null,
+    "created_at": "2026-04-26T15:23:52.462972",
+    "updated_at": "2026-04-26T15:23:52.473205",
+    "approved_at": null,
+    "file_path": "C:\\Users\\Sapphira\\AppData\\Local\\Temp\\pytest-of-Sapphira\\pytest-51\\test_concurrent_write_conflict0\\config\\conflict_test.csv",
+    "row_index": 0,
+    "speaker": "NPC1",
+    "entry_type": "dialogue"
   }
 }
