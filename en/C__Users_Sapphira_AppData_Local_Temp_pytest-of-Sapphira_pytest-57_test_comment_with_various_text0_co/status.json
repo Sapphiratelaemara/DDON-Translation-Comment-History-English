@@ -14,6 +14,21 @@
     "speaker": "NPC1",
     "entry_type": "dialogue"
   },
+  "test_comment_prop_2026-04-28T22:37:46.073289": {
+    "id": "test_comment_prop",
+    "source_text": "0",
+    "translated_text": "{:&amp;gt;{n}} |",
+    "status": "translated",
+    "translator": "translator1",
+    "approver": null,
+    "created_at": "2026-04-26T17:38:56.253424",
+    "updated_at": "2026-04-28T22:37:46.073289",
+    "approved_at": null,
+    "file_path": "C:\\Users\\Sapphira\\AppData\\Local\\Temp\\pytest-of-Sapphira\\pytest-57\\test_comment_with_various_text0\\config\\property_comment_test.csv",
+    "row_index": 0,
+    "speaker": "NPC1",
+    "entry_type": "dialogue"
+  },
   "test_comment_prop_2026-04-28T22:23:23.024683": {
     "id": "test_comment_prop",
     "source_text": "0",
