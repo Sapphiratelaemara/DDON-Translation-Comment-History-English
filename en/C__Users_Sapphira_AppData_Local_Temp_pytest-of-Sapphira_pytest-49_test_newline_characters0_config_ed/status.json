@@ -148,5 +148,20 @@
     "row_index": 0,
     "speaker": "NPC1",
     "entry_type": "dialogue"
+  },
+  "test_newline_2026-04-26T15:16:47.903547_2026-04-26T15:16:47.903547_2026-04-26T15:16:47.903547_2026-04-26T15:16:47.903547_2026-04-26T15:16:47.903547_2026-04-26T15:16:47.903547_2026-04-26T15:16:47.903547_2026-04-26T15:16:47.903547_2026-04-26T15:16:47.903547_2026-04-26T15:16:47.903547": {
+    "id": "test_newline",
+    "source_text": "こんにちは\nさようなら\nありがとう",
+    "translated_text": null,
+    "status": "untranslated",
+    "translator": null,
+    "approver": null,
+    "created_at": "2026-04-26T15:16:47.903542",
+    "updated_at": "2026-04-26T15:16:47.903547",
+    "approved_at": null,
+    "file_path": "C:\\Users\\Sapphira\\AppData\\Local\\Temp\\pytest-of-Sapphira\\pytest-49\\test_newline_characters0\\config\\edge_cases_newline.csv",
+    "row_index": 0,
+    "speaker": "NPC1",
+    "entry_type": "dialogue"
   }
 }
