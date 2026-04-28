@@ -119,6 +119,21 @@
     "speaker": "NPC1",
     "entry_type": "dialogue"
   },
+  "test_vote_prop_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801": {
+    "id": "test_vote_prop",
+    "source_text": "0",
+    "translated_text": "Translation",
+    "status": "translated",
+    "translator": "translator1",
+    "approver": null,
+    "created_at": "2026-04-26T17:38:57.278937",
+    "updated_at": "2026-04-28T22:23:23.212801",
+    "approved_at": null,
+    "file_path": "C:\\Users\\Sapphira\\AppData\\Local\\Temp\\pytest-of-Sapphira\\pytest-57\\test_vote_with_various_scores0\\config\\property_vote_test.csv",
+    "row_index": 0,
+    "speaker": "NPC1",
+    "entry_type": "dialogue"
+  },
   "test_vote_prop_2026-04-28T22:21:58.880879": {
     "id": "test_vote_prop",
     "source_text": "0",
@@ -134,7 +149,7 @@
     "speaker": "NPC1",
     "entry_type": "dialogue"
   },
-  "test_vote_prop_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801": {
+  "test_vote_prop_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801_2026-04-28T22:23:23.212801": {
     "id": "test_vote_prop",
     "source_text": "0",
     "translated_text": "Translation",
