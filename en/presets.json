@@ -1,0 +1,17 @@
+{
+  "presets": {
+    "Dialogue Box": 50,
+    "Chatbox": 43,
+    "RimWarp": 40,
+    "Quest Info": 40,
+    "Substory": 31,
+    "Pop-up": 46,
+    "Tutorials": 48
+  },
+  "wall_presets": {
+    "Dialogue Box": 6,
+    "Unlimited": 999,
+    "Tutorial Box": 11,
+    "Pop-up": 5
+  }
+}
