@@ -1,0 +1,20 @@
+{
+  "speaker_archetypes": {
+    "Joseph": "G",
+    "The White Dragon": "A2",
+    "Morris": "C",
+    "Barton": "A",
+    "Gurdolin": "B"
+  },
+  "speaker_notes": {
+    "Joseph": "Head Priest of WDT, Historian",
+    "The White Dragon": "Extremely archaic tone (thou, thee, dost and so on)",
+    "Mephis": "Male, interrogator",
+    "Morris": "Beauty Salon Employee(owner?)",
+    "Barton": "WDT Innkeep",
+    "Selin": "Beauty Salon Employee",
+    "Orc Captain": "Orc being interrogated, primitive speech",
+    "Razanailt": "Male",
+    "Shalom": "Bathhouse NPC?"
+  }
+}
