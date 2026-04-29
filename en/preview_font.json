@@ -1,0 +1,197 @@
+{
+  "dialogue": {
+    "font_sz": 18,
+    "line_spacing": 1,
+    "crop": [
+      3,
+      5,
+      478,
+      173
+    ],
+    "text_x": 38,
+    "text_y": 21,
+    "fg": "#2f2b2b"
+  },
+  "questlog": {
+    "font_sz": 13,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      0,
+      400,
+      107
+    ],
+    "text_x": 93,
+    "text_y": 82,
+    "fg": "#ffffff"
+  },
+  "questlog_scroll": {
+    "font_sz": 18,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      0,
+      480,
+      152
+    ],
+    "text_x": 25,
+    "text_y": 10,
+    "fg": "#ffffff"
+  },
+  "tutorial_body": {
+    "font_sz": 18,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      0,
+      511,
+      335
+    ],
+    "text_x": 20,
+    "text_y": 89,
+    "fg": "#ffffff"
+  },
+  "boardquest_list": {
+    "font_sz": 15,
+    "line_spacing": 1,
+    "crop": [
+      25,
+      129,
+      424,
+      200
+    ],
+    "text_x": 57,
+    "text_y": 42,
+    "fg": "#ffffff"
+  },
+  "exm_list": {
+    "font_sz": 18,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      122,
+      435,
+      168
+    ],
+    "text_x": 41,
+    "text_y": 15,
+    "fg": "#ffffff"
+  },
+  "tutorial_list": {
+    "font_sz": 15,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      0,
+      264,
+      110
+    ],
+    "text_x": 25,
+    "text_y": 79,
+    "fg": "#ffffff"
+  },
+  "item_window": {
+    "font_sz": 10,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      124,
+      325,
+      241
+    ],
+    "text_x": 25,
+    "text_y": 10,
+    "fg": "#ffffff"
+  },
+  "appraisal_left": {
+    "font_sz": 9,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      100,
+      480,
+      155
+    ],
+    "text_x": 45,
+    "text_y": 36,
+    "fg": "#ffffff"
+  },
+  "appraisal_right": {
+    "font_sz": 18,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      27,
+      292,
+      70
+    ],
+    "text_x": 33,
+    "text_y": 18,
+    "fg": "#ffffff"
+  },
+  "chat": {
+    "font_sz": 18,
+    "line_spacing": 1,
+    "crop": [
+      22,
+      0,
+      366,
+      115
+    ],
+    "text_x": 7,
+    "text_y": 6,
+    "fg": "#ffffff"
+  },
+  "choice": {
+    "font_sz": 12,
+    "line_spacing": 1,
+    "crop": [
+      3,
+      -1,
+      340,
+      187
+    ],
+    "text_x": 28,
+    "text_y": 31,
+    "fg": "#ffffff"
+  },
+  "item_name": {
+    "font_sz": 18,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      0,
+      333,
+      69
+    ],
+    "text_x": 73,
+    "text_y": 20,
+    "fg": "#ffffff"
+  },
+  "substory": {
+    "font_sz": 18,
+    "line_spacing": 1,
+    "crop": [
+      2,
+      256,
+      416,
+      451
+    ],
+    "text_x": 26,
+    "text_y": 30,
+    "fg": "#2f2b2b"
+  },
+  "Pop-up": {
+    "font_sz": 19,
+    "line_spacing": 1,
+    "crop": [
+      0,
+      0,
+      424,
+      158
+    ],
+    "text_x": 15,
+    "text_y": 32,
+    "fg": "#ffffff"
+  }
+}
