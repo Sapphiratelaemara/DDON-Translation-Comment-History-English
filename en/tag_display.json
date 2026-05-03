@@ -1400,5 +1400,7 @@
   "SPOT 877": "Dana",
   "SPOT 1102": "The King's Hidden Chamber",
   "ITEM 24728": "Portcrystal to Ruin",
-  "ITEM 24821": "Premium Shiny Silk"
+  "ITEM 24821": "Premium Shiny Silk",
+  "TEST_TAG": "Test Display",
+  "TEST_TAG_123": "This is a test display"
 }
