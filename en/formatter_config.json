@@ -3,7 +3,7 @@
     "TUTORIAL_STEP"
   ],
   "styles": {},
-  "wall_preset": "Tutorial Box",
+  "wall_preset": "Unlimited",
   "sync_language": "English",
   "pretranslate_settings": {
     "tm_threshold": 1,
@@ -11,7 +11,7 @@
     "enable_openrouter": true,
     "enable_deepl": true
   },
-  "config_dir": "config/en",
+  "config_dir": "C:\\DDON-translation\\Dialogue Editor\\config\\en",
   "deepl_target_lang": "EN-US",
   "archetypes": {},
   "entry_type_rules": {
