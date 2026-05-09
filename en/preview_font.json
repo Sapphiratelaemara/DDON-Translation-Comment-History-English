@@ -39,7 +39,7 @@
     "fg": "#ffffff"
   },
   "tutorial_body": {
-    "font_sz": 18,
+    "font_sz": 11,
     "line_spacing": 1,
     "crop": [
       0,
