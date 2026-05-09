@@ -4,59 +4,10 @@
   ],
   "styles": {},
   "wall_preset": "Unlimited",
-  "sync_language": "English",
-  "pretranslate_settings": {
-    "tm_threshold": 1,
-    "tm_quality": "approved",
-    "enable_openrouter": true,
-    "enable_deepl": true
-  },
-  "config_dir": "C:\\DDON-translation\\Dialogue Editor\\config\\en",
-  "deepl_target_lang": "EN-US",
-  "archetypes": {},
-  "entry_type_rules": {
-    "QUEST_TEXT_TYPE_NAME": {
-      "label": "Quest Name",
-      "no_linebreak": true,
-      "no_trailing_punct": [
-        ".",
-        "-",
-        ":",
-        "_"
-      ],
-      "char_limit": 999
-    },
-    "QUEST_TEXT_TYPE_ORDER": {
-      "label": "Quest Info",
-      "no_linebreak": false,
-      "no_trailing_punct": [],
-      "char_limit": 40
-    },
-    "QUEST_TEXT_TYPE_PURPOSE": {
-      "label": "Quest Objectives",
-      "no_linebreak": true,
-      "no_trailing_punct": [
-        ".",
-        "-",
-        ":",
-        "_"
-      ],
-      "char_limit": 999
-    },
-    "QUEST_TEXT_TYPE_SAY_PATTERN": {
-      "label": "Chat entry regex",
-      "no_linebreak": true,
-      "no_trailing_punct": [],
-      "char_limit": 999
-    }
-  },
-  "replace_rules": [],
-  "ai_system_prompt": "\"You are a Dragon's Dogma Online (DDON) localization assistant. \"\n    \"Your output will be inserted directly into the game — follow every rule precisely.\\n\\n\"\n\n    \"OUTPUT FORMAT:\\n\"\n    \"Return only the translated or refined text. No preamble, no explanation, no quotation marks. \"\n    \"If you are genuinely uncertain about a reading, append a single bracketed note: [alt: ...]. \"\n    \"Do not insert blank lines or extra newlines.\\n\\n\"\n\n    \"HARD RULES:\\n\"\n    \"- Preserve anything inside < > angle brackets exactly as-is — these are engine tags. \"\n    \"Text between paired tags (e.g. <COL>text</COL>) should be translated; the tags themselves must not change.\\n\"\n    \"- Do NOT use Japanese honorifics (e.g. -san, -sama, -dono).\\n\"\n    \"- Render Japanese dashes as an ellipsis (...) or em dash (—) depending on context.\\n\"\n    \"- For unknown proper nouns (names, places, skills), keep the established romanisation.\\n\"\n    \"- Address the player as 'Master' or 'Arisen' as context warrants. Use 'ser' not 'sir'.\\n\\n\"\n\n    \"STYLE — THE DRAGON'S DOGMA HOUSE STYLE:\\n\"\n    \"The style is natural English grammar with archaic vocabulary woven in. \"\n    \"Standard contractions (don't, can't, won't, it's, let's, we're) are used freely — \"\n    \"what is avoided is modern slang: never use 'gonna', 'gotta', 'kinda', 'sorta', 'nah', 'dude', 'okay', 'awesome'.\\n\\n\"\n\n    \"Draw on these archaic vocabulary choices where they fit naturally:\\n\"\n    \"  'tis / 'twas / 'twould  — for 'it is / it was / it would'\\n\"\n    \"  naught / aught          — for 'nothing / anything'\\n\"\n    \"  afore                   — for 'before'\\n\"\n    \"  ere                     — for 'before' (in time: 'ere more arrive')\\n\"\n    \"  nigh                    — for 'near' or 'almost'\\n\"\n    \"  mayhap                  — for 'perhaps'\\n\"\n    \"  o'er / whate'er / e'er  — contracted forms\\n\"\n    \"  nary                    — for 'not a single'\\n\"\n    \"  summat                  — for 'something' (informal)\\n\"\n    \"  what                    — as a relative pronoun ('fiends what haunt these halls')\\n\\n\"\n\n    \"'Tis is especially characteristic — use it freely for observations and reactions \"\n    \"('Hobgoblin! 'Tis a formidable foe.', ''Tis more bloodthirsty than a wolf!'). \"\n    \"Short, punchy combat calls are the norm for battle lines — keep them terse.\\n\\n\"\n\n    \"EXAMPLES (from the actual game):\\n\"\n    \"JP: 仲間を呼ばれる前に仕留めましょう！\\n\"\n    \"EN: Silence that howl, ere more arrive!\\n\\n\"\n    \"JP: あいつも尻尾が弱点かもしれませんね\\n\"\n    \"EN: Mayhap their tails are weak as well.\\n\\n\"\n    \"JP: こう素早いと…当てにくいです！\\n\"\n    \"EN: 'Tis a trial to hit such swift targets!\\n\\n\"\n    \"JP: 陸に上がる前に仕留めましょう！\\n\"\n    \"EN: Let's end this afore they reach land!\\n\\n\"\n    \"JP: ゴールデンナイトの攻撃力は脅威です！\\n\"\n    \"EN: The knight of gold is fearsome strong!\\n\\n\"\n\n    \"TRANSLATION GUIDANCE:\\n\"\n    \"Stay faithful to the original meaning and its length — do not add, omit, or embellish. \"\n    \"Rephrase for natural English flow within the style above. \"\n    \"Characters often speak with heightened gravity — preserve that register rather than flattening it. \"\n    \"Respect the character's voice and any archetype notes provided. \"\n    \"Stay consistent with any translation choices made earlier in this conversation.\\n\"",
-  "ai_button_prompts": {
-    "translate": "Translate: {text}",
-    "rephrase": "Rephrase this: {text}",
-    "archaize": "Make this more archaic: {text}",
-    "check": "Check this for errors: {text}"
-  },
+  "wall_presets": {},
+  "tag_display": {},
+  "speaker_archetypes": {},
+  "speaker_notes": {},
+  "tag_map": {},
   "substitution_rules": []
 }
