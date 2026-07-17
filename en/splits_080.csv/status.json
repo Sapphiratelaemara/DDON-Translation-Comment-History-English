@@ -1,0 +1,17 @@
+{
+  "16dfd61c8d0574b9": {
+    "id": "16dfd61c8d0574b9",
+    "source_text": "敵との戦闘で一度も死亡状態になりませんでした\nクリア時のボーナス報酬が多くなります",
+    "translated_text": "Thou hast not fallen in combat — more Bonus Rewards &#x27;tis thine at completion.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-07-17T18:31:52.309958",
+    "updated_at": "2026-07-17T18:31:52.312369",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\080.csv",
+    "row_index": 355,
+    "speaker": "The White Dragon",
+    "entry_type": "Quest Examine"
+  }
+}
