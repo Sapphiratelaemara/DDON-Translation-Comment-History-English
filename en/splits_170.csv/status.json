@@ -3,12 +3,12 @@
     "id": "170.csv::77",
     "source_text": "フッフッフ、まぁ聞きたまえ！\n俺は祭りってものが大好きなのだ\n先日も、ある村で伝統的な祭りに参加したんだが\nこれがまた面白い祭りでね",
     "translated_text": "Huh huh huh, well, hear me out! I&amp;#x27;m quite fond of festivals, y&amp;#x27;see. Only the other d, I joined a traditional one in some village — and &amp;#x27;twas a right interesting affair, eh?",
-    "status": "pre-translated",
+    "status": "approved",
     "translator": "pretranslate",
-    "approver": null,
+    "approver": "Sapphira",
     "created_at": "2026-07-17T22:17:26.188369",
-    "updated_at": "2026-07-18T01:30:27.257855",
-    "approved_at": null,
+    "updated_at": "2026-07-18T02:51:52.810639",
+    "approved_at": "2026-07-18T02:51:52.810633",
     "file_path": "C:/DDON-translation/English/splits\\170.csv",
     "row_index": 77,
     "speaker": "Angelo",
@@ -327,6 +327,21 @@
     "file_path": "C:/DDON-translation/English/splits\\170.csv",
     "row_index": 98,
     "speaker": "Shelly",
+    "entry_type": "Quest Dialogue"
+  },
+  "ecb38f47de50e1e9": {
+    "id": "ecb38f47de50e1e9",
+    "source_text": "フッフッフ、まぁ聞きたまえ！\n俺は祭りってものが大好きなのだ\n先日も、ある村で伝統的な祭りに参加したんだが\nこれがまた面白い祭りでね",
+    "translated_text": "Heh heh heh, well, listen up!\nI absolutely love festivals.\nJust the other day, I took part in a traditional\nfestival in a certain village, and &#x27;twas quite an\ninteresting one, I must say.",
+    "status": "translated",
+    "translator": "translator",
+    "approver": null,
+    "created_at": "2026-07-18T02:51:52.802659",
+    "updated_at": "2026-07-18T02:51:52.804236",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\170.csv",
+    "row_index": 77,
+    "speaker": "Angelo",
     "entry_type": "Quest Dialogue"
   }
 }
