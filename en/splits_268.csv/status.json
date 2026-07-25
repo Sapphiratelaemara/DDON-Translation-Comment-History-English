@@ -2,7 +2,7 @@
   "268.csv::233": {
     "id": "268.csv::233",
     "source_text": "《ハイデル地下霊廟》へ挑むのだな\nなら貴君に深部の調査を頼めないだろうか",
-    "translated_text": "So you&amp;amp;amp;#x27;re heading to the [Hidell Catacombs,]\nare you?\nIn that case, could I ask you to\ninvestigate its deepest depths?",
+    "translated_text": "So you&amp;amp;amp;amp;#x27;re heading to the [Hidell Catacombs,]\nare you?\nIn that case, could I ask you to\ninvestigate its deepest depths?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": "Sapphira",
@@ -92,7 +92,7 @@
   "268.csv::240": {
     "id": "268.csv::240",
     "source_text": "――なんと、潜んでいた魔物を退治して\nくれたのだな。感謝する\nそしてそうか――霊廟の深部は\nさらに別の封印が施されていたというのか",
-    "translated_text": "So, you&amp;#x27;ve slain the lurking beast. I am\ngrateful. So-the depths of the crypt were\nfurther sealed by another ward, as you say?",
+    "translated_text": "So, you&amp;amp;#x27;ve slain the lurking beast. I am\ngrateful. So-the depths of the crypt were\nfurther sealed by another ward, as you say?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -167,7 +167,7 @@
   "268.csv::245": {
     "id": "268.csv::245",
     "source_text": "急ぐ必要はない、貴君の任務の合間を見て\n対応してくれれば十分だ",
-    "translated_text": "There&amp;#x27;s no need to rush; just handle this\nwhene&amp;#x27;er you have a moment\nbetwixt your other tasks.",
+    "translated_text": "There&amp;amp;#x27;s no need to rush; just handle this\nwhene&amp;amp;#x27;er you have a moment\nbetwixt your other tasks.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -182,7 +182,7 @@
   "268.csv::246": {
     "id": "268.csv::246",
     "source_text": "疫病の原因調査は、これまでに多くの\n覚者が挑んだが、未だ解決には遠い\nくれぐれも身の安全を第一にしてくれ",
-    "translated_text": "Many Arisen have sought the cause of the\npestilence, yet &amp;#x27;tis still far from resolved; I\nbeseech you, above all, to keep your\nown safety foremost.",
+    "translated_text": "Many Arisen have sought the cause of the\npestilence, yet &amp;amp;#x27;tis still far from resolved; I\nbeseech you, above all, to keep your\nown safety foremost.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -286,8 +286,8 @@
   },
   "268.csv::253": {
     "id": "268.csv::253",
-    "source_text": "&amp;amp;quot;後世に、私達の罪を遺すことを許してほしい 勇気ある者よ、もしあの男がテルに 災いをもたらした時は、どうか――&amp;amp;quot;",
-    "translated_text": "&amp;quot;Forgive our sins that be bequeathed to\nposterity. O valiant one, should that man bring\ndisaster upon Tel, I beseech—&amp;quot;",
+    "source_text": "&amp;amp;amp;quot;後世に、私達の罪を遺すことを許してほしい 勇気ある者よ、もしあの男がテルに 災いをもたらした時は、どうか――&amp;amp;amp;quot;",
+    "translated_text": "&amp;amp;quot;Forgive our sins that be bequeathed to\nposterity. O valiant one, should that man bring\ndisaster upon Tel, I beseech—&amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -302,7 +302,7 @@
   "268.csv::254": {
     "id": "268.csv::254",
     "source_text": "――面倒をかけてばかりだが、この通りだ\nどうか貴君の力でテルの闇を\n突きとめてくれ",
-    "translated_text": "It troubles me much, yet &amp;#x27;tis is how it is;\nI pray you; with your might,\ndeliver Tel from darkness.",
+    "translated_text": "It troubles me much, yet &amp;amp;#x27;tis is how it is;\nI pray you; with your might,\ndeliver Tel from darkness.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -317,7 +317,7 @@
   "268.csv::255": {
     "id": "268.csv::255",
     "source_text": "――そうか、やはり疫病は\n司祭の呪いが元になっていたのだな",
-    "translated_text": "So, it appears that the plague was indeed caused\nby the cleric&amp;#x27;s hex.",
+    "translated_text": "So, it appears that the plague was indeed caused\nby the cleric&amp;amp;#x27;s hex.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -332,7 +332,7 @@
   "268.csv::256": {
     "id": "268.csv::256",
     "source_text": "本来は、我々テルの住民こそが\n向かい合わねばならなかった問題だ",
-    "translated_text": "&amp;#x27;Tis a matter that we, the folk of Tel,\nought to have faced ourselves.",
+    "translated_text": "&amp;amp;#x27;Tis a matter that we, the folk of Tel,\nought to have faced ourselves.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -392,13 +392,13 @@
   "268.csv::260": {
     "id": "268.csv::260",
     "source_text": "貴君にばかり頼ってしまって申し訳ないが\nどうか《ハイデル霊廟　深部》の調査を\nよろしく頼む",
-    "translated_text": "I fear I must rely upon you alone, but I pray you, undertake the investigation of the &amp;amp;lt;Hidell Spirit Tomb: Depths&amp;amp;gt;.",
-    "status": "pre-translated",
-    "translator": "pretranslate",
-    "approver": null,
+    "translated_text": "It pains me to lay the burden on you anew, but I\npray you, undertake the investigation of the\ndepths of the Hidell Catacombs.",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
     "created_at": "2026-07-25T20:27:29.364961",
-    "updated_at": "2026-07-25T20:55:42.762510",
-    "approved_at": null,
+    "updated_at": "2026-07-25T22:40:22.095478",
+    "approved_at": "2026-07-25T22:40:22.095469",
     "file_path": "C:/DDON-translation/English/splits\\268.csv",
     "row_index": 260,
     "speaker": "Alfred",
@@ -407,13 +407,13 @@
   "268.csv::261": {
     "id": "268.csv::261",
     "source_text": "おそらくあの最深部にこそ\nテル村を覆う病の病巣があるはずなのだ",
-    "translated_text": "User Safety: safe",
-    "status": "pre-translated",
-    "translator": "pretranslate",
-    "approver": null,
+    "translated_text": "&amp;#x27;Tis likely that right at the very depths of that\nplace lies the font of the disease\nafflicting Tel Village.",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
     "created_at": "2026-07-25T20:27:34.511563",
-    "updated_at": "2026-07-25T20:56:25.291492",
-    "approved_at": null,
+    "updated_at": "2026-07-25T22:53:00.430515",
+    "approved_at": "2026-07-25T22:53:00.430507",
     "file_path": "C:/DDON-translation/English/splits\\268.csv",
     "row_index": 261,
     "speaker": "Alfred",
@@ -422,13 +422,13 @@
   "268.csv::262": {
     "id": "268.csv::262",
     "source_text": "――そうでした！\nワールドクエストに挑むことになった覚者さまに\nお願いしたいことがあるんです",
-    "translated_text": "――Ah, &amp;amp;#x27;tis true! There is a boon I would beg of the Master Arisen who undertakes the World Quest.",
-    "status": "pre-translated",
-    "translator": "pretranslate",
-    "approver": null,
+    "translated_text": "Ah, that&#x27;s right! There&#x27;s something I&#x27;d ask of\nyou, Master Arisen, now that you&#x27;re\nembarking on a World Quest.",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
     "created_at": "2026-07-25T20:27:40.211852",
-    "updated_at": "2026-07-25T20:56:52.553102",
-    "approved_at": null,
+    "updated_at": "2026-07-25T23:32:03.841848",
+    "approved_at": "2026-07-25T23:32:03.841840",
     "file_path": "C:/DDON-translation/English/splits\\268.csv",
     "row_index": 262,
     "speaker": "Seneka",
@@ -452,7 +452,7 @@
   "268.csv::264": {
     "id": "268.csv::264",
     "source_text": "つい最近、西の《ブリア海岸》エリアマスター\nオニールさんから、頼りになる覚者さまがいたら\n紹介してほしいって神殿に連絡があったんですよ",
-    "translated_text": "Recently, the Area Master of the western Breya Coast, Ser O&amp;amp;#x27;Neill, sent word unto the temple, requesting that, should a trustworthy Arisen be at hand, they be introduced.",
+    "translated_text": "Recently, the Area Master of the western Breya Coast, Ser O&amp;amp;amp;#x27;Neill, sent word unto the temple, requesting that, should a trustworthy Arisen be at hand, they be introduced.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -467,7 +467,7 @@
   "268.csv::265": {
     "id": "268.csv::265",
     "source_text": "覚者さま、どうでしょう？\nブリア海岸の《ローテス村》に向かい、オニールさん\nの用件を聞いてあげてもらえないでしょうか",
-    "translated_text": "Master Arisen, what say you? Pray, would you head to &amp;amp;lt;Rotes Village&amp;amp;gt; on the Breya Coast, to hear the business of Ser O&amp;amp;#x27;Neill?",
+    "translated_text": "Master Arisen, what say you? Pray, would you head to &amp;amp;amp;lt;Rotes Village&amp;amp;amp;gt; on the Breya Coast, to hear the business of Ser O&amp;amp;amp;#x27;Neill?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -497,7 +497,7 @@
   "268.csv::267": {
     "id": "268.csv::267",
     "source_text": "実は、今ローテスは厄介な連中に\n目をつけられていてね\n《ブリア宝奪団》って名乗る海賊まがいさ",
-    "translated_text": "In truth, Rotes has been marked by a troublesome lot of late — they style themselves the Breya Treasure Bandits, a pirate&amp;amp;#x27;s rabble if ever there was one.",
+    "translated_text": "In truth, Rotes has been marked by a troublesome lot of late — they style themselves the Breya Treasure Bandits, a pirate&amp;amp;amp;#x27;s rabble if ever there was one.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -511,8 +511,8 @@
   },
   "268.csv::268": {
     "id": "268.csv::268",
-    "source_text": "連中は&amp;amp;quot;ブリアの財宝&amp;amp;quot;ってのを探してるようなんだオレに知ってることを話せと脅してきたり村人に絡んだりするけど、何のことかさっぱりで――",
-    "translated_text": "\n\nThe crew be chasing Breya&amp;amp;#x27;s treasure, threatening to reveal what they know o’ the matter to O’Nill, and meddling with the villagers, though what in the matter they seek remaineth quite obscure—\n",
+    "source_text": "連中は&amp;amp;amp;quot;ブリアの財宝&amp;amp;amp;quot;ってのを探してるようなんだオレに知ってることを話せと脅してきたり村人に絡んだりするけど、何のことかさっぱりで――",
+    "translated_text": "\n\nThe crew be chasing Breya&amp;amp;amp;#x27;s treasure, threatening to reveal what they know o’ the matter to O’Nill, and meddling with the villagers, though what in the matter they seek remaineth quite obscure—\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -542,7 +542,7 @@
   "268.csv::270": {
     "id": "268.csv::270",
     "source_text": "あいつらのアジトは《隠れ浜》かもしれない\nならず者がよく出入りしているんだ\nそのうち村が襲われても不思議じゃない",
-    "translated_text": "Their lair may well be the Hidden Beach... rogues come and go there freely. &amp;amp;#x27;Twould be no surprise should the village fall under attack ere long.",
+    "translated_text": "Their lair may well be the Hidden Beach... rogues come and go there freely. &amp;amp;amp;#x27;Twould be no surprise should the village fall under attack ere long.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -572,7 +572,7 @@
   "268.csv::272": {
     "id": "268.csv::272",
     "source_text": "おっ、《隠れ浜》のならず者を追い払って\nくれたんだな\nありがとう、どうだった？",
-    "translated_text": "O&amp;amp;#x27;Neill\nQuest Dialogue\nOh, &amp;amp;#x27;tis you who drove off that ruffian from Hidden Beach. Thank you, how did it go?",
+    "translated_text": "O&amp;amp;amp;#x27;Neill\nQuest Dialogue\nOh, &amp;amp;amp;#x27;tis you who drove off that ruffian from Hidden Beach. Thank you, how did it go?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -617,7 +617,7 @@
   "268.csv::275": {
     "id": "268.csv::275",
     "source_text": "あそこは魔物や海賊がたむろしやすくて\n危険だから封鎖したんだけどさ",
-    "translated_text": "That place is frequented by monsters and pirates, and being hazardous, &amp;amp;#x27;tis sealed off.",
+    "translated_text": "That place is frequented by monsters and pirates, and being hazardous, &amp;amp;amp;#x27;tis sealed off.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -662,7 +662,7 @@
   "268.csv::278": {
     "id": "268.csv::278",
     "source_text": "もしまた連中がアジトにいたら\n逆にやつらの宝を奪っちゃってよ\nあんたの役に立つ方がきっと宝も本望さ",
-    "translated_text": "Speaker: O&amp;amp;#x27;Neill Entry type: Quest Dialogue If they still dwell at the den, then mayhap we should take their treasure in turn. It would be a truer treasure if it could be set to use for thee, forsooth.",
+    "translated_text": "Speaker: O&amp;amp;amp;#x27;Neill Entry type: Quest Dialogue If they still dwell at the den, then mayhap we should take their treasure in turn. It would be a truer treasure if it could be set to use for thee, forsooth.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -676,7 +676,7 @@
   },
   "268.csv::279": {
     "id": "268.csv::279",
-    "source_text": "でも、&amp;amp;quot;ブリアに眠る財宝&amp;amp;quot;か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね",
+    "source_text": "でも、&amp;amp;amp;quot;ブリアに眠る財宝&amp;amp;amp;quot;か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね",
     "translated_text": "But “the treasure buried in Bria,” huh?—If that’s true, it certainly piques my curiosity. Come to think of it, there used to be another village in Bria—an abandoned village called “Lufuro” on the southern beach.",
     "status": "pre-translated",
     "translator": "pretranslate",
@@ -722,7 +722,7 @@
   "268.csv::282": {
     "id": "268.csv::282",
     "source_text": "そうだ！　あんたなら、ルフローが滅んだ\n真相や財宝も見つけられるんじゃないかな？\nブリアの問題を解決しながら、ぜひ\nそのあたりのことについても調べてくれよ",
-    "translated_text": "That&amp;amp;#x27;s it! Since it&amp;amp;#x27;s you, maybe you can uncover\nthe truth behind the fall of Ruflo and find its treasure, too?\nWhile you&amp;amp;#x27;re solving Bria&amp;amp;#x27;s problems, please\nbe sure to look into those matters as well.",
+    "translated_text": "That&amp;amp;amp;#x27;s it! Since it&amp;amp;amp;#x27;s you, maybe you can uncover\nthe truth behind the fall of Ruflo and find its treasure, too?\nWhile you&amp;amp;amp;#x27;re solving Bria&amp;amp;amp;#x27;s problems, please\nbe sure to look into those matters as well.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -752,7 +752,7 @@
   "268.csv::284": {
     "id": "268.csv::284",
     "source_text": "どうか、《ローテス村》にいるブリア海岸の\nエリアマスター、オニールさんの相談に\n乗ってあげてくださいね",
-    "translated_text": "Please be sure to offer some advice\nto Mr. O&amp;amp;#x27;Neill, the Area Master for the Bria Coast,\nwho is in *Rotes Village*.",
+    "translated_text": "Please be sure to offer some advice\nto Mr. O&amp;amp;amp;#x27;Neill, the Area Master for the Bria Coast,\nwho is in *Rotes Village*.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -797,7 +797,7 @@
   "268.csv::287": {
     "id": "268.csv::287",
     "source_text": "もし誰もいないようなら、このエリアの\nボードクエストやワールドクエストを\nしつつ様子を見てみてくれないかな",
-    "translated_text": "If it looks like no one&amp;amp;#x27;s around,\ncould you please do some\nboard quests or world quests in this area\nand see how things go?",
+    "translated_text": "If it looks like no one&amp;amp;amp;#x27;s around,\ncould you please do some\nboard quests or world quests in this area\nand see how things go?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -842,7 +842,7 @@
   "268.csv::290": {
     "id": "268.csv::290",
     "source_text": "もし入れないようなら、このエリアの\nボードクエストやワールドクエストを\nしつつ様子を見てみてくれないかな",
-    "translated_text": "If you can&amp;amp;#x27;t get in, could you please\ntry doing the board quests and world quests\nin this area while you wait and see what happens?",
+    "translated_text": "If you can&amp;amp;amp;#x27;t get in, could you please\ntry doing the board quests and world quests\nin this area while you wait and see what happens?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -872,7 +872,7 @@
   "268.csv::292": {
     "id": "268.csv::292",
     "source_text": "採取アイテムや討伐対象の魔物を探すには、\nエリアマスターの《スポット情報》が便利です",
-    "translated_text": "To search for items and \ntarget monsters for suppression,\nthe Area Master&amp;amp;#x27;s &amp;amp;quot;Spot Info&amp;amp;quot; is convenient.",
+    "translated_text": "To search for items and \ntarget monsters for suppression,\nthe Area Master&amp;amp;amp;#x27;s &amp;amp;amp;quot;Spot Info&amp;amp;amp;quot; is convenient.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -887,7 +887,7 @@
   "268.csv::293": {
     "id": "268.csv::293",
     "source_text": "①《エリア情報》から《スポット情報》を選択",
-    "translated_text": "Select &amp;amp;quot;Spot Info&amp;amp;quot; from &amp;amp;quot;Area Information&amp;amp;quot;.",
+    "translated_text": "Select &amp;amp;amp;quot;Spot Info&amp;amp;amp;quot; from &amp;amp;amp;quot;Area Information&amp;amp;amp;quot;.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -902,7 +902,7 @@
   "268.csv::294": {
     "id": "268.csv::294",
     "source_text": "②スポット情報で、「入手可能アイテム」と\n　「魔物情報」を確認",
-    "translated_text": "In the spot information, \ncheck the &amp;amp;quot;Available Items&amp;amp;quot; and &amp;amp;quot;Enemies&amp;amp;quot;.",
+    "translated_text": "In the spot information, \ncheck the &amp;amp;amp;quot;Available Items&amp;amp;amp;quot; and &amp;amp;amp;quot;Enemies&amp;amp;amp;quot;.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -917,7 +917,7 @@
   "268.csv::295": {
     "id": "268.csv::295",
     "source_text": "よしきた覚者さん、宝探しだな！\nルドルフォの爺さん家で見た古い灯台守の\n日誌にあったんだよ、手掛かりが",
-    "translated_text": "Yoshikita the Sage, it&amp;amp;#x27;s a treasure hunt!\nI found a clue in the old lighthouse keeper&amp;amp;#x27;s\nlogbook that I saw at Grandpa Rudolfo&amp;amp;#x27;s house.",
+    "translated_text": "Yoshikita the Sage, it&amp;amp;amp;#x27;s a treasure hunt!\nI found a clue in the old lighthouse keeper&amp;amp;amp;#x27;s\nlogbook that I saw at Grandpa Rudolfo&amp;amp;amp;#x27;s house.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -946,7 +946,7 @@
   },
   "268.csv::297": {
     "id": "268.csv::297",
-    "source_text": "でも、洞窟は封鎖されたんだ\n――それというのも、&amp;amp;quot;海神様の宝&amp;amp;quot;を狙って洞窟を荒らしたヤツがいたせいらしいんだほら宝だよ、財宝ってこれじゃないかな！？",
+    "source_text": "でも、洞窟は封鎖されたんだ\n――それというのも、&amp;amp;amp;quot;海神様の宝&amp;amp;amp;quot;を狙って洞窟を荒らしたヤツがいたせいらしいんだほら宝だよ、財宝ってこれじゃないかな！？",
     "translated_text": "But the cave was sealed off.\n—Apparently, it was because someone ransacked the cave, trying to get their hands on the “Sea God’s Treasure.” Look, this is treasure—isn’t this what you call a treasure trove!?",
     "status": "pre-translated",
     "translator": "pretranslate",
@@ -977,7 +977,7 @@
   "268.csv::299": {
     "id": "268.csv::299",
     "source_text": "あんたならきっと財宝を見つけられるよ\nその時は山分けでよろしくな！",
-    "translated_text": "I&amp;amp;#x27;m sure you&amp;amp;#x27;ll find the treasure.\nWhen you do, let&amp;amp;#x27;s split it 50-50!",
+    "translated_text": "I&amp;amp;amp;#x27;m sure you&amp;amp;amp;#x27;ll find the treasure.\nWhen you do, let&amp;amp;amp;#x27;s split it 50-50!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -992,7 +992,7 @@
   "268.csv::300": {
     "id": "268.csv::300",
     "source_text": "――えっ！？\n宝の正体は洞窟の中にある滝だって！？",
-    "translated_text": "&amp;amp;quot;What!?&amp;amp;quot;\nSo the treasure is actually a waterfall inside the cave!?",
+    "translated_text": "&amp;amp;amp;quot;What!?&amp;amp;amp;quot;\nSo the treasure is actually a waterfall inside the cave!?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1022,7 +1022,7 @@
   "268.csv::302": {
     "id": "268.csv::302",
     "source_text": "白竜様がお倒れになってから\n海竜は急に凶暴になったらしいし――\n以前なら、そんなことは無かったんだろうけど",
-    "translated_text": "Ever since Lord White Dragon fell ill,\nit seems the Sea Dragon has suddenly become violent—\nI suppose that wouldn&amp;amp;#x27;t have happened before.",
+    "translated_text": "Ever since Lord White Dragon fell ill,\nit seems the Sea Dragon has suddenly become violent—\nI suppose that wouldn&amp;amp;amp;#x27;t have happened before.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1052,7 +1052,7 @@
   "268.csv::304": {
     "id": "268.csv::304",
     "source_text": "――まぁ、しないか\nあんたが言うんだしな",
-    "translated_text": "――Well, I guess not.\nSince you&amp;amp;#x27;re the one saying it, I suppose.",
+    "translated_text": "――Well, I guess not.\nSince you&amp;amp;amp;#x27;re the one saying it, I suppose.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1067,7 +1067,7 @@
   "268.csv::305": {
     "id": "268.csv::305",
     "source_text": "いろいろ真相がはっきりしたのは良かったよ\nそんなに綺麗な滝なら\n今度俺も見に行ってみようかな",
-    "translated_text": "It&amp;amp;#x27;s good that the truth about all that has finally come to light.\nIf the waterfall is that beautiful,\nmaybe I&amp;amp;#x27;ll go check it out myself next time.",
+    "translated_text": "It&amp;amp;amp;#x27;s good that the truth about all that has finally come to light.\nIf the waterfall is that beautiful,\nmaybe I&amp;amp;amp;#x27;ll go check it out myself next time.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1082,7 +1082,7 @@
   "268.csv::306": {
     "id": "268.csv::306",
     "source_text": "覚者さん、財宝探しよろしく頼むよ！\n《潮騒洞窟》にあるらしいからさ",
-    "translated_text": "Hey, Enlightened One, I&amp;amp;#x27;m counting on you to help me find the treasure!\nIt&amp;amp;#x27;s supposed to be in the *Shiosai Cave*, you know.",
+    "translated_text": "Hey, Enlightened One, I&amp;amp;amp;#x27;m counting on you to help me find the treasure!\nIt&amp;amp;amp;#x27;s supposed to be in the *Shiosai Cave*, you know.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1097,7 +1097,7 @@
   "268.csv::307": {
     "id": "268.csv::307",
     "source_text": "金銀財宝か、すごい美術品か――\n何なんだろうな！\n報告楽しみに待ってるよ",
-    "translated_text": "Is it gold and silver treasures, or amazing works of art?—\nI wonder what it is!\nI&amp;amp;#x27;m looking forward to your report.",
+    "translated_text": "Is it gold and silver treasures, or amazing works of art?—\nI wonder what it is!\nI&amp;amp;amp;#x27;m looking forward to your report.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
