@@ -17,7 +17,7 @@
   "175.csv::335": {
     "id": "175.csv::335",
     "source_text": "次は酒場を探すと言っていたから\n行ってみたらどうだ？",
-    "translated_text": "He said he&#x27;d seek the tavern next—why not\ngo and see?",
+    "translated_text": "He said he&amp;#x27;d seek the tavern next—why not\ngo and see?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -77,7 +77,7 @@
   "175.csv::339": {
     "id": "175.csv::339",
     "source_text": "ファビオはいつも商売のタネを探しているよね\n知り合ったころはどうかと思っていたけど\n最近は感心しているんだ",
-    "translated_text": "Fabio is e&#x27;er seeking a fresh opportunity for\ntrade. When we first became acquainted I had my\ndoubts, but of late I have come to admire it.",
+    "translated_text": "Fabio is e&amp;#x27;er seeking a fresh opportunity for\ntrade. When we first became acquainted I had my\ndoubts, but of late I have come to admire it.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -92,7 +92,7 @@
   "175.csv::340": {
     "id": "175.csv::340",
     "source_text": "ああ、いたいた！\n頼みたいことがあってあんたを探していたんだ",
-    "translated_text": "Ah, there you are!\nI&#x27;ve been searching for you; I have\na favor to ask.",
+    "translated_text": "Ah, there you are!\nI&amp;#x27;ve been searching for you; I have\na favor to ask.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -122,7 +122,7 @@
   "175.csv::342": {
     "id": "175.csv::342",
     "source_text": "しかも、半分ほど破れているな？\n好奇心がはち切れそうだろう？\nこれは調べずにはいられないよな",
-    "translated_text": "And &#x27;tis half torn to boot, no?\nCuriosity fit to burst, I&#x27;d wager.\nCan&#x27;t rightly leave it unexamined, now.",
+    "translated_text": "And &amp;#x27;tis half torn to boot, no?\nCuriosity fit to burst, I&amp;#x27;d wager.\nCan&amp;#x27;t rightly leave it unexamined, now.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -152,7 +152,7 @@
   "175.csv::344": {
     "id": "175.csv::344",
     "source_text": "知ってるだろ？　おれはヴァネッサが苦手でね",
-    "translated_text": "You know well enough — Vanessa and I don&#x27;t mix.",
+    "translated_text": "You know well enough — Vanessa and I don&amp;#x27;t mix.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -167,7 +167,7 @@
   "175.csv::345": {
     "id": "175.csv::345",
     "source_text": "おれなんかきっと嫌われている――\nそう思うと、ふたりきりはキツい",
-    "translated_text": "I&#x27;m likely despised, or so I reckon—\n&#x27;Tis harder being alone with you when I think that.",
+    "translated_text": "I&amp;#x27;m likely despised, or so I reckon—\n&amp;#x27;Tis harder being alone with you when I think that.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -182,7 +182,7 @@
   "175.csv::346": {
     "id": "175.csv::346",
     "source_text": "あんたが新人の頃はいろいろ世話したよな？\nその時の恩を、今、ちょーっと返してくれ",
-    "translated_text": "\nYou did me many a kindness when you were but a newcomer, didn&#x27;t you?\nGrant me but a small return of that favor now.\n",
+    "translated_text": "\nYou did me many a kindness when you were but a newcomer, didn&amp;#x27;t you?\nGrant me but a small return of that favor now.\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -197,7 +197,7 @@
   "175.csv::347": {
     "id": "175.csv::347",
     "source_text": "ああ――よく来たな",
-    "translated_text": "\n\nAh— you&#x27;ve come well!\n",
+    "translated_text": "\n\nAh— you&amp;#x27;ve come well!\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -212,7 +212,7 @@
   "175.csv::348": {
     "id": "175.csv::348",
     "source_text": "悪いな\nここでの仕事を片付けて、なるべく早くに\nわたしも行けるようにする",
-    "translated_text": "My apologies, Master. I&#x27;ll finish the work here and be ready to join ye anon.",
+    "translated_text": "My apologies, Master. I&amp;#x27;ll finish the work here and be ready to join ye anon.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -227,7 +227,7 @@
   "175.csv::349": {
     "id": "175.csv::349",
     "source_text": "新しい地図にあった印は、やっぱり\nこの洞窟だよな――",
-    "translated_text": "\n\n&quot;The mark upon the new chart is surely the very one. This the very cave, aye—&quot;\n",
+    "translated_text": "\n\n&amp;quot;The mark upon the new chart is surely the very one. This the very cave, aye—&amp;quot;\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -242,7 +242,7 @@
   "175.csv::350": {
     "id": "175.csv::350",
     "source_text": "これを見てくれ\nつなぎ合わせた地図から読み取ると――",
-    "translated_text": "Look at this — from the maps we&#x27;ve joined together, you can discern――",
+    "translated_text": "Look at this — from the maps we&amp;#x27;ve joined together, you can discern――",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -272,7 +272,7 @@
   "175.csv::352": {
     "id": "175.csv::352",
     "source_text": "おそらく――危険な魔物がいるのだろう\nレオはその魔物退治をひとりでやっていた\nそういう奴だ、あいつは",
-    "translated_text": "&#x27;Tis most likely a hazardous creature. Leo was dealing with that one alone. Such a fellow he is.",
+    "translated_text": "&amp;#x27;Tis most likely a hazardous creature. Leo was dealing with that one alone. Such a fellow he is.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -302,7 +302,7 @@
   "175.csv::354": {
     "id": "175.csv::354",
     "source_text": "くぅ――出た出た！",
-    "translated_text": "Ugh—&#x27;tis appearing!",
+    "translated_text": "Ugh—&amp;#x27;tis appearing!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -317,7 +317,7 @@
   "175.csv::355": {
     "id": "175.csv::355",
     "source_text": "これがレオの心残りか！？",
-    "translated_text": "Is this Leo&#x27;s last will!?",
+    "translated_text": "Is this Leo&amp;#x27;s last will!?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -332,7 +332,7 @@
   "175.csv::356": {
     "id": "175.csv::356",
     "source_text": "何か手がかりがあるかもしれない\n手分けして探そう",
-    "translated_text": "Mayhap there are clues to find.\nLet&#x27;s split up and search.",
+    "translated_text": "Mayhap there are clues to find.\nLet&amp;#x27;s split up and search.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -362,7 +362,7 @@
   "175.csv::358": {
     "id": "175.csv::358",
     "source_text": "また別の場所へのメッセージか――\nおれたちもしかして、からかわれてるのか？",
-    "translated_text": "\n\n&quot;Another message to somewhere else? — Maybe we&#x27;re getting teased?&quot;\n",
+    "translated_text": "\n\n&amp;quot;Another message to somewhere else? — Maybe we&amp;#x27;re getting teased?&amp;quot;\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -482,7 +482,7 @@
   "175.csv::366": {
     "id": "175.csv::366",
     "source_text": "どちらにせよ、テルの脅威と\nなることに変わりはない\nなるべく早めに調査結果を知らせてくれ",
-    "translated_text": "In either case, Tel&#x27;s threat remains unchanged. Inform me of your findings as soon as you can.",
+    "translated_text": "In either case, Tel&amp;#x27;s threat remains unchanged. Inform me of your findings as soon as you can.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -497,7 +497,7 @@
   "175.csv::367": {
     "id": "175.csv::367",
     "source_text": "場所はテルの西側、《刃擦れの細道》の辺りだ\nテルの新たな脅威となりかねない――\nなるべく早めに調査結果を知らせてくれ",
-    "translated_text": "\nThe place lies to the west of Tel, near the Blade-Scarred Path.\n&#x27;Tis a threat that may yet arise to menace Tel—\nLet me know your findings when you&#x27;re able.\n",
+    "translated_text": "\nThe place lies to the west of Tel, near the Blade-Scarred Path.\n&amp;#x27;Tis a threat that may yet arise to menace Tel—\nLet me know your findings when you&amp;#x27;re able.\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -512,7 +512,7 @@
   "175.csv::368": {
     "id": "175.csv::368",
     "source_text": "おお、調査だけでなく\n周辺にいた魔物の討伐も\nしてきてくれたのか！　感謝する",
-    "translated_text": "O, not only did you investigate, but you also exterminated the monsters roaming the area! I&#x27;m grateful.",
+    "translated_text": "O, not only did you investigate, but you also exterminated the monsters roaming the area! I&amp;#x27;m grateful.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -542,7 +542,7 @@
   "175.csv::370": {
     "id": "175.csv::370",
     "source_text": "恐らく今後も内部から這い出てきた魔物が\nうろつくこともあるだろう\n村人たちには、あの付近に近寄らぬよう\nあらためて伝えておこう",
-    "translated_text": "&lt;COL&gt;Monsters may well crawl out from within the earth again in the days to come.&lt;br&gt;I shall remind the villagers once more to keep away from that area.&lt;/COL&gt;",
+    "translated_text": "&amp;lt;COL&amp;gt;Monsters may well crawl out from within the earth again in the days to come.&amp;lt;br&amp;gt;I shall remind the villagers once more to keep away from that area.&amp;lt;/COL&amp;gt;",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -602,7 +602,7 @@
   "175.csv::395": {
     "id": "175.csv::395",
     "source_text": "すぐに封鎖しなおすことも考えたんだけど\n竜は知能が高いっていうだろ？\nモルトバ遺跡と井戸が繋がってるってことは\nもうバレちゃってると思うんだよ――",
-    "translated_text": "I also considered resealing it straightaway, though. The dragon is famed for its keen mind, right? The fact that the Moltova ruins are linked to the well means it&#x27;s already been uncovered, Master—",
+    "translated_text": "I also considered resealing it straightaway, though. The dragon is famed for its keen mind, right? The fact that the Moltova ruins are linked to the well means it&amp;#x27;s already been uncovered, Master—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -617,7 +617,7 @@
   "175.csv::396": {
     "id": "175.csv::396",
     "source_text": "もしもリンドブルムがこっち側に出てくるつもりなら\n通路に鍵をかけ直したところで\n焼け石に水じゃないか",
-    "translated_text": "If Lindwurm intends to come this way, after re-locking the passage, it&#x27;s water on a scorched stone, isn&#x27;t it?",
+    "translated_text": "If Lindwurm intends to come this way, after re-locking the passage, it&amp;#x27;s water on a scorched stone, isn&amp;#x27;t it?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -677,7 +677,7 @@
   "175.csv::400": {
     "id": "175.csv::400",
     "source_text": "うう、気が重いよ――\nできるだけ早く見に行ってもらえないかな――",
-    "translated_text": "\n\n&quot;Ugh, I feel so heavy... --  \nCould you come as swiftly as possible... --&quot;\n",
+    "translated_text": "\n\n&amp;quot;Ugh, I feel so heavy... --  \nCould you come as swiftly as possible... --&amp;quot;\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -722,7 +722,7 @@
   "175.csv::403": {
     "id": "175.csv::403",
     "source_text": "ふぅ、覚者さんがいてくれれば\nきっとこれからもローテスは安泰だよ！\nこれ、今回のお礼だよ\n少ないけど役に立ててくれ",
-    "translated_text": "&lt;COL&gt;Phew... with Ser Arisen by our side,\nRotes shall surely remain secure!&lt;/COL&gt;\n&lt;COL&gt;This is for your trouble.&lt;/COL&gt;\n&lt;COL&gt;It is but a small token, but may it serve you well.&lt;/COL&gt;",
+    "translated_text": "&amp;lt;COL&amp;gt;Phew... with Ser Arisen by our side,\nRotes shall surely remain secure!&amp;lt;/COL&amp;gt;\n&amp;lt;COL&amp;gt;This is for your trouble.&amp;lt;/COL&amp;gt;\n&amp;lt;COL&amp;gt;It is but a small token, but may it serve you well.&amp;lt;/COL&amp;gt;",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -751,8 +751,8 @@
   },
   "175.csv::405": {
     "id": "175.csv::405",
-    "source_text": "&quot;子攫いのメリーティア&quot;が巣食っているのは\nリンウッドからミスリウ森林深部に向かう\n一本道の途中にある《行商人の難所》よ",
-    "translated_text": "&quot;Maritia the Kidnapper&quot; makes her lair in &lt;COL&gt;Peddler&#x27;s Peril&lt;/COL&gt;, on the single path leading from Lynwood to the Mysree Grove.",
+    "source_text": "&amp;quot;子攫いのメリーティア&amp;quot;が巣食っているのは\nリンウッドからミスリウ森林深部に向かう\n一本道の途中にある《行商人の難所》よ",
+    "translated_text": "&amp;quot;Maritia the Kidnapper&amp;quot; makes her lair in &amp;lt;COL&amp;gt;Peddler&amp;#x27;s Peril&amp;lt;/COL&amp;gt;, on the single path leading from Lynwood to the Mysree Grove.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -766,7 +766,7 @@
   },
   "175.csv::406": {
     "id": "175.csv::406",
-    "source_text": "そういえば、&quot;子攫いのメリーティア&quot;のことは\nもう知っていたかしら？\n人の味を知った凶悪なナイトメアよ",
+    "source_text": "そういえば、&amp;quot;子攫いのメリーティア&amp;quot;のことは\nもう知っていたかしら？\n人の味を知った凶悪なナイトメアよ",
     "translated_text": "Come to think of it, did you already know of Maritia the Kidnapper? A Brutal Nightmare that has come to know the taste of humans.",
     "status": "pre-translated",
     "translator": "pretranslate",
@@ -782,7 +782,7 @@
   "175.csv::407": {
     "id": "175.csv::407",
     "source_text": "かつてはこのレスタニア中を飛び回り\n子供ばかりを攫っては食べていたそうよ\n騎士団に討伐されたと聞いていたのだけど\nどこかに潜んで生き延びていたのね",
-    "translated_text": "\n\n&quot;Once she was flitting through Lestania...\nShe&#x27;d snatch up and devour naught but children...\nI thought she&#x27;d been slain by the Knights...\nBut hiding and surviving somewhere?&quot;\n",
+    "translated_text": "\n\n&amp;quot;Once she was flitting through Lestania...\nShe&amp;#x27;d snatch up and devour naught but children...\nI thought she&amp;#x27;d been slain by the Knights...\nBut hiding and surviving somewhere?&amp;quot;\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -826,8 +826,8 @@
   },
   "175.csv::410": {
     "id": "175.csv::410",
-    "source_text": "&quot;子攫いのメリーティア&quot;は\n《行商人の難所》に\n巣食っているわ",
-    "translated_text": "Maritia the Kidnapper lurks in the Peddler&#x27;s Peril.",
+    "source_text": "&amp;quot;子攫いのメリーティア&amp;quot;は\n《行商人の難所》に\n巣食っているわ",
+    "translated_text": "Maritia the Kidnapper lurks in the Peddler&amp;#x27;s Peril.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -856,8 +856,8 @@
   },
   "175.csv::412": {
     "id": "175.csv::412",
-    "source_text": "&quot;子攫いのメリーティア&quot;を\n討伐してきてくれたのね！\n貴方のことだから、きっとあの魔物相手にも\n上手くやってくれると信じていたわ！",
-    "translated_text": "Conquered &#x27;Maritia the Kidnapper&#x27;, haven&#x27;t you!\nI was sure you&#x27;d manage even against that monster!",
+    "source_text": "&amp;quot;子攫いのメリーティア&amp;quot;を\n討伐してきてくれたのね！\n貴方のことだから、きっとあの魔物相手にも\n上手くやってくれると信じていたわ！",
+    "translated_text": "Conquered &amp;#x27;Maritia the Kidnapper&amp;#x27;, haven&amp;#x27;t you!\nI was sure you&amp;#x27;d manage even against that monster!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -932,7 +932,7 @@
   "175.csv::480": {
     "id": "175.csv::480",
     "source_text": "覚者さま、今が好機なのです\nどうかこの機に《霧幻のテラス》への\n封じ込めにご協力ください",
-    "translated_text": "Ser Arisen, now is an opportune moment! May you kindly join me in enacting the seal to restore &lt;Mistveil Terrace&gt;?\n",
+    "translated_text": "Ser Arisen, now is an opportune moment! May you kindly join me in enacting the seal to restore &amp;lt;Mistveil Terrace&amp;gt;?\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1007,7 +1007,7 @@
   "175.csv::485": {
     "id": "175.csv::485",
     "source_text": "――いえ、この祠に\n思念体となった竜の求めるようなものなど\nありませんから、私の気のせいでしょうね",
-    "translated_text": "\nNay, there&#x27;s naught in this shrine that an ethereal dragon would seek... It must be my fancy, I deem.\n",
+    "translated_text": "\nNay, there&amp;#x27;s naught in this shrine that an ethereal dragon would seek... It must be my fancy, I deem.\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1067,7 +1067,7 @@
   "175.csv::489": {
     "id": "175.csv::489",
     "source_text": "なぜ突然暴れ始めたのかは\nわからないんだけど――\nここからもそう遠くないし\nこちらに向かってくることがあると困るからね",
-    "translated_text": "I don&#x27;t know why it suddenly went berserk——but it&#x27;s not too far from here, and I&#x27;d rather it not come charging this way.",
+    "translated_text": "I don&amp;#x27;t know why it suddenly went berserk——but it&amp;#x27;s not too far from here, and I&amp;#x27;d rather it not come charging this way.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1082,7 +1082,7 @@
   "175.csv::490": {
     "id": "175.csv::490",
     "source_text": "エントが暴れているのは《大樹の広場》付近だよ\nあの辺りは大木が多いから\nエントと普通の木を見間違えないようにね",
-    "translated_text": "Speaker: Rondejeel  \nEntry type: Quest  \nDialogue: &quot;Rondejeel says, &#x27;The Ent is rampaging near the Great Tree Plaza. That area is abundant with trees—be cautious not to confuse an Ent with a regular tree!&#x27;&quot;  \n\n[alt: Ensure &quot;Ent&quot; remains capitalized as an in-game term. Confirm Plaza translates to &#x27;Plaza&#x27; in all contexts.]\n",
+    "translated_text": "Speaker: Rondejeel  \nEntry type: Quest  \nDialogue: &amp;quot;Rondejeel says, &amp;#x27;The Ent is rampaging near the Great Tree Plaza. That area is abundant with trees—be cautious not to confuse an Ent with a regular tree!&amp;#x27;&amp;quot;  \n\n[alt: Ensure &amp;quot;Ent&amp;quot; remains capitalized as an in-game term. Confirm Plaza translates to &amp;#x27;Plaza&amp;#x27; in all contexts.]\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1112,7 +1112,7 @@
   "175.csv::492": {
     "id": "175.csv::492",
     "source_text": "それにしても、あのエントは一体何に反応して\n暴れていたんだろう",
-    "translated_text": "\n\nStill, what provoked that Ent&#x27;s rage? Something trifling?\n",
+    "translated_text": "\n\nStill, what provoked that Ent&amp;#x27;s rage? Something trifling?\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
