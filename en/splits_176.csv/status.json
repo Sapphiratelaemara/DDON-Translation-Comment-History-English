@@ -1,0 +1,32 @@
+{
+  "176.csv::0": {
+    "id": "176.csv::0",
+    "source_text": "今までは、エントたちは大樹に敬意を払って\nあの辺りを避けているのかとも思っていたんだ\n僕の思い違いだったみたいだけどね",
+    "translated_text": "Up till now, I thought the Ents respected the elder tree enough to steer clear of that area. But... seems I was wrong, it would appear.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-07-26T22:35:51.236911",
+    "updated_at": "2026-07-26T22:35:51.238238",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\176.csv",
+    "row_index": 0,
+    "speaker": "Rondejeel",
+    "entry_type": "Quest Dialogue"
+  },
+  "176.csv::1": {
+    "id": "176.csv::1",
+    "source_text": "そうそう、これは今回のお礼だよ\nいつも僕らに力を貸してくれてありがとう",
+    "translated_text": "\nIndeed, indeed, this is my thanks for this venture. Thank you for ever lending us your strength.\n",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-07-26T22:36:31.020243",
+    "updated_at": "2026-07-26T22:36:31.022915",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\176.csv",
+    "row_index": 1,
+    "speaker": "Rondejeel",
+    "entry_type": "Quest Dialogue"
+  }
+}
