@@ -2,7 +2,7 @@
   "176.csv::0": {
     "id": "176.csv::0",
     "source_text": "今までは、エントたちは大樹に敬意を払って\nあの辺りを避けているのかとも思っていたんだ\n僕の思い違いだったみたいだけどね",
-    "translated_text": "One wondered if the Ents had held the great tree\nin reverence, keeping clear of those parts all\nthis while— Seems &#x27;twas my own\nmisjudgment, though.",
+    "translated_text": "One wondered if the Ents had held the great tree\nin reverence, keeping clear of those parts all\nthis while— Seems &amp;#x27;twas my own\nmisjudgment, though.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -17,7 +17,7 @@
   "176.csv::1": {
     "id": "176.csv::1",
     "source_text": "そうそう、これは今回のお礼だよ\nいつも僕らに力を貸してくれてありがとう",
-    "translated_text": "Right, right — this here&#x27;s your\nrecompense for this venture.\nThank you for always lending us your might.",
+    "translated_text": "Right, right — this here&amp;#x27;s your\nrecompense for this venture.\nThank you for always lending us your might.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
