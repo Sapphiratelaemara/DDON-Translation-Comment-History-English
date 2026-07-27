@@ -1,0 +1,32 @@
+{
+  "177.csv::0": {
+    "id": "177.csv::0",
+    "source_text": "それに、僕には村を守るという役目もあるから――\n覚者である君が討伐に向かってくれるなら\nこんなに頼もしいことはないよ",
+    "translated_text": "Besides, I&#x27;ve a duty to protect the village as well—\nIf you, an Arisen, would undertake the subjugation...\n&#x27;Tis more heartening than aught.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-07-27T07:01:08.912018",
+    "updated_at": "2026-07-27T07:01:08.914332",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\177.csv",
+    "row_index": 0,
+    "speaker": "Thorin",
+    "entry_type": "Quest Dialogue"
+  },
+  "177.csv::1": {
+    "id": "177.csv::1",
+    "source_text": "今、ヤツは《&lt;SPOT 944&gt;》に\nいるみたいだけど――\n何せ羽根のある相手だ\nいつどこへ飛び立つかわからない状態さ",
+    "translated_text": "It seems the quarry is at &lt;SPOT 944&gt; for now— but &#x27;tis a winged foe, after all. No telling when or where it might take flight.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-07-27T07:01:12.020849",
+    "updated_at": "2026-07-27T07:01:12.023803",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\177.csv",
+    "row_index": 1,
+    "speaker": "Thorin",
+    "entry_type": "Quest Dialogue"
+  }
+}
