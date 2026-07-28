@@ -1495,7 +1495,9 @@
     "TEST_TAG_123": 22,
     "SPOT 934": 22,
     "SPOT 935": 15,
-    "SPOT 930": 16
+    "SPOT 930": 16,
+    "SPOT 919": 12,
+    "SPOT 921": 15
   },
   "substitution_rules": []
 }
