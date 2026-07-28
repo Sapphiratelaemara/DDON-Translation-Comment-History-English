@@ -1492,7 +1492,9 @@
     "KC SKILL_NORMAL2": 2,
     "KC CLIMB JOLT": 2,
     "TEST_TAG": 12,
-    "TEST_TAG_123": 22
+    "TEST_TAG_123": 22,
+    "SPOT 934": 22,
+    "SPOT 935": 15
   },
   "substitution_rules": []
 }
