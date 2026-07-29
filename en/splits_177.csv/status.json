@@ -2,7 +2,7 @@
   "177.csv::0": {
     "id": "177.csv::0",
     "source_text": "それに、僕には村を守るという役目もあるから――\n覚者である君が討伐に向かってくれるなら\nこんなに頼もしいことはないよ",
-    "translated_text": "Besides, I&#x27;ve a duty to protect the village— so if you, the Arisen, would undertake the extermination... I daresay nothing could be more heartening.",
+    "translated_text": "Besides, I&amp;#x27;ve a duty to protect the village— so if you, the Arisen, would undertake the extermination... I daresay nothing could be more heartening.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -16,8 +16,8 @@
   },
   "177.csv::1": {
     "id": "177.csv::1",
-    "source_text": "今、ヤツは《&amp;lt;SPOT 944&amp;gt;》に\nいるみたいだけど――\n何せ羽根のある相手だ\nいつどこへ飛び立つかわからない状態さ",
-    "translated_text": "He seems to be at &lt;SPOT 944&gt; for the moment, though... &#x27;tis a feathered foe, after all. I daresay there&#x27;s no knowing when or where it might take flight.",
+    "source_text": "今、ヤツは《&amp;amp;lt;SPOT 944&amp;amp;gt;》に\nいるみたいだけど――\n何せ羽根のある相手だ\nいつどこへ飛び立つかわからない状態さ",
+    "translated_text": "He seems to be at &amp;lt;SPOT 944&amp;gt; for the moment, though... &amp;#x27;tis a feathered foe, after all. I daresay there&amp;#x27;s no knowing when or where it might take flight.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -32,7 +32,7 @@
   "177.csv::2": {
     "id": "177.csv::2",
     "source_text": "それに、クレーターを作るような\n強力な力を持った魔物だから\n十分に注意して向かってくれよ",
-    "translated_text": "Besides, &#x27;tis a monster with power to carve craters — so be wary when you go.",
+    "translated_text": "Besides, &amp;#x27;tis a monster with power to carve craters — so be wary when you go.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -77,7 +77,7 @@
   "177.csv::5": {
     "id": "177.csv::5",
     "source_text": "何しろ、侵食胞子をまき散らしながら\n飛び回る元凶が討伐されたということは\n今のように恐ろしい速さで進む土壌の侵食に\n悩まされることが無くなるのですから",
-    "translated_text": "Indeed, now that the very source which scattered infected spores in its flight has been exterminated, we shall no longer be plagued by the soil&amp;#x27;s infection advancing at so fearful a speed as this.",
+    "translated_text": "Indeed, now that the very source which scattered infected spores in its flight has been exterminated, we shall no longer be plagued by the soil&amp;amp;#x27;s infection advancing at so fearful a speed as this.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -92,7 +92,7 @@
   "177.csv::6": {
     "id": "177.csv::6",
     "source_text": "きっと、討伐されたグリフィンも\n蝕まれた体からようやく解き放たれて\nモルフォールの森や空に慰められていることでしょう",
-    "translated_text": "&amp;#x27;Tis certain the vanquished Griffin has at last been freed from its corrupted body, and now finds solace in Morfaul&amp;#x27;s forests and skies.",
+    "translated_text": "&amp;amp;#x27;Tis certain the vanquished Griffin has at last been freed from its corrupted body, and now finds solace in Morfaul&amp;amp;#x27;s forests and skies.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
