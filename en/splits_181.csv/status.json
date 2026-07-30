@@ -2,7 +2,7 @@
   "181.csv::190": {
     "id": "181.csv::190",
     "source_text": "今、解放軍としては\n砦奪還への絶好の――\nそして最後の機運が巡ってきている、と\n俺は思っている",
-    "translated_text": "Now, as for the Liberation Army... &amp;amp;#x27;tis my belief the\nperfect — and final — opportunity to retake the\nfortress has come upon us.",
+    "translated_text": "Now, as for the Liberation Army... &amp;amp;amp;#x27;tis my belief the\nperfect — and final — opportunity to retake the\nfortress has come upon us.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -32,7 +32,7 @@
   "181.csv::192": {
     "id": "181.csv::192",
     "source_text": "後を追わせた者すら、なかなか戻らん\n何事かが起こっていることは明白だ",
-    "translated_text": "E&amp;amp;#x27;en those I sent in pursuit have yet to return.\n&amp;amp;#x27;Tis evident aught has come to pass.",
+    "translated_text": "E&amp;amp;amp;#x27;en those I sent in pursuit have yet to return.\n&amp;amp;amp;#x27;Tis evident aught has come to pass.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -47,7 +47,7 @@
   "181.csv::193": {
     "id": "181.csv::193",
     "source_text": "これ以上、調査に向かわせられる者もいない\n一から任せてすまないが\n行方不明になった戦士たちの情報を集め\n――叶うことならば、救出してもらえないか",
-    "translated_text": "We&amp;#x27;ve no one left to dispatch\non the investigation.\nForgive me for entrusting you with this, but\ngather what tidings you can on the missing\nsoldiers—and if &amp;#x27;tis possible, rescue them.",
+    "translated_text": "We&amp;amp;#x27;ve no one left to dispatch\non the investigation.\nForgive me for entrusting you with this, but\ngather what tidings you can on the missing\nsoldiers—and if &amp;amp;#x27;tis possible, rescue them.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -62,7 +62,7 @@
   "181.csv::194": {
     "id": "181.csv::194",
     "source_text": "一から任せてすまないが\n行方不明になった戦士たちの情報を集め\n――叶うことならば、救出してもらえないか",
-    "translated_text": "Forgive me for entrusting you with this, but\ngather what tidings you can on the missing\nsoldiers—and if &amp;#x27;tis possible, rescue them.",
+    "translated_text": "Forgive me for entrusting you with this, but\ngather what tidings you can on the missing\nsoldiers—and if &amp;amp;#x27;tis possible, rescue them.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -92,7 +92,7 @@
   "181.csv::196": {
     "id": "181.csv::196",
     "source_text": "ああ、解放軍の戦士の方が\n行方知れずになったというお話ですか――",
-    "translated_text": "Ah, so &amp;#x27;tis of Liberation Army\nsoldiers gone missing—",
+    "translated_text": "Ah, so &amp;amp;#x27;tis of Liberation Army\nsoldiers gone missing—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -121,7 +121,7 @@
   },
   "181.csv::198": {
     "id": "181.csv::198",
-    "source_text": "&amp;amp;amp;quot;ゴブリンの群れを見かけた場所&amp;amp;amp;quot;と\n&amp;amp;amp;quot;オークどもの声が聞こえてきた場所&amp;amp;amp;quot;を\nお伝えしたら、二手に分かれて発たれましたよ\n覚者様も後を追われるので？",
+    "source_text": "&amp;amp;amp;amp;quot;ゴブリンの群れを見かけた場所&amp;amp;amp;amp;quot;と\n&amp;amp;amp;amp;quot;オークどもの声が聞こえてきた場所&amp;amp;amp;amp;quot;を\nお伝えしたら、二手に分かれて発たれましたよ\n覚者様も後を追われるので？",
     "translated_text": "When I told them where a goblin horde was sighted\nand where orc voices were heard, they split in two\nand departed. Will Ser Arisen\nfollow after them as well?",
     "status": "approved",
     "translator": "translator",
@@ -302,7 +302,7 @@
   "181.csv::210": {
     "id": "181.csv::210",
     "source_text": "えっ――覚者さま！？\n助けにきてくださるなんて――！",
-    "translated_text": "Eh— Master Arisen!? To think you&amp;#x27;d come to help—!",
+    "translated_text": "Eh— Master Arisen!? To think you&amp;amp;#x27;d come to help—!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -332,7 +332,7 @@
   "181.csv::212": {
     "id": "181.csv::212",
     "source_text": "物資調達係は敵陣の処刑場に\n連行されたようだ\n覚者殿、彼の救出に向かわねば――！",
-    "translated_text": "The supply officer&amp;#x27;s been taken to the enemy\nexecution grounds, it seems.\nMaster Arisen, we must away to his rescue—!",
+    "translated_text": "The supply officer&amp;amp;#x27;s been taken to the enemy\nexecution grounds, it seems.\nMaster Arisen, we must away to his rescue—!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -361,8 +361,8 @@
   },
   "181.csv::214": {
     "id": "181.csv::214",
-    "source_text": "こうなれば――\n&amp;amp;amp;lt;NPC 593&amp;amp;amp;gt;はエイリーンに護衛させ逃がし\n我々がその足止めをする――それが最善かと\nご協力いただけますな、覚者殿？",
-    "translated_text": "If it&amp;#x27;s come to this— Eileen gets &amp;lt;NPC 593&amp;gt;\nclear, we hold the line.\nThat&amp;#x27;s our best play.\nYou with us, Master Arisen?",
+    "source_text": "こうなれば――\n&amp;amp;amp;amp;lt;NPC 593&amp;amp;amp;amp;gt;はエイリーンに護衛させ逃がし\n我々がその足止めをする――それが最善かと\nご協力いただけますな、覚者殿？",
+    "translated_text": "If it&amp;amp;#x27;s come to this— Eileen gets &amp;amp;lt;NPC 593&amp;amp;gt;\nclear, we hold the line.\nThat&amp;amp;#x27;s our best play.\nYou with us, Master Arisen?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -392,7 +392,7 @@
   "181.csv::216": {
     "id": "181.csv::216",
     "source_text": "ふぅ――\nひとまず、危機は脱したようです\n救援に来てくださったこと、皆を代表し\n心からの礼を言わせていただきたい",
-    "translated_text": "Phew— For now, the danger seems past.\nYou came to our succor — on behalf of everyone —\nI&amp;#x27;d proffer my heartfelt thanks.",
+    "translated_text": "Phew— For now, the danger seems past.\nYou came to our succor — on behalf of everyone —\nI&amp;amp;#x27;d proffer my heartfelt thanks.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -407,7 +407,7 @@
   "181.csv::217": {
     "id": "181.csv::217",
     "source_text": "私は歳のせいか、少し疲労が――\n少しこの場で息を整えてから\n帰還することにします\n覚者殿はどうぞ先に戻っていてくだされ",
-    "translated_text": "Maybe it&amp;#x27;s my age... I&amp;#x27;m a touch winded—\nLet me catch my breath here a moment,\nthen I&amp;#x27;ll head back.\nMaster Arisen, you go on ahead!",
+    "translated_text": "Maybe it&amp;amp;#x27;s my age... I&amp;amp;#x27;m a touch winded—\nLet me catch my breath here a moment,\nthen I&amp;amp;#x27;ll head back.\nMaster Arisen, you go on ahead!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -422,7 +422,7 @@
   "181.csv::218": {
     "id": "181.csv::218",
     "source_text": "ええ、いつでもお話ししますよ",
-    "translated_text": "Aye, I&amp;#x27;d fain speak any time.",
+    "translated_text": "Aye, I&amp;amp;#x27;d fain speak any time.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -436,8 +436,8 @@
   },
   "181.csv::339": {
     "id": "181.csv::339",
-    "source_text": "ロスギルの&amp;amp;amp;lt;NPC 2900&amp;amp;amp;gt;より伝令がきている\n敵陣への戦闘準備が完了したとの事だ\nさっそくだが――\nロスギルに向かい仲間と合流してくれ",
-    "translated_text": "A messenger&amp;#x27;s come from &amp;lt;NPC 2900&amp;gt; in Rothgill.\nWord has it combat preparations for the enemy\ncamp have reached completion.\nRight away, then— \nHead to Rothgill and link up with your comrades.",
+    "source_text": "ロスギルの&amp;amp;amp;amp;lt;NPC 2900&amp;amp;amp;amp;gt;より伝令がきている\n敵陣への戦闘準備が完了したとの事だ\nさっそくだが――\nロスギルに向かい仲間と合流してくれ",
+    "translated_text": "A messenger&amp;amp;#x27;s come from &amp;amp;lt;NPC 2900&amp;amp;gt; in Rothgill.\nWord has it combat preparations for the enemy\ncamp have reached completion.\nRight away, then— \nHead to Rothgill and link up with your comrades.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -452,7 +452,7 @@
   "181.csv::340": {
     "id": "181.csv::340",
     "source_text": "ロスギルにおいて\n敵陣への戦闘準備が完了したとの事だ\nロスギルに向かい仲間と合流してくれ",
-    "translated_text": "&amp;#x27;Tis reported from Rothgill that battle\npreparations against the enemy camp are complete.\nMake for Rothgill and join your comrades thence.",
+    "translated_text": "&amp;amp;#x27;Tis reported from Rothgill that battle\npreparations against the enemy camp are complete.\nMake for Rothgill and join your comrades thence.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -481,8 +481,8 @@
   },
   "181.csv::342": {
     "id": "181.csv::342",
-    "source_text": "こちらの戦力については&amp;amp;amp;lt;NPC 2904&amp;amp;amp;gt;と\n確認して欲しい",
-    "translated_text": "As for our forces — confirm the\ndetails with &amp;lt;NPC 2904&amp;gt;.",
+    "source_text": "こちらの戦力については&amp;amp;amp;amp;lt;NPC 2904&amp;amp;amp;amp;gt;と\n確認して欲しい",
+    "translated_text": "As for our forces — confirm the\ndetails with &amp;amp;lt;NPC 2904&amp;amp;gt;.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -497,7 +497,7 @@
   "181.csv::343": {
     "id": "181.csv::343",
     "source_text": "いよいよ攻撃がはじまりますね――\n今回、敵陣を少数精鋭で奇襲するとのことですが\nもうお一人ほど、援軍要請を出そうかと\n考えているのです",
-    "translated_text": "The attack begins at last— This time, we strike\nthe enemy camp with a small elite force, but...\nI&amp;#x27;ve a mind to dispatch word for\none more reinforcement.",
+    "translated_text": "The attack begins at last— This time, we strike\nthe enemy camp with a small elite force, but...\nI&amp;amp;#x27;ve a mind to dispatch word for\none more reinforcement.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -512,7 +512,7 @@
   "181.csv::344": {
     "id": "181.csv::344",
     "source_text": "何名かに打診させていただいたところ\n解放軍総大将であるメイロワ将軍か\n覚者様の隊にいらっしゃるリズ様が\n参加できそうだということです",
-    "translated_text": "Upon inquiring with several candidates... it\nappears either General Meirova, Supreme Commander\nof the Liberation Army, or Lise of Ser Arisen&amp;#x27;s\ncompany can take part.",
+    "translated_text": "Upon inquiring with several candidates... it\nappears either General Meirova, Supreme Commander\nof the Liberation Army, or Lise of Ser Arisen&amp;amp;#x27;s\ncompany can take part.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -572,7 +572,7 @@
   "181.csv::349": {
     "id": "181.csv::349",
     "source_text": "では――メイロワ将軍に\n要請を出しておきますので、戦地に向かってください\n敵軍は強力との報告を受けております\n奇襲が功を奏するよう、十分にご注意を――",
-    "translated_text": "Then — I&#x27;ll dispatch word to General Meirova, so\nmake for the battlefield. Reports tell us the\nenemy host is formidable. See the ambush bears\nfruit — take good heed.",
+    "translated_text": "Then — I&amp;#x27;ll dispatch word to General Meirova, so\nmake for the battlefield. Reports tell us the\nenemy host is formidable. See the ambush bears\nfruit — take good heed.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -587,7 +587,7 @@
   "181.csv::350": {
     "id": "181.csv::350",
     "source_text": "では――リズ様に\n要請を出しておきますので、戦地に向かってください\n敵軍は強力との報告を受けております\n奇襲が功を奏するよう、十分にご注意を――",
-    "translated_text": "Then — I&amp;#x27;ll dispatch word to Ser Lise, so make\nfor the battlefield.\nWe&amp;#x27;ve word the enemy host is formidable.\nTake great care the surprise\nattack finds its mark —",
+    "translated_text": "Then — I&amp;amp;#x27;ll dispatch word to Ser Lise, so make\nfor the battlefield.\nWe&amp;amp;#x27;ve word the enemy host is formidable.\nTake great care the surprise\nattack finds its mark —",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -617,7 +617,7 @@
   "181.csv::352": {
     "id": "181.csv::352",
     "source_text": "援軍要請を出しておきますので\n覚者様は戦地に向かってください\n奇襲が功を奏するよう、十分にご注意を――",
-    "translated_text": "I&amp;#x27;ll dispatch word for reinforcements, so make for\nthe battlefield, Ser Arisen. Take care\nthe ambush succeeds—",
+    "translated_text": "I&amp;amp;#x27;ll dispatch word for reinforcements, so make for\nthe battlefield, Ser Arisen. Take care\nthe ambush succeeds—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -632,7 +632,7 @@
   "181.csv::353": {
     "id": "181.csv::353",
     "source_text": "到着したぞ！　この剣、魔軍に存分に味わわせてやろう！",
-    "translated_text": "Ha! I&amp;#x27;ve arrived! I&amp;#x27;ll let the\nDemon Army have their\nfill of this blade!",
+    "translated_text": "Ha! I&amp;amp;#x27;ve arrived! I&amp;amp;#x27;ll let the\nDemon Army have their\nfill of this blade!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -647,7 +647,7 @@
   "181.csv::354": {
     "id": "181.csv::354",
     "source_text": "お待たせ！　ガンガン行くからね！",
-    "translated_text": "Sorry for the wait! I&amp;#x27;m going all out!",
+    "translated_text": "Sorry for the wait! I&amp;amp;#x27;m going all out!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -662,7 +662,7 @@
   "181.csv::355": {
     "id": "181.csv::355",
     "source_text": "すでに始めておるな、腕が鳴るわ",
-    "translated_text": "Already begun, is it? These aged arms\nare itchin&amp;#x27; for a fray!",
+    "translated_text": "Already begun, is it? These aged arms\nare itchin&amp;amp;#x27; for a fray!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -677,7 +677,7 @@
   "181.csv::356": {
     "id": "181.csv::356",
     "source_text": "ん？　敵はビビってる？　ほーらやっちゃうよ！",
-    "translated_text": "Hm? The enemy&amp;#x27;s scared? Here— watch this one!",
+    "translated_text": "Hm? The enemy&amp;amp;#x27;s scared? Here— watch this one!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -707,7 +707,7 @@
   "181.csv::358": {
     "id": "181.csv::358",
     "source_text": "戦いが始まってるってこと――ようやくばれたようね",
-    "translated_text": "Battle&#x27;s begun... finally come to\nlight, it seems!",
+    "translated_text": "Battle&amp;#x27;s begun... finally come to\nlight, it seems!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -737,7 +737,7 @@
   "181.csv::360": {
     "id": "181.csv::360",
     "source_text": "敵がもっと来る前に――先に進もう、隊長！",
-    "translated_text": "Ere more enemies arrive—let&#x27;s\npress on, Captain!",
+    "translated_text": "Ere more enemies arrive—let&amp;#x27;s\npress on, Captain!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -752,7 +752,7 @@
   "181.csv::361": {
     "id": "181.csv::361",
     "source_text": "最奥には、敵の本隊がいるはずだ！　行くぞ！",
-    "translated_text": "The enemy&#x27;s main force lies in the\ndeepest reaches! Onward!",
+    "translated_text": "The enemy&amp;#x27;s main force lies in the\ndeepest reaches! Onward!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -767,7 +767,7 @@
   "181.csv::362": {
     "id": "181.csv::362",
     "source_text": "いよいよ敵の本隊ね――気合入れていっちゃおう！",
-    "translated_text": "So, here comes the enemy&#x27;s main\nforce—let&#x27;s give it our all!",
+    "translated_text": "So, here comes the enemy&amp;#x27;s main\nforce—let&amp;#x27;s give it our all!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -797,7 +797,7 @@
   "181.csv::364": {
     "id": "181.csv::364",
     "source_text": "はい終わりっと！　まあ、こんなもんだよね",
-    "translated_text": "Alright, done!  Well, that&#x27;s about\nit, wouldn&#x27;t you say?",
+    "translated_text": "Alright, done!  Well, that&amp;#x27;s about\nit, wouldn&amp;#x27;t you say?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -812,7 +812,7 @@
   "181.csv::365": {
     "id": "181.csv::365",
     "source_text": "魔軍による襲撃計画、阻止できて何よりだ！\nこれで敵もしばらくは\n大人しくしていることだろう",
-    "translated_text": "&#x27;Tis well we stopped the Demon\nArmy&#x27;s raid stratagem!\nNow the enemy should keep quiet for a spell.",
+    "translated_text": "&amp;#x27;Tis well we stopped the Demon\nArmy&amp;#x27;s raid stratagem!\nNow the enemy should keep quiet for a spell.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -827,7 +827,7 @@
   "181.csv::366": {
     "id": "181.csv::366",
     "source_text": "襲撃計画を立てた敵の将は一体誰なのか？\nこの辺りは、今後も探ってゆく必要が\nありそうだな",
-    "translated_text": "Just who is the enemy commander\nwho plotted the raid?\n&#x27;Tis plain we&#x27;ll need to investigate\nthis matter further.",
+    "translated_text": "Just who is the enemy commander\nwho plotted the raid?\n&amp;#x27;Tis plain we&amp;#x27;ll need to investigate\nthis matter further.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -842,7 +842,7 @@
   "181.csv::367": {
     "id": "181.csv::367",
     "source_text": "おお、無事に戻られましたな\nしばらくは蹴散らされた敵の残党が\nうろつきましょうが、そこは解放軍や\nここロスギルの兵士でどうにかできるでしょう",
-    "translated_text": "Ah, you&#x27;ve returned safely.\nFor a time, the routed enemy remnants will be\nprowling about, but the Liberation Army and the\nsoldiers here in Rothgill can\nmanage that well enow.",
+    "translated_text": "Ah, you&amp;#x27;ve returned safely.\nFor a time, the routed enemy remnants will be\nprowling about, but the Liberation Army and the\nsoldiers here in Rothgill can\nmanage that well enow.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -872,7 +872,7 @@
   "181.csv::369": {
     "id": "181.csv::369",
     "source_text": "後は残党の始末か――\n我らロスギルの兵が任されよう",
-    "translated_text": "&#x27;Tis but the remnants&#x27; disposal that remains—\nWe soldiers of Rothgill shall see to it.",
+    "translated_text": "&amp;#x27;Tis but the remnants&amp;#x27; disposal that remains—\nWe soldiers of Rothgill shall see to it.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -887,7 +887,7 @@
   "181.csv::370": {
     "id": "181.csv::370",
     "source_text": "作戦が成功してなにより\nこれでしばらくは砦も安泰だろう",
-    "translated_text": "&#x27;Tis a relief the stratagem succeeded — the fort\nshould hold safe for a good spell now.",
+    "translated_text": "&amp;#x27;Tis a relief the stratagem succeeded — the fort\nshould hold safe for a good spell now.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -902,7 +902,7 @@
   "181.csv::371": {
     "id": "181.csv::371",
     "source_text": "うん、やったね！\nさっすが隊長！　さっすがわたし！\n盛大に褒めてくれてもいいんだよ\nほらほら、ここにはエリオットもいないしさ",
-    "translated_text": "Yeah, we did it!\nThat&#x27;s our Captain! That&#x27;s me for you!\nYou could stand to praise me a bit more, you know!\nCome on, look— Elliot&#x27;s not even here, so...",
+    "translated_text": "Yeah, we did it!\nThat&amp;#x27;s our Captain! That&amp;#x27;s me for you!\nYou could stand to praise me a bit more, you know!\nCome on, look— Elliot&amp;#x27;s not even here, so...",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -917,7 +917,7 @@
   "181.csv::219": {
     "id": "181.csv::219",
     "source_text": "ああ？　救援要請の手配を俺が――？\nあんたが行くってのか？",
-    "translated_text": "Hah? Me arranging the Rescue Request...? You&#x27;re saying you&#x27;ll go?",
+    "translated_text": "Hah? Me arranging the Rescue Request...? You&amp;#x27;re saying you&amp;#x27;ll go?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -932,7 +932,7 @@
   "181.csv::220": {
     "id": "181.csv::220",
     "source_text": "――まぁ、何かあっちゃ寝覚めが悪い\nで、どういう奴らを集めればいいんだ？\nあんたが戦いやすい方でいいけどよ",
-    "translated_text": "Well. If aught goes wrong, it&#x27;ll leave a sour taste.\nSo — what sort you need me to round up?\nLong as it&#x27;s easy for you to fight, I don&#x27;t mind.",
+    "translated_text": "Well. If aught goes wrong, it&amp;#x27;ll leave a sour taste.\nSo — what sort you need me to round up?\nLong as it&amp;#x27;s easy for you to fight, I don&amp;#x27;t mind.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -977,7 +977,7 @@
   "181.csv::224": {
     "id": "181.csv::224",
     "source_text": "なるほどな\nすぐに近距離型の友軍を\n編成して向かわせる\nあんたもさっさと現地に向かえよ",
-    "translated_text": "I see. I&#x27;ll organize a short-distance unit and send them out. You head to the site, too — and make it quick.",
+    "translated_text": "I see. I&amp;#x27;ll organize a short-distance unit and send them out. You head to the site, too — and make it quick.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -992,7 +992,7 @@
   "181.csv::225": {
     "id": "181.csv::225",
     "source_text": "なるほどな\nすぐに遠距離型の友軍を\n編成して向かわせる\nあんたもさっさと現地に向かえよ",
-    "translated_text": "Indeed. I&#x27;ll organize far-range allies and send them at once. You head to the site yourself.",
+    "translated_text": "Indeed. I&amp;#x27;ll organize far-range allies and send them at once. You head to the site yourself.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1022,7 +1022,7 @@
   "181.csv::227": {
     "id": "181.csv::227",
     "source_text": "すぐに遠距離型の友軍を\n編成して向かわせる\nあんたもさっさと現地に向かえよ",
-    "translated_text": "I&#x27;ll organize the ranged allies and send them out. You head to the site too, pronto.",
+    "translated_text": "I&amp;#x27;ll organize the ranged allies and send them out. You head to the site too, pronto.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1037,7 +1037,7 @@
   "181.csv::228": {
     "id": "181.csv::228",
     "source_text": "おおおおお、さすがは覚者殿！\n無事、敵軍を討伐して戻られましたな\nこれで敵軍の戦意を削ぐことができた",
-    "translated_text": "Ohhh, truly Master Arisen!\nYou&#x27;ve returned safe after vanquishing the enemy host!\nNow we&#x27;ve broken their fighting spirit!",
+    "translated_text": "Ohhh, truly Master Arisen!\nYou&amp;#x27;ve returned safe after vanquishing the enemy host!\nNow we&amp;#x27;ve broken their fighting spirit!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1052,7 +1052,7 @@
   "181.csv::229": {
     "id": "181.csv::229",
     "source_text": "またヤツらが怪しげな動きをしていた時は\n今回のように蹴散らしていただけると\n我々としても助かりますな",
-    "translated_text": "If they go actin&#x27; suspicious again... well, you scatter &#x27;em like today, and &#x27;twill help us out a grand deal!",
+    "translated_text": "If they go actin&amp;#x27; suspicious again... well, you scatter &amp;#x27;em like today, and &amp;#x27;twill help us out a grand deal!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1067,7 +1067,7 @@
   "181.csv::230": {
     "id": "181.csv::230",
     "source_text": "おお、これは覚者殿\nこの度敵軍の姿を捉えましてな\nしかし、このままでは戦力的に不利ゆえ\n戻ってきた次第",
-    "translated_text": "Oh, Master Arisen! We spotted the enemy forces... but we&#x27;re outmatched as things stand. That&#x27;s why I came back!",
+    "translated_text": "Oh, Master Arisen! We spotted the enemy forces... but we&amp;#x27;re outmatched as things stand. That&amp;#x27;s why I came back!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1082,7 +1082,7 @@
   "181.csv::231": {
     "id": "181.csv::231",
     "source_text": "覚者殿、友軍を率いて\n敵の討伐に出てはいただけないだろうか\nなに、手配はオルハンがしてくれるはず",
-    "translated_text": "Master Arisen, won&#x27;t you lead our allies forth to vanquish the enemy? Orhan&#x27;ll see to the arrangements!",
+    "translated_text": "Master Arisen, won&amp;#x27;t you lead our allies forth to vanquish the enemy? Orhan&amp;#x27;ll see to the arrangements!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1097,7 +1097,7 @@
   "181.csv::232": {
     "id": "181.csv::232",
     "source_text": "覚者殿、友軍を率いて\n敵の討伐に出てはいただけないだろうか\nなに、手配はオルハンがしてくれるはず",
-    "translated_text": "Master Arisen, won&#x27;t you lead our allies forth to vanquish the enemy? Orhan&#x27;ll see to the arrangements!",
+    "translated_text": "Master Arisen, won&amp;#x27;t you lead our allies forth to vanquish the enemy? Orhan&amp;#x27;ll see to the arrangements!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1112,7 +1112,7 @@
   "181.csv::233": {
     "id": "181.csv::233",
     "source_text": "この場の敵を食い止める大役は\n私が引き受けよう！\nなに、ご安心めされよ\n鍛錬は欠かしたことがない",
-    "translated_text": "I&#x27;ll undertake the task of holding the enemies here at bay! Now, set your mind at ease — I&#x27;ve never once neglected my training!",
+    "translated_text": "I&amp;#x27;ll undertake the task of holding the enemies here at bay! Now, set your mind at ease — I&amp;#x27;ve never once neglected my training!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1127,7 +1127,7 @@
   "181.csv::234": {
     "id": "181.csv::234",
     "source_text": "あんた、優柔不断な性格か？\nまぁいい――気がすむまで考えてくれ",
-    "translated_text": "Are you the indecisive type?\nOh well—go ahead and think it over until you&#x27;re satisfied.",
+    "translated_text": "Are you the indecisive type?\nOh well—go ahead and think it over until you&amp;#x27;re satisfied.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1142,7 +1142,7 @@
   "181.csv::235": {
     "id": "181.csv::235",
     "source_text": "これはレスタニアの覚者様――\nえ？　今の私の任務についてですか？",
-    "translated_text": "This is Lestania&#x27;s Arisen—\nEh? About my current mission, is it?",
+    "translated_text": "This is Lestania&amp;#x27;s Arisen—\nEh? About my current mission, is it?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1157,7 +1157,7 @@
   "181.csv::236": {
     "id": "181.csv::236",
     "source_text": "現在、エンデール殿の指示で\n各スポットの情報を集めるための\n調査を担当しております",
-    "translated_text": "Master Endale ordered the survey of each Spot. Gathering intelligence, &#x27;tis my task.",
+    "translated_text": "Master Endale ordered the survey of each Spot. Gathering intelligence, &amp;#x27;tis my task.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1172,7 +1172,7 @@
   "181.csv::237": {
     "id": "181.csv::237",
     "source_text": "さらに、魔軍との戦線拡大にともなう\n物資の調達も頼まれていましてね\n正直にいうと、手一杯ですよ\nやれるだけはやってみますが――",
-    "translated_text": "The Demon Army&#x27;s front expands.\nSupply procurement&#x27;s been added to my duties.\nHonestly, &#x27;tis more than I can manage.\nI&#x27;ll do what I can, but—",
+    "translated_text": "The Demon Army&amp;#x27;s front expands.\nSupply procurement&amp;#x27;s been added to my duties.\nHonestly, &amp;#x27;tis more than I can manage.\nI&amp;#x27;ll do what I can, but—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1187,7 +1187,7 @@
   "181.csv::238": {
     "id": "181.csv::238",
     "source_text": "――もしや、私を手伝ってくださるので？\nなんとありがたいことでしょう！",
-    "translated_text": "Could it be... you&#x27;d help me? &#x27;Tis a rare kindness!",
+    "translated_text": "Could it be... you&amp;#x27;d help me? &amp;#x27;Tis a rare kindness!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1202,7 +1202,7 @@
   "181.csv::239": {
     "id": "181.csv::239",
     "source_text": "物資の調達にご協力くださるとは！\n地道な作業ですが、フィールドにある\n素材を探し、納品していただきたいのです",
-    "translated_text": "You&#x27;d help with procurement! &#x27;Tis humble work. Find raw materials in the field and deliver them.",
+    "translated_text": "You&amp;#x27;d help with procurement! &amp;#x27;Tis humble work. Find raw materials in the field and deliver them.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1277,7 +1277,7 @@
   "181.csv::245": {
     "id": "181.csv::245",
     "source_text": "どうやら、敵も戦力強化を図っているようですね\nしかし――我々とて負けてはいられません！\n覚者様のご協力、かならず活かしてみせますとも",
-    "translated_text": "&#x27;Tis plain the enemy seeks to bolster their strength as well.\nYet we cannot afford to fall.\nSer Arisen&#x27;s cooperation — we&#x27;ll see it put to good use, aye.",
+    "translated_text": "&amp;#x27;Tis plain the enemy seeks to bolster their strength as well.\nYet we cannot afford to fall.\nSer Arisen&amp;#x27;s cooperation — we&amp;#x27;ll see it put to good use, aye.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1292,7 +1292,7 @@
   "181.csv::246": {
     "id": "181.csv::246",
     "source_text": "ご協力ありがとうございます\nさっそくですが、物資の調達をお願いします\n地道な作業ですが、フィールドにある\n素材を探し、納品していただきたいのです",
-    "translated_text": "Thank you for your help. Now then — I need you to procure supplies. &#x27;Tis humble work. Find raw materials in the field and deliver them.",
+    "translated_text": "Thank you for your help. Now then — I need you to procure supplies. &amp;#x27;Tis humble work. Find raw materials in the field and deliver them.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1322,7 +1322,7 @@
   "181.csv::248": {
     "id": "181.csv::248",
     "source_text": "物資の調達、ありがとうございます！\nこれで我が軍の防衛強化が図れることでしょう",
-    "translated_text": "Thank you for the supplies. &#x27;Twill bolster our defenses, aye.",
+    "translated_text": "Thank you for the supplies. &amp;#x27;Twill bolster our defenses, aye.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1427,7 +1427,7 @@
   "181.csv::255": {
     "id": "181.csv::255",
     "source_text": "ええ、お考えがまとまったら\n再び私に話しかけてください",
-    "translated_text": "Aye. Return when your mind&#x27;s made up.",
+    "translated_text": "Aye. Return when your mind&amp;#x27;s made up.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1442,7 +1442,7 @@
   "181.csv::256": {
     "id": "181.csv::256",
     "source_text": "メイロワ将軍直々の命令でさ\n今、ある魔物を追跡中なんだ\n――手伝ってもらえるなら、追跡方法を\n教えるよ",
-    "translated_text": "By General Meirova&#x27;s direct orders, &#x27;tis.\nNow, I track a certain monster...\n— If you&#x27;ll lend a hand, I&#x27;ll teach you the tracking method.",
+    "translated_text": "By General Meirova&amp;#x27;s direct orders, &amp;#x27;tis.\nNow, I track a certain monster...\n— If you&amp;#x27;ll lend a hand, I&amp;#x27;ll teach you the tracking method.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1456,8 +1456,8 @@
   },
   "181.csv::257": {
     "id": "181.csv::257",
-    "source_text": "今追っている魔物だけど\n現状、どこにいるのかわかってないんだ\nだけど――その&quot;痕跡&quot;はすでに発見してる",
-    "translated_text": "The monster we&#x27;re tracking — its whereabouts remain unknown for now. But — its tracks have already been found.",
+    "source_text": "今追っている魔物だけど\n現状、どこにいるのかわかってないんだ\nだけど――その&amp;quot;痕跡&amp;quot;はすでに発見してる",
+    "translated_text": "The monster we&amp;#x27;re tracking — its whereabouts remain unknown for now. But — its tracks have already been found.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1471,8 +1471,8 @@
   },
   "181.csv::258": {
     "id": "181.csv::258",
-    "source_text": "&quot;痕跡&quot;を辿っていけば、いつか追い付けるはずだよ\n追跡を頼んでもいいかな\n実は、前に負傷した傷跡が痛むから\n魔物と交戦するのは荷が重いと思ってたんだ",
-    "translated_text": "If you follow the traces, you&#x27;ll overtake them soon enough. Might I ask you to handle the pursuit? Truth be told, an old wound still pains me, and I feared that crossing blades with monsters would be too great a burden.",
+    "source_text": "&amp;quot;痕跡&amp;quot;を辿っていけば、いつか追い付けるはずだよ\n追跡を頼んでもいいかな\n実は、前に負傷した傷跡が痛むから\n魔物と交戦するのは荷が重いと思ってたんだ",
+    "translated_text": "If you follow the traces, you&amp;#x27;ll overtake them soon enough. Might I ask you to handle the pursuit? Truth be told, an old wound still pains me, and I feared that crossing blades with monsters would be too great a burden.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1501,8 +1501,8 @@
   },
   "181.csv::261": {
     "id": "181.csv::261",
-    "source_text": "&quot;痕跡&quot;を辿っていけば\nいつか魔物に追い付けるはずさ\n追跡は頼んだよ",
-    "translated_text": "Follow the tracks, and you&#x27;ll catch the monster ere long. The pursuit is yours.",
+    "source_text": "&amp;quot;痕跡&amp;quot;を辿っていけば\nいつか魔物に追い付けるはずさ\n追跡は頼んだよ",
+    "translated_text": "Follow the tracks, and you&amp;#x27;ll catch the monster ere long. The pursuit is yours.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1517,7 +1517,7 @@
   "181.csv::262": {
     "id": "181.csv::262",
     "source_text": "ただし、あまり時間をかけすぎると\n魔物がこちらの追跡に気付く可能性がある\nやつらが油断している間に追いつくようにね",
-    "translated_text": "But if you tarry too long, the monsters may catch wind of our pursuit. Best we overtake them while they&#x27;re still off guard.",
+    "translated_text": "But if you tarry too long, the monsters may catch wind of our pursuit. Best we overtake them while they&amp;#x27;re still off guard.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1532,7 +1532,7 @@
   "181.csv::263": {
     "id": "181.csv::263",
     "source_text": "魔物を討伐してきてくれたんだね\n協力に感謝するよ、白き竜の覚者さん！\nメイロワ将軍に報告する時は\nちゃんとあんたの名前を伝えておくからね",
-    "translated_text": "You&#x27;ve vanquished the monsters, then.\nI thank you for your aid, Arisen of the White Dragon!\nWhen I report to General Meirova,\nI&#x27;ll be sure to give your name.",
+    "translated_text": "You&amp;#x27;ve vanquished the monsters, then.\nI thank you for your aid, Arisen of the White Dragon!\nWhen I report to General Meirova,\nI&amp;#x27;ll be sure to give your name.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1591,8 +1591,8 @@
   },
   "181.csv::267": {
     "id": "181.csv::267",
-    "source_text": "魔物の&quot;痕跡&quot;が残っていそうな場所を\n地図に書き込んでおくね\n印のあたりを探してみて",
-    "translated_text": "I&#x27;ll mark on the map the spots where monster traces may remain. Search around the marks, if you would.",
+    "source_text": "魔物の&amp;quot;痕跡&amp;quot;が残っていそうな場所を\n地図に書き込んでおくね\n印のあたりを探してみて",
+    "translated_text": "I&amp;#x27;ll mark on the map the spots where monster traces may remain. Search around the marks, if you would.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1607,7 +1607,7 @@
   "181.csv::268": {
     "id": "181.csv::268",
     "source_text": "ただし、あまり時間をかけすぎると\n魔物がこちらの追跡に気付く可能性がある\nやつらが油断している間に追いつくようにね",
-    "translated_text": "But if you tarry too long, the monsters may catch wind of our pursuit. Best we overtake them while they&#x27;re still off guard.",
+    "translated_text": "But if you tarry too long, the monsters may catch wind of our pursuit. Best we overtake them while they&amp;#x27;re still off guard.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1621,8 +1621,8 @@
   },
   "181.csv::269": {
     "id": "181.csv::269",
-    "source_text": "&quot;痕跡&quot;を辿っていけば\nいつか魔物に追い付けるはずさ\n追跡は頼んだよ",
-    "translated_text": "Follow the tracks, and you&#x27;ll catch the monster ere long. The pursuit is yours.",
+    "source_text": "&amp;quot;痕跡&amp;quot;を辿っていけば\nいつか魔物に追い付けるはずさ\n追跡は頼んだよ",
+    "translated_text": "Follow the tracks, and you&amp;#x27;ll catch the monster ere long. The pursuit is yours.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1637,7 +1637,7 @@
   "181.csv::270": {
     "id": "181.csv::270",
     "source_text": "ああ、ごめん\n出発する前に準備も要るよね\n行けそうだったら、また声をかけてよ",
-    "translated_text": "Ah, pardon. You&#x27;ll be needing to prepare afore you depart, won&#x27;t you? If it seems you can make the journey, call on me again.",
+    "translated_text": "Ah, pardon. You&amp;#x27;ll be needing to prepare afore you depart, won&amp;#x27;t you? If it seems you can make the journey, call on me again.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1652,7 +1652,7 @@
   "181.csv::271": {
     "id": "181.csv::271",
     "source_text": "君、覚者か！\nちょうど良かった――君を探してたんだ",
-    "translated_text": "Arisen, is it? Good timing — I&#x27;ve been looking for you.",
+    "translated_text": "Arisen, is it? Good timing — I&amp;#x27;ve been looking for you.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1667,7 +1667,7 @@
   "181.csv::272": {
     "id": "181.csv::272",
     "source_text": "俺がどう見ても盗賊で\n怪しいことは百も承知なんだが\n今から話すことは真剣に聞いてくれよ",
-    "translated_text": "Look, any way you cut it, I&#x27;m a bandit — shady as sin, hundred percent. But you&#x27;ll want to hear this straight, aye? No jesting now.",
+    "translated_text": "Look, any way you cut it, I&amp;#x27;m a bandit — shady as sin, hundred percent. But you&amp;#x27;ll want to hear this straight, aye? No jesting now.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1682,7 +1682,7 @@
   "181.csv::273": {
     "id": "181.csv::273",
     "source_text": "もうすぐ、ここに魔軍が攻めてくる――\n本当なんだ、やつらの動きがおかしいからって\nここ数日ピリピリしてただろ",
-    "translated_text": "Soon the Demon Army&#x27;ll be upon us — &#x27;tis true, what with their movements gone queer these past few days, you&#x27;ve been wound tight, eh?",
+    "translated_text": "Soon the Demon Army&amp;#x27;ll be upon us — &amp;#x27;tis true, what with their movements gone queer these past few days, you&amp;#x27;ve been wound tight, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1697,7 +1697,7 @@
   "181.csv::274": {
     "id": "181.csv::274",
     "source_text": "フィールドに出て様子を探ってた戦士の\n何人かはすでに魔物と交戦し、やつらを\n食い止めている状態のようだ",
-    "translated_text": "Some of the warriors who went out to scout the field&#x27;re already locked in with the monsters — seems they&#x27;re holding the line, eh?",
+    "translated_text": "Some of the warriors who went out to scout the field&amp;#x27;re already locked in with the monsters — seems they&amp;#x27;re holding the line, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1712,7 +1712,7 @@
   "181.csv::275": {
     "id": "181.csv::275",
     "source_text": "彼らは防戦するのに精一杯だった\nだから、俺が君に助けを求めて\nやってきたってわけだ",
-    "translated_text": "They could do naught but hold the line. That&#x27;s why I came to you for aid.",
+    "translated_text": "They could do naught but hold the line. That&amp;#x27;s why I came to you for aid.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1727,7 +1727,7 @@
   "181.csv::276": {
     "id": "181.csv::276",
     "source_text": "支度ができたら、場所を確認して\nすぐに出発してくれ\n――君が早く向かってくれないと\n戦士たちもいつまでもつかわからないぞ",
-    "translated_text": "Once you&#x27;re ready, check the location\nand head out right away.\n—If you don&#x27;t get going soon,\nI don&#x27;t know how much longer the warriors can hold out.",
+    "translated_text": "Once you&amp;#x27;re ready, check the location\nand head out right away.\n—If you don&amp;#x27;t get going soon,\nI don&amp;#x27;t know how much longer the warriors can hold out.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1742,7 +1742,7 @@
   "181.csv::277": {
     "id": "181.csv::277",
     "source_text": "戦士たちもいつまでもつかわからない\n場所を確認したら、すぐに向かってくれ\n魔軍の情報は彼らが知っているはずだ",
-    "translated_text": "The warriors won&#x27;t hold forever.\nOnce you&#x27;ve confirmed the location, make for it straight away.\nThey ought to know a thing or two about the Demon Army.",
+    "translated_text": "The warriors won&amp;#x27;t hold forever.\nOnce you&amp;#x27;ve confirmed the location, make for it straight away.\nThey ought to know a thing or two about the Demon Army.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1772,7 +1772,7 @@
   "181.csv::279": {
     "id": "181.csv::279",
     "source_text": "バーサの交戦情報",
-    "translated_text": "Versa&#x27;s combat intel",
+    "translated_text": "Versa&amp;#x27;s combat intel",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1787,7 +1787,7 @@
   "181.csv::280": {
     "id": "181.csv::280",
     "source_text": "ケイークの交戦情報",
-    "translated_text": "Keiku&#x27;s combat information",
+    "translated_text": "Keiku&amp;#x27;s combat information",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1802,7 +1802,7 @@
   "181.csv::281": {
     "id": "181.csv::281",
     "source_text": "魔軍の魔物がピレモス方面に向かって\n進軍準備をしてるのを見たんだけど\nここで魔物と戦うだけで精一杯だった――\n頼む、やつらの足を止めてくれ",
-    "translated_text": "I saw Demon Army monsters readying to march toward Piremoth, but &#x27;twas all I could do to fight the monsters here — I pray you, halt their advance.",
+    "translated_text": "I saw Demon Army monsters readying to march toward Piremoth, but &amp;#x27;twas all I could do to fight the monsters here — I pray you, halt their advance.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1817,7 +1817,7 @@
   "181.csv::282": {
     "id": "181.csv::282",
     "source_text": "魔軍の魔物がピレモス方面に向かって\n進軍準備をしてるのを見たんだけど\nここで魔物と戦うだけで精一杯だった――\n頼む、やつらの足を止めてくれ",
-    "translated_text": "I saw Demon Army monsters readying to march toward Piremoth, but &#x27;twas all I could do to fight the monsters here — I pray you, halt their advance.",
+    "translated_text": "I saw Demon Army monsters readying to march toward Piremoth, but &amp;#x27;twas all I could do to fight the monsters here — I pray you, halt their advance.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1832,7 +1832,7 @@
   "181.csv::283": {
     "id": "181.csv::283",
     "source_text": "ふぅ、魔軍の襲撃計画を\n事前に潰せてよかった――\n君、さすがだな！\n俺も必死になって走ったかいがあったよ",
-    "translated_text": "Phew, I&#x27;m glad we were able to\nthwart the Demon Army&#x27;s attack plan before it happened—\nYou&#x27;re really something, aren&#x27;t you!\nAll that frantic running of mine was worth it after all.",
+    "translated_text": "Phew, I&amp;#x27;m glad we were able to\nthwart the Demon Army&amp;#x27;s attack plan before it happened—\nYou&amp;#x27;re really something, aren&amp;#x27;t you!\nAll that frantic running of mine was worth it after all.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1847,7 +1847,7 @@
   "181.csv::284": {
     "id": "181.csv::284",
     "source_text": "これからも周辺の状況には\n気を付けてやってくれ\n――じゃ、まぁ\n俺はアジトにでも戻ろうかな",
-    "translated_text": "Keep an eye on the situation around here from now on, eh?\n—Right then. S&#x27;pose I&#x27;ll head back to the hideout.",
+    "translated_text": "Keep an eye on the situation around here from now on, eh?\n—Right then. S&amp;#x27;pose I&amp;#x27;ll head back to the hideout.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1862,7 +1862,7 @@
   "181.csv::285": {
     "id": "181.csv::285",
     "source_text": "はぁ、何とか切り抜けられた――\nあんたのおかげさ、礼を言うよ！\nでも、魔軍の別の隊が\nピレモス方面への進軍準備をしているんだ",
-    "translated_text": "Haah... managed to scrape through somehow—\nThanks to you, much obliged!\nBut another Demon Army unit&#x27;s preparing to march on Piremoth.",
+    "translated_text": "Haah... managed to scrape through somehow—\nThanks to you, much obliged!\nBut another Demon Army unit&amp;#x27;s preparing to march on Piremoth.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1877,7 +1877,7 @@
   "181.csv::286": {
     "id": "181.csv::286",
     "source_text": "面倒なことに、あっちの隊列の中には\n＜キメラ＞がいた――\nあんたの腕でなんとかならない？\n拠点が襲われる前に、あいつらを蹴散らして！",
-    "translated_text": "As luck would have it, there&#x27;s a &lt;Chimera&gt; in their ranks—\nS&#x27;pose that arm of yours can handle it?\nScatter the lot afore the location&#x27;s besieged, eh!",
+    "translated_text": "As luck would have it, there&amp;#x27;s a &amp;lt;Chimera&amp;gt; in their ranks—\nS&amp;#x27;pose that arm of yours can handle it?\nScatter the lot afore the location&amp;#x27;s besieged, eh!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1891,8 +1891,8 @@
   },
   "181.csv::287": {
     "id": "181.csv::287",
-    "source_text": "ああ、覚者さま！\n助けてくださってありがとうございます\n実は、魔軍が《&lt;SPOT 1038&gt;》で\n進軍準備をしているのを見てしまったのです",
-    "translated_text": "Ah, Master Arisen! Thank you for your aid. Truth be told, I witnessed the Demon Army preparing to advance at &lt;SPOT 1038&gt;.",
+    "source_text": "ああ、覚者さま！\n助けてくださってありがとうございます\n実は、魔軍が《&amp;lt;SPOT 1038&amp;gt;》で\n進軍準備をしているのを見てしまったのです",
+    "translated_text": "Ah, Master Arisen! Thank you for your aid. Truth be told, I witnessed the Demon Army preparing to advance at &amp;lt;SPOT 1038&amp;gt;.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1907,7 +1907,7 @@
   "181.csv::288": {
     "id": "181.csv::288",
     "source_text": "それから、魔物の中に＜キメラ＞の姿も\n確認しました――",
-    "translated_text": "And I&#x27;ve confirmed a &lt;Chimera&gt; among the monsters as well—",
+    "translated_text": "And I&amp;#x27;ve confirmed a &amp;lt;Chimera&amp;gt; among the monsters as well—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1922,7 +1922,7 @@
   "181.csv::289": {
     "id": "181.csv::289",
     "source_text": "すでにわたしの仲間が\n現地に向かっているはずです\n覚者さま、魔軍が拠点を襲う前に\nどうか討伐にご協力ください",
-    "translated_text": "My companions should already be on their way to the location. Master Arisen, I&#x27;d ask your aid in the subjugation afore the Demon Army falls upon it.",
+    "translated_text": "My companions should already be on their way to the location. Master Arisen, I&amp;#x27;d ask your aid in the subjugation afore the Demon Army falls upon it.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1937,7 +1937,7 @@
   "181.csv::290": {
     "id": "181.csv::290",
     "source_text": "あんたのおかげで助かったけど\n実はさ、魔軍の別の隊が\nピレモス方面への進軍準備をしているんだ",
-    "translated_text": "You saved my hide, but... truth is, another Demon Army unit&#x27;s prepping to march on Piremoth.",
+    "translated_text": "You saved my hide, but... truth is, another Demon Army unit&amp;#x27;s prepping to march on Piremoth.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1952,7 +1952,7 @@
   "181.csv::291": {
     "id": "181.csv::291",
     "source_text": "面倒なことに、あっちの隊列の中には\n＜キメラ＞がいた――\nあんたの腕でなんとかならない？\n拠点が襲われる前に、あいつらを蹴散らして！",
-    "translated_text": "As luck would have it, there&#x27;s a &lt;Chimera&gt; in their ranks—\nS&#x27;pose that arm of yours can handle it?\nScatter the lot afore the location&#x27;s besieged, eh!",
+    "translated_text": "As luck would have it, there&amp;#x27;s a &amp;lt;Chimera&amp;gt; in their ranks—\nS&amp;#x27;pose that arm of yours can handle it?\nScatter the lot afore the location&amp;#x27;s besieged, eh!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1966,8 +1966,8 @@
   },
   "181.csv::292": {
     "id": "181.csv::292",
-    "source_text": "実は、魔軍が《&lt;SPOT 1038&gt;》で\n進軍準備をしているのを見てしまったのです",
-    "translated_text": "In truth, I chanced to see the Demon Army preparing their advance at 《&lt;SPOT 1038&gt;》.",
+    "source_text": "実は、魔軍が《&amp;lt;SPOT 1038&amp;gt;》で\n進軍準備をしているのを見てしまったのです",
+    "translated_text": "In truth, I chanced to see the Demon Army preparing their advance at 《&amp;lt;SPOT 1038&amp;gt;》.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1982,7 +1982,7 @@
   "181.csv::293": {
     "id": "181.csv::293",
     "source_text": "それから、魔物の中に＜キメラ＞の姿も\n確認しました――",
-    "translated_text": "And I&#x27;ve confirmed a &lt;Chimera&gt; among the monsters as well—",
+    "translated_text": "And I&amp;#x27;ve confirmed a &amp;lt;Chimera&amp;gt; among the monsters as well—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1997,7 +1997,7 @@
   "181.csv::294": {
     "id": "181.csv::294",
     "source_text": "すでにわたしの仲間が\n現地に向かっているはずです\n覚者さま、魔軍が拠点を襲う前に\nどうか討伐にご協力ください",
-    "translated_text": "My companions should already be on their way to the location. Master Arisen, I&#x27;d ask your aid in the subjugation afore the Demon Army falls upon it.",
+    "translated_text": "My companions should already be on their way to the location. Master Arisen, I&amp;#x27;d ask your aid in the subjugation afore the Demon Army falls upon it.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2011,8 +2011,8 @@
   },
   "181.csv::295": {
     "id": "181.csv::295",
-    "source_text": "&lt;NPC 655&gt;は\n敵の動向を探っていたというより\n通りすがりに巻き込まれたようだった――\n一応、魔軍の情報については知っていると思うがね",
-    "translated_text": "&lt;NPC 655&gt; wasn&#x27;t exactly scouting enemy movements so much as got swept up just passing through — mind, I s&#x27;pose they&#x27;d know summat about the Demon Army, at least.",
+    "source_text": "&amp;lt;NPC 655&amp;gt;は\n敵の動向を探っていたというより\n通りすがりに巻き込まれたようだった――\n一応、魔軍の情報については知っていると思うがね",
+    "translated_text": "&amp;lt;NPC 655&amp;gt; wasn&amp;#x27;t exactly scouting enemy movements so much as got swept up just passing through — mind, I s&amp;#x27;pose they&amp;#x27;d know summat about the Demon Army, at least.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2026,8 +2026,8 @@
   },
   "181.csv::296": {
     "id": "181.csv::296",
-    "source_text": "今なら――&lt;STG 131&gt;の\nどこかで敵を引き付けながら\n戦っているだろう",
-    "translated_text": "Right now, they&#x27;re likely somewhere in &lt;STG 131&gt;, fighting while drawing the enemy&#x27;s attention.",
+    "source_text": "今なら――&amp;lt;STG 131&amp;gt;の\nどこかで敵を引き付けながら\n戦っているだろう",
+    "translated_text": "Right now, they&amp;#x27;re likely somewhere in &amp;lt;STG 131&amp;gt;, fighting while drawing the enemy&amp;#x27;s attention.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2041,8 +2041,8 @@
   },
   "181.csv::297": {
     "id": "181.csv::297",
-    "source_text": "&lt;NPC 604&gt;は\n少し前から魔軍の動向を気にしていたようだ\n魔軍の情報について、ある程度\n詳細に話してくれるだろう",
-    "translated_text": "&lt;NPC 604&gt;&#x27;s been mindin&#x27; the Demon Army&#x27;s movements for a spell. They&#x27;ll tell you a fair bit on &#x27;em, s&#x27;pose.",
+    "source_text": "&amp;lt;NPC 604&amp;gt;は\n少し前から魔軍の動向を気にしていたようだ\n魔軍の情報について、ある程度\n詳細に話してくれるだろう",
+    "translated_text": "&amp;lt;NPC 604&amp;gt;&amp;#x27;s been mindin&amp;#x27; the Demon Army&amp;#x27;s movements for a spell. They&amp;#x27;ll tell you a fair bit on &amp;#x27;em, s&amp;#x27;pose.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2056,8 +2056,8 @@
   },
   "181.csv::298": {
     "id": "181.csv::298",
-    "source_text": "今なら――&lt;STG 131&gt;の\nどこかに転戦中だろうな\n地図に大体の位置を記しておくよ",
-    "translated_text": "Right now――they&#x27;ll be off campaigning somewhere in &lt;STG 131&gt;, I s&#x27;pose. I&#x27;ll mark the approximate location on your map.",
+    "source_text": "今なら――&amp;lt;STG 131&amp;gt;の\nどこかに転戦中だろうな\n地図に大体の位置を記しておくよ",
+    "translated_text": "Right now――they&amp;#x27;ll be off campaigning somewhere in &amp;lt;STG 131&amp;gt;, I s&amp;#x27;pose. I&amp;#x27;ll mark the approximate location on your map.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2071,8 +2071,8 @@
   },
   "181.csv::299": {
     "id": "181.csv::299",
-    "source_text": "&lt;NPC 657&gt;は\n今回の襲撃をかなり気にしていたようだ\n恐らく、相当細かく調べていたんじゃないか\nそれなりの情報を持っているはずだよ",
-    "translated_text": "&lt;NPC 657&gt; took this raid quite to heart, it seems. Most like they&#x27;ve gone and investigated it proper thorough. They ought to have a fair store of information, I&#x27;d say.",
+    "source_text": "&amp;lt;NPC 657&amp;gt;は\n今回の襲撃をかなり気にしていたようだ\n恐らく、相当細かく調べていたんじゃないか\nそれなりの情報を持っているはずだよ",
+    "translated_text": "&amp;lt;NPC 657&amp;gt; took this raid quite to heart, it seems. Most like they&amp;#x27;ve gone and investigated it proper thorough. They ought to have a fair store of information, I&amp;#x27;d say.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2086,8 +2086,8 @@
   },
   "181.csv::300": {
     "id": "181.csv::300",
-    "source_text": "今なら――\n危なそうな状況だったから\n&lt;STG 131&gt;の\nどこかに潜んでいるんじゃないかな",
-    "translated_text": "Right now -- &#x27;twas a dangerous situation, so they&#x27;re likely lurking somewhere in &lt;STG 131&gt;.",
+    "source_text": "今なら――\n危なそうな状況だったから\n&amp;lt;STG 131&amp;gt;の\nどこかに潜んでいるんじゃないかな",
+    "translated_text": "Right now -- &amp;#x27;twas a dangerous situation, so they&amp;#x27;re likely lurking somewhere in &amp;lt;STG 131&amp;gt;.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2102,7 +2102,7 @@
   "181.csv::301": {
     "id": "181.csv::301",
     "source_text": "首尾よく敵を発見できたみたいだな！\nできれば、討伐まで頼まれてくれないか？\n私と覚者殿では戦闘力が段違いだからな",
-    "translated_text": "It seems you&#x27;ve successfully located the enemy! Mayhap you&#x27;d be willing to see the extermination through? Master Arisen&#x27;s combat prowess is on a wholly different level from my own, you see.",
+    "translated_text": "It seems you&amp;#x27;ve successfully located the enemy! Mayhap you&amp;#x27;d be willing to see the extermination through? Master Arisen&amp;#x27;s combat prowess is on a wholly different level from my own, you see.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2117,7 +2117,7 @@
   "181.csv::302": {
     "id": "181.csv::302",
     "source_text": "やつらを見つけられたのね！\nあたしたちだけじゃ不安だったけど\nこっちにはあんたがいるものね\nやつらの討伐、頼んだよ！",
-    "translated_text": "Found &#x27;em, have ya?\nJust us had us naught but uneasy...\nbut you&#x27;re here on our side, eh?\nTheir extermination&#x27;s yours to handle!",
+    "translated_text": "Found &amp;#x27;em, have ya?\nJust us had us naught but uneasy...\nbut you&amp;#x27;re here on our side, eh?\nTheir extermination&amp;#x27;s yours to handle!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2132,7 +2132,7 @@
   "181.csv::303": {
     "id": "181.csv::303",
     "source_text": "よかった、敵を発見できたみたいですね！\n拠点が襲われる前に討伐しないと――",
-    "translated_text": "Good, it seems the enemy&#x27;s been found!\nWe must vanquish them afore the location is attacked—",
+    "translated_text": "Good, it seems the enemy&amp;#x27;s been found!\nWe must vanquish them afore the location is attacked—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2147,7 +2147,7 @@
   "181.csv::304": {
     "id": "181.csv::304",
     "source_text": "おお、これは良いところに来てくれたな！\n今しがた、魔軍について新しい情報を入手したのだ\n聞いてくれ",
-    "translated_text": "Ah, you&#x27;ve come at a most opportune moment!\nI&#x27;ve just come by new intelligence on the Demon Army.\nDo hear me out.",
+    "translated_text": "Ah, you&amp;#x27;ve come at a most opportune moment!\nI&amp;#x27;ve just come by new intelligence on the Demon Army.\nDo hear me out.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2177,7 +2177,7 @@
   "181.csv::306": {
     "id": "181.csv::306",
     "source_text": "まずは魔軍の計画を詳しく調べる必要がある\n耳ざといベルタ盗賊団の連中なら――\n何かしら魔軍についての計画を掴んでいるかもしれん\n行って、情報を引き出してきてくれんか",
-    "translated_text": "First, we must examine the Demon Army&#x27;s plans in detail.\nThat sharp-eared lot of Bertha&#x27;s Bandit Group—\nmayhap they&#x27;ve caught wind of aught concerning the Demon Army&#x27;s schemes.\nWill you go and pry the information from them?",
+    "translated_text": "First, we must examine the Demon Army&amp;#x27;s plans in detail.\nThat sharp-eared lot of Bertha&amp;#x27;s Bandit Group—\nmayhap they&amp;#x27;ve caught wind of aught concerning the Demon Army&amp;#x27;s schemes.\nWill you go and pry the information from them?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2192,7 +2192,7 @@
   "181.csv::307": {
     "id": "181.csv::307",
     "source_text": "魔軍の脅威について",
-    "translated_text": "Concerning the Demon Army&#x27;s Threat",
+    "translated_text": "Concerning the Demon Army&amp;#x27;s Threat",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2236,8 +2236,8 @@
   },
   "181.csv::310": {
     "id": "181.csv::310",
-    "source_text": "敵はついにあの\n&quot;魔軍戦車&quot;を率いて侵攻してくるらしい",
-    "translated_text": "It seems the enemy is finally\nabout to invade, leading that\n&quot;Demon Army Tank.&quot;",
+    "source_text": "敵はついにあの\n&amp;quot;魔軍戦車&amp;quot;を率いて侵攻してくるらしい",
+    "translated_text": "It seems the enemy is finally\nabout to invade, leading that\n&amp;quot;Demon Army Tank.&amp;quot;",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2252,7 +2252,7 @@
   "181.csv::311": {
     "id": "181.csv::311",
     "source_text": "ティネス砦は奪還したばかりで\nまだ体制が整い切っていない――\nここへ大軍で攻め込まれては\n今の我々では守りきれないかもしれん",
-    "translated_text": "Fort Thines was only just retaken, and our defenses are not yet fully formed — should a host attack us now, &#x27;tis doubtful we could hold the line.",
+    "translated_text": "Fort Thines was only just retaken, and our defenses are not yet fully formed — should a host attack us now, &amp;#x27;tis doubtful we could hold the line.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2267,7 +2267,7 @@
   "181.csv::312": {
     "id": "181.csv::312",
     "source_text": "解放軍の情報網はまだ盗賊のそれには及ばない\n――頼む、是が非でも\n確かな情報を集めてきてくれ",
-    "translated_text": "The Liberation Army&#x27;s intelligence network still falls short of the bandits&#x27;.\n——I beg you, without fail: bring us reliable intelligence.",
+    "translated_text": "The Liberation Army&amp;#x27;s intelligence network still falls short of the bandits&amp;#x27;.\n——I beg you, without fail: bring us reliable intelligence.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2282,7 +2282,7 @@
   "181.csv::313": {
     "id": "181.csv::313",
     "source_text": "魔軍は戦力再編のため、各地のオーク共に\n指令を出しているとの事だ",
-    "translated_text": "&#x27;Tis said the Demon Army&#x27;s issuing orders to orcs across the land, restructuring their forces.",
+    "translated_text": "&amp;#x27;Tis said the Demon Army&amp;#x27;s issuing orders to orcs across the land, restructuring their forces.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2297,7 +2297,7 @@
   "181.csv::314": {
     "id": "181.csv::314",
     "source_text": "盗賊の持つ情報のなかに、必ず――\n魔軍のティネス砦襲撃に関する計画があるはずだ\n頼む、確かな情報を探ってきてくれ",
-    "translated_text": "Among the intelligence the bandits carry, there must surely be—\na plan concerning the Demon Army&#x27;s assault on Fort Thines.\nI ask you, go and uncover solid intelligence.",
+    "translated_text": "Among the intelligence the bandits carry, there must surely be—\na plan concerning the Demon Army&amp;#x27;s assault on Fort Thines.\nI ask you, go and uncover solid intelligence.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2312,7 +2312,7 @@
   "181.csv::315": {
     "id": "181.csv::315",
     "source_text": "魔軍の襲撃計画についてだって？\n確かに、それらしい話を\n聞いたことはあるが――",
-    "translated_text": "Demon Army attack plans, eh?\nAye, heard tell o&#x27; summat like that—",
+    "translated_text": "Demon Army attack plans, eh?\nAye, heard tell o&amp;#x27; summat like that—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2327,7 +2327,7 @@
   "181.csv::316": {
     "id": "181.csv::316",
     "source_text": "そうだな――\n俺らもネド王子に協力しているとはいえ\n武具の在庫に困っててな",
-    "translated_text": "Right. We&#x27;re backin&#x27; Prince Nedo, sure, but our stocks o&#x27; arms and armor run thin, eh?",
+    "translated_text": "Right. We&amp;#x27;re backin&amp;#x27; Prince Nedo, sure, but our stocks o&amp;#x27; arms and armor run thin, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2342,7 +2342,7 @@
   "181.csv::317": {
     "id": "181.csv::317",
     "source_text": "だが、そう易々と情報をくれてやっちゃ\n盗賊の名折れってもんだ\nこの情報を掴むのに、俺らもそれなりの\n代償を払ってるんだからな",
-    "translated_text": "But handin&#x27; over info that easy...\nShames a bandit&#x27;s name, eh?\nWe paid a price to get this.\nSo you&#x27;ll pay one too.",
+    "translated_text": "But handin&amp;#x27; over info that easy...\nShames a bandit&amp;#x27;s name, eh?\nWe paid a price to get this.\nSo you&amp;#x27;ll pay one too.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2356,8 +2356,8 @@
   },
   "181.csv::318": {
     "id": "181.csv::318",
-    "source_text": "&lt;QDEL NAME 0 6&gt;を\nよろしく頼むぜ――レスタニアの覚者さん",
-    "translated_text": "Handle &lt;QDEL NAME 0 6&gt;, eh? — Arisen of Lestania",
+    "source_text": "&amp;lt;QDEL NAME 0 6&amp;gt;を\nよろしく頼むぜ――レスタニアの覚者さん",
+    "translated_text": "Handle &amp;lt;QDEL NAME 0 6&amp;gt;, eh? — Arisen of Lestania",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2387,7 +2387,7 @@
   "181.csv::320": {
     "id": "181.csv::320",
     "source_text": "ああ、きっちりもらってくよ\n――よし、こっちも取り引きだからな\n誠実にいくさ",
-    "translated_text": "Right, I&#x27;ll collect in full, eh?\n——Good. This is a deal on my end too.\nWe&#x27;ll do this straight.",
+    "translated_text": "Right, I&amp;#x27;ll collect in full, eh?\n——Good. This is a deal on my end too.\nWe&amp;#x27;ll do this straight.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2402,7 +2402,7 @@
   "181.csv::321": {
     "id": "181.csv::321",
     "source_text": "魔軍の襲撃計画について\nこっちの持ってる情報を教えてやるよ\nなんでも聞いてくれ",
-    "translated_text": "Demon Army&#x27;s attack plans. I&#x27;ll share what we know. Ask away, eh?",
+    "translated_text": "Demon Army&amp;#x27;s attack plans. I&amp;#x27;ll share what we know. Ask away, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2417,7 +2417,7 @@
   "181.csv::322": {
     "id": "181.csv::322",
     "source_text": "今、魔軍では襲撃部隊の再編成のために\n手下となる連中が戦地を駆け回って\n指示を出して回ってるらしい",
-    "translated_text": "Demon Army&#x27;s reorganizing its raiding units. The ones looking to be underlings are tearing round the battlefield, barking orders, eh?",
+    "translated_text": "Demon Army&amp;#x27;s reorganizing its raiding units. The ones looking to be underlings are tearing round the battlefield, barking orders, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2432,7 +2432,7 @@
   "181.csv::323": {
     "id": "181.csv::323",
     "source_text": "そいつを見つけて指令書を手に入れたなら――\nどこで軍備の再編が行われるかが分かるはずだ",
-    "translated_text": "Find the target, get the orders -- then you&#x27;ll know where they&#x27;re reorganizing the armaments, eh?",
+    "translated_text": "Find the target, get the orders -- then you&amp;#x27;ll know where they&amp;#x27;re reorganizing the armaments, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2447,7 +2447,7 @@
   "181.csv::324": {
     "id": "181.csv::324",
     "source_text": "ただ、どこを駆け回ってるかまでは\n俺らも掴めていない――\nあたりをつけている場所なら教えてやれるけどな",
-    "translated_text": "Don&#x27;t know where they&#x27;re running, though. Got a lead on a spot — can tell you that much, eh?",
+    "translated_text": "Don&amp;#x27;t know where they&amp;#x27;re running, though. Got a lead on a spot — can tell you that much, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2477,7 +2477,7 @@
   "181.csv::326": {
     "id": "181.csv::326",
     "source_text": "魔軍の脅威について",
-    "translated_text": "Concerning the Demon Army&#x27;s Threat",
+    "translated_text": "Concerning the Demon Army&amp;#x27;s Threat",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2492,7 +2492,7 @@
   "181.csv::327": {
     "id": "181.csv::327",
     "source_text": "魔軍の指令書をここまで持ってくるんなら\n俺が解読してやれるぜ",
-    "translated_text": "You brought the Demon Army&#x27;s orders this far. I&#x27;ll decipher &#x27;em.",
+    "translated_text": "You brought the Demon Army&amp;#x27;s orders this far. I&amp;#x27;ll decipher &amp;#x27;em.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2507,7 +2507,7 @@
   "181.csv::328": {
     "id": "181.csv::328",
     "source_text": "――魔軍の文書は\nややこしいだけの図解みたいなもんだからな\nコツさえわかりゃ何となくわかる",
-    "translated_text": "Demon Army documents — nothing but a tangle o&#x27; diagrams, cos. Get the knack, an&#x27; they read clear enough, eh?",
+    "translated_text": "Demon Army documents — nothing but a tangle o&amp;#x27; diagrams, cos. Get the knack, an&amp;#x27; they read clear enough, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2522,7 +2522,7 @@
   "181.csv::329": {
     "id": "181.csv::329",
     "source_text": "脅威、か――\n今までと同じ戦い方では\n太刀打ちできないかもしれないな",
-    "translated_text": "A threat, huh—\nSame old fightin&#x27; won&#x27;t cut it.\nMight not stand a chance, eh?",
+    "translated_text": "A threat, huh—\nSame old fightin&amp;#x27; won&amp;#x27;t cut it.\nMight not stand a chance, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2536,8 +2536,8 @@
   },
   "181.csv::330": {
     "id": "181.csv::330",
-    "source_text": "くれぐれも気を付けた方がいい\nあの魔軍の最強兵器、&quot;魔軍戦車&quot;カトブレパスが\n使われるらしいって話だ――",
-    "translated_text": "Best be careful. Word is the Demon Army&#x27;s unleashing their strongest weapon — the &quot;Demon Army Tank&quot;, Catoblepas — eh?",
+    "source_text": "くれぐれも気を付けた方がいい\nあの魔軍の最強兵器、&amp;quot;魔軍戦車&amp;quot;カトブレパスが\n使われるらしいって話だ――",
+    "translated_text": "Best be careful. Word is the Demon Army&amp;#x27;s unleashing their strongest weapon — the &amp;quot;Demon Army Tank&amp;quot;, Catoblepas — eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2552,7 +2552,7 @@
   "181.csv::331": {
     "id": "181.csv::331",
     "source_text": "――なるほど\n魔軍は南西の湖周辺に戦力を結集し\nロスギル、ピレモス周辺を強襲しつつ\nティネス砦へ向かう予定だな",
-    "translated_text": "Right. Demon Army&#x27;s massing at the southwest lake. They&#x27;ll raid Rothgill and Piremoth on the march to Fort Thines, eh?",
+    "translated_text": "Right. Demon Army&amp;#x27;s massing at the southwest lake. They&amp;#x27;ll raid Rothgill and Piremoth on the march to Fort Thines, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2567,7 +2567,7 @@
   "181.csv::332": {
     "id": "181.csv::332",
     "source_text": "だったら――\nはやめにロスギルにいるヴィクトルって奴に\n伝えて、迎撃態勢を配備した方がいいんじゃないか\nあそこが落ちると、色々とヤバいぜ",
-    "translated_text": "Then――\nGet word to Victor in Rothgill. Now.\nDeploy intercepts, eh?\nThat place falls... whole lot o&#x27; trouble.",
+    "translated_text": "Then――\nGet word to Victor in Rothgill. Now.\nDeploy intercepts, eh?\nThat place falls... whole lot o&amp;#x27; trouble.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2582,7 +2582,7 @@
   "181.csv::333": {
     "id": "181.csv::333",
     "source_text": "魔軍はまずロスギル辺りに戦力を集めるようだ\nはやめにロスギルにいるヴィクトルって奴に\n伝えて、迎撃態勢を配備した方がいいんじゃないか\nあそこが落ちると、色々とヤバいぜ",
-    "translated_text": "Demon Army&#x27;s massin&#x27; round Rothgill first.\nGet to Victor there, quick, eh?\nTell him to ready the defenses.\nIf Rothgill falls... it all goes sideways.",
+    "translated_text": "Demon Army&amp;#x27;s massin&amp;#x27; round Rothgill first.\nGet to Victor there, quick, eh?\nTell him to ready the defenses.\nIf Rothgill falls... it all goes sideways.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2627,7 +2627,7 @@
   "181.csv::336": {
     "id": "181.csv::336",
     "source_text": "準備が整い次第、貴方にも連絡するつもりだ\n――此度は貴重な情報を感謝する",
-    "translated_text": "Once preparations are complete, I shall contact you as well—&#x27;tis my thanks for your valuable intelligence.",
+    "translated_text": "Once preparations are complete, I shall contact you as well—&amp;#x27;tis my thanks for your valuable intelligence.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2657,7 +2657,7 @@
   "181.csv::338": {
     "id": "181.csv::338",
     "source_text": "まずは魔軍の計画を詳しく調べる必要がある\n耳ざといベルタ盗賊団の連中なら――\n何かしら魔軍についての計画を掴んでいるかもしれん\n行って、情報を引き出してきてくれんか",
-    "translated_text": "First, we must examine the Demon Army&#x27;s plans in detail.\nThat sharp-eared lot of Bertha&#x27;s Bandit Group—\nmayhap they&#x27;ve caught wind of aught concerning the Demon Army&#x27;s schemes.\nWill you go and pry the information from them?",
+    "translated_text": "First, we must examine the Demon Army&amp;#x27;s plans in detail.\nThat sharp-eared lot of Bertha&amp;#x27;s Bandit Group—\nmayhap they&amp;#x27;ve caught wind of aught concerning the Demon Army&amp;#x27;s schemes.\nWill you go and pry the information from them?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2702,7 +2702,7 @@
   "181.csv::374": {
     "id": "181.csv::374",
     "source_text": "物資調達と一言で言っても\n道中が危険なものになることは明白――\n覚者様のお手伝いに向きそうな方を\nご紹介いたします",
-    "translated_text": "Though it be summed up as mere &quot;supply procurement,&quot; the journey will be hazardous beyond doubt — I shall introduce one well-suited to assisting you, Ser Arisen.",
+    "translated_text": "Though it be summed up as mere &amp;quot;supply procurement,&amp;quot; the journey will be hazardous beyond doubt — I shall introduce one well-suited to assisting you, Ser Arisen.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2792,7 +2792,7 @@
   "181.csv::380": {
     "id": "181.csv::380",
     "source_text": "ああ、ナヤジークさんからお話は聞いています\n私はハンターですので、遠距離から\n弓矢で覚者様を援護することになりますが\nお力になれるでしょうか？",
-    "translated_text": "Ah, I&#x27;ve heard the tale from Nazik.\nAs a hunter, I&#x27;ll support you from afar with bow and arrow.\nWill I be of help, Ser Arisen?",
+    "translated_text": "Ah, I&amp;#x27;ve heard the tale from Nazik.\nAs a hunter, I&amp;#x27;ll support you from afar with bow and arrow.\nWill I be of help, Ser Arisen?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2837,7 +2837,7 @@
   "181.csv::384": {
     "id": "181.csv::384",
     "source_text": "無事――初めての調達任務に\nお手伝いしてもらい感謝いたします\nこれで物資補給が強化できると思います",
-    "translated_text": "&#x27;Tis without incident — the first procurement mission,\nI humbly tender my gratitude for your assistance.\nWith this, I believe our supply replenishment can be enhanced.",
+    "translated_text": "&amp;#x27;Tis without incident — the first procurement mission,\nI humbly tender my gratitude for your assistance.\nWith this, I believe our supply replenishment can be enhanced.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2852,7 +2852,7 @@
   "181.csv::385": {
     "id": "181.csv::385",
     "source_text": "はっ、了解いたしました\n――いえ、気にしてはおりません\n戦い方にも相性がありますから",
-    "translated_text": "Hah, understood.\n—No, &#x27;tis no concern.\nFighting styles have their compatibilities, after all.",
+    "translated_text": "Hah, understood.\n—No, &amp;#x27;tis no concern.\nFighting styles have their compatibilities, after all.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2867,7 +2867,7 @@
   "181.csv::386": {
     "id": "181.csv::386",
     "source_text": "んー、物資調達の任務に協力しろって言うんでしょ？\n確かに頼まれはしたけどさぁ――\nあのエリアマスターさん、結構人づかい荒くない？",
-    "translated_text": "Hmm. So I&#x27;m s&#x27;posed to lend a hand with the supply run, eh? Aye, I was asked, but— that Area Master, he works folk pretty hard, doesn&#x27;t he?",
+    "translated_text": "Hmm. So I&amp;#x27;m s&amp;#x27;posed to lend a hand with the supply run, eh? Aye, I was asked, but— that Area Master, he works folk pretty hard, doesn&amp;#x27;t he?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2882,7 +2882,7 @@
   "181.csv::387": {
     "id": "181.csv::387",
     "source_text": "この前ちょっと世話になったのは確かだけど\n盗賊のあたしに気軽に頼みごとが\n通ると思われるのもなぁって",
-    "translated_text": "True, I was in your debt the other day. But thinking a bandit like me&#x27;ll just say yes to any favor you ask? That&#x27;s pushing it, eh?",
+    "translated_text": "True, I was in your debt the other day. But thinking a bandit like me&amp;#x27;ll just say yes to any favor you ask? That&amp;#x27;s pushing it, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -2897,7 +2897,7 @@
   "181.csv::388": {
     "id": "181.csv::388",
     "source_text": "あたしのシーカーとしての腕を借りたいんなら\n相応の対価をもらわないとね～\n――どう、それでもあたしでいいの？",
-    "translated_text": "If you&#x27;re after a Seeker&#x27;s skill, you&#x27;ll pay fair coin for it~ So? Even then, you still want me?",
+    "translated_text": "If you&amp;#x27;re after a Seeker&amp;#x27;s skill, you&amp;#x27;ll pay fair coin for it~ So? Even then, you still want me?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
