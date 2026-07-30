@@ -17,7 +17,7 @@
   "182.csv::182": {
     "id": "182.csv::182",
     "source_text": "であれば、お話ししておきたいことが――\n実は、魔軍の兵器について詳しいという\n者がいるのです\nなんでも――オークが\n使っている大砲を使えるようになったとか",
-    "translated_text": "If that is the case, there is something I would tell you — in fact, there exists one knowledgeable of the Demon Army&#x27;s weapons. It seems they have become capable of using the very cannons the orcs employ.",
+    "translated_text": "If that is the case, there is something I would tell you — in fact, there exists one knowledgeable of the Demon Army&amp;#x27;s weapons. It seems they have become capable of using the very cannons the orcs employ.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -47,7 +47,7 @@
   "182.csv::184": {
     "id": "182.csv::184",
     "source_text": "ハヤルの情報が《二ルビリス大橋》確保の\n役に立つよう願っています\n――何卒、お力添えのほど",
-    "translated_text": "It is my sincere hope that Hayal&#x27;s information shall prove useful in securing the 《Nirviris Grand Bridge》 — I beseech your assistance.",
+    "translated_text": "It is my sincere hope that Hayal&amp;#x27;s information shall prove useful in securing the 《Nirviris Grand Bridge》 — I beseech your assistance.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -92,7 +92,7 @@
   "182.csv::187": {
     "id": "182.csv::187",
     "source_text": "何より、魔軍が使っている兵器をこちら側でも\n使用可能となれば良い兆し――\nさらなる希望へと繋がります\n重ねて、覚者様のご尽力に感謝を",
-    "translated_text": "What is more, should the weapons the Demon Army employs become usable by our side as well, &#x27;tis a promising sign — one that leads to yet greater hope. Furthermore, I offer my thanks once more for your unstinting efforts, Ser Arisen.",
+    "translated_text": "What is more, should the weapons the Demon Army employs become usable by our side as well, &amp;#x27;tis a promising sign — one that leads to yet greater hope. Furthermore, I offer my thanks once more for your unstinting efforts, Ser Arisen.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -122,7 +122,7 @@
   "182.csv::189": {
     "id": "182.csv::189",
     "source_text": "怪しい者ではないのです\n今は流浪の身ですが、元は近衛隊の皆さまの\n武具を常に最新・最高の物とするための\n技師をしておりまして――",
-    "translated_text": "I&#x27;m no suspicious figure.\nA wanderer now, though once I served the Royal Guards as technician—\ntasked to keep their arms ever the latest, the finest...",
+    "translated_text": "I&amp;#x27;m no suspicious figure.\nA wanderer now, though once I served the Royal Guards as technician—\ntasked to keep their arms ever the latest, the finest...",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -137,7 +137,7 @@
   "182.csv::190": {
     "id": "182.csv::190",
     "source_text": "魔軍の様子を見計らっては戦闘の跡地へ行き\nずっと魔軍の兵器を調べていたんです\n――結論から言いますと、あの大砲は解放軍でも\n製造・運用することが可能です！",
-    "translated_text": "I watched the Demon Army&#x27;s movements for openings, slipping into the battle&#x27;s wake... I&#x27;ve been examining their weapons all this while.\n\n...To speak plainly: that cannon. The Liberation Army could manufacture and operate it, too.",
+    "translated_text": "I watched the Demon Army&amp;#x27;s movements for openings, slipping into the battle&amp;#x27;s wake... I&amp;#x27;ve been examining their weapons all this while.\n\n...To speak plainly: that cannon. The Liberation Army could manufacture and operate it, too.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -151,8 +151,8 @@
   },
   "182.csv::191": {
     "id": "182.csv::191",
-    "source_text": "ま、それには少々、いえ大きな\n&quot;避けては通れない問題&quot;がありまして\n――――そう、材料です、大砲の",
-    "translated_text": "Well, there&#x27;s a slight... nay, a major &quot;unavoidable problem&quot; with that...\nAye, the materials... for the cannon.",
+    "source_text": "ま、それには少々、いえ大きな\n&amp;quot;避けては通れない問題&amp;quot;がありまして\n――――そう、材料です、大砲の",
+    "translated_text": "Well, there&amp;#x27;s a slight... nay, a major &amp;quot;unavoidable problem&amp;quot; with that...\nAye, the materials... for the cannon.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -167,7 +167,7 @@
   "182.csv::192": {
     "id": "182.csv::192",
     "source_text": "物資がとにかく足りないんです\n覚者さま、どうか材料確保にご協力いただけますか？\nめぼしい場所には、地図に印を付けておきますから！",
-    "translated_text": "Supplies... they&#x27;re desperately short.\nMaster Arisen, pray... would you help us secure materials?\nI&#x27;ll mark the promising locations on the map for you!",
+    "translated_text": "Supplies... they&amp;#x27;re desperately short.\nMaster Arisen, pray... would you help us secure materials?\nI&amp;#x27;ll mark the promising locations on the map for you!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -182,7 +182,7 @@
   "182.csv::193": {
     "id": "182.csv::193",
     "source_text": "材料が集まったらこのハヤルへお願いします\nすぐに製造に取り掛かり\n《二ルビリス大橋》付近へ設置いたしますよ！\n――では、よろしくお願いいたします！",
-    "translated_text": "Once the materials are gathered, pray bring them to Hayal. I&#x27;ll set to work anon and install it near the Nirubirisu Grand Bridge. — Well then, I leave it to you.",
+    "translated_text": "Once the materials are gathered, pray bring them to Hayal. I&amp;#x27;ll set to work anon and install it near the Nirubirisu Grand Bridge. — Well then, I leave it to you.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -197,7 +197,7 @@
   "182.csv::194": {
     "id": "182.csv::194",
     "source_text": "材料が集まったらこのハヤルへお願いします\nすぐに製造に取り掛かり\n《二ルビリス大橋》付近へ設置いたしますよ！\n――では、よろしくお願いいたします！",
-    "translated_text": "Once the materials are gathered, pray bring them to Hayal. I&#x27;ll set to work anon and install it near the Nirubirisu Grand Bridge. — Well then, I leave it to you.",
+    "translated_text": "Once the materials are gathered, pray bring them to Hayal. I&amp;#x27;ll set to work anon and install it near the Nirubirisu Grand Bridge. — Well then, I leave it to you.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -226,8 +226,8 @@
   },
   "182.csv::196": {
     "id": "182.csv::196",
-    "source_text": "はぁ、腕が鳴りますなァ\nこうして&quot;仕事&quot;をするのは久しぶりです――\n早急に製造し、《二ルビリス大橋》に\n設置してまいります！",
-    "translated_text": "Haah... my arms are itching for work. &#x27;Tis been a long while since I&#x27;ve done &#x27;work&#x27; like this... I&#x27;ll craft it with all haste and set it upon the Nirlbilis Bridge!",
+    "source_text": "はぁ、腕が鳴りますなァ\nこうして&amp;quot;仕事&amp;quot;をするのは久しぶりです――\n早急に製造し、《二ルビリス大橋》に\n設置してまいります！",
+    "translated_text": "Haah... my arms are itching for work. &amp;#x27;Tis been a long while since I&amp;#x27;ve done &amp;#x27;work&amp;#x27; like this... I&amp;#x27;ll craft it with all haste and set it upon the Nirlbilis Bridge!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -242,7 +242,7 @@
   "182.csv::197": {
     "id": "182.csv::197",
     "source_text": "大砲の扱い方については、実地でお教えします\n後程、現地で落ち合いましょう",
-    "translated_text": "The cannon&#x27;s workings... I shall teach you in the field. Let us meet there later.",
+    "translated_text": "The cannon&amp;#x27;s workings... I shall teach you in the field. Let us meet there later.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -272,7 +272,7 @@
   "182.csv::199": {
     "id": "182.csv::199",
     "source_text": "戦甲をまとった敵、それを密かに狙う大砲――\n位置取りはバッチリです\nこれで奴らを一網打尽にしてやってください",
-    "translated_text": "Foes clad in battle armor, cannons covertly trained upon them—\nThe positioning... &#x27;tis perfect.\nNow... you need but spring the trap, and take them all in one sweep.",
+    "translated_text": "Foes clad in battle armor, cannons covertly trained upon them—\nThe positioning... &amp;#x27;tis perfect.\nNow... you need but spring the trap, and take them all in one sweep.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -287,7 +287,7 @@
   "182.csv::200": {
     "id": "182.csv::200",
     "source_text": "わたしはもちろん、ここで見守っています！\nあ、大砲の扱い方についてお伝えしますね",
-    "translated_text": "I&#x27;ll be watching over things here, of course!\nAh, allow me to explain how to work the cannon.",
+    "translated_text": "I&amp;#x27;ll be watching over things here, of course!\nAh, allow me to explain how to work the cannon.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -301,8 +301,8 @@
   },
   "182.csv::201": {
     "id": "182.csv::201",
-    "source_text": "大砲は\n&lt;COL ff2600&gt;【&lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;】で照準&lt;/COL&gt;を合わせ\n&lt;COL ff2600&gt;【&lt;KCT TOUCH&gt;】で発射&lt;/COL&gt;です\n再装填は自動ですので、ご安心を！",
-    "translated_text": "The cannon — aim with &lt;COL ff2600&gt;【&lt;PADM&gt;Right Stick&lt;KEYM&gt;Mouse Movement&lt;/KEYM&gt;】&lt;/COL&gt;, and fire with &lt;COL ff2600&gt;【&lt;KCT TOUCH&gt;】&lt;/COL&gt;. Reloading is automatic, so... pray, be at ease.",
+    "source_text": "大砲は\n&amp;lt;COL ff2600&amp;gt;【&amp;lt;PADM&amp;gt;右スティック&amp;lt;KEYM&amp;gt;マウス移動&amp;lt;/KEYM&amp;gt;】で照準&amp;lt;/COL&amp;gt;を合わせ\n&amp;lt;COL ff2600&amp;gt;【&amp;lt;KCT TOUCH&amp;gt;】で発射&amp;lt;/COL&amp;gt;です\n再装填は自動ですので、ご安心を！",
+    "translated_text": "The cannon — aim with &amp;lt;COL ff2600&amp;gt;【&amp;lt;PADM&amp;gt;Right Stick&amp;lt;KEYM&amp;gt;Mouse Movement&amp;lt;/KEYM&amp;gt;】&amp;lt;/COL&amp;gt;, and fire with &amp;lt;COL ff2600&amp;gt;【&amp;lt;KCT TOUCH&amp;gt;】&amp;lt;/COL&amp;gt;. Reloading is automatic, so... pray, be at ease.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -316,8 +316,8 @@
   },
   "182.csv::202": {
     "id": "182.csv::202",
-    "source_text": "大砲は\n&lt;COL ff2600&gt;【&lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;】で照準&lt;/COL&gt;を合わせ\n&lt;COL ff2600&gt;【&lt;KCT TOUCH&gt;】で発射&lt;/COL&gt;です\n再装填は自動ですので、ご安心を！",
-    "translated_text": "The cannon — aim with &lt;COL ff2600&gt;【&lt;PADM&gt;Right Stick&lt;KEYM&gt;Mouse Movement&lt;/KEYM&gt;】&lt;/COL&gt;, and fire with &lt;COL ff2600&gt;【&lt;KCT TOUCH&gt;】&lt;/COL&gt;. Reloading is automatic, so... pray, be at ease.",
+    "source_text": "大砲は\n&amp;lt;COL ff2600&amp;gt;【&amp;lt;PADM&amp;gt;右スティック&amp;lt;KEYM&amp;gt;マウス移動&amp;lt;/KEYM&amp;gt;】で照準&amp;lt;/COL&amp;gt;を合わせ\n&amp;lt;COL ff2600&amp;gt;【&amp;lt;KCT TOUCH&amp;gt;】で発射&amp;lt;/COL&amp;gt;です\n再装填は自動ですので、ご安心を！",
+    "translated_text": "The cannon — aim with &amp;lt;COL ff2600&amp;gt;【&amp;lt;PADM&amp;gt;Right Stick&amp;lt;KEYM&amp;gt;Mouse Movement&amp;lt;/KEYM&amp;gt;】&amp;lt;/COL&amp;gt;, and fire with &amp;lt;COL ff2600&amp;gt;【&amp;lt;KCT TOUCH&amp;gt;】&amp;lt;/COL&amp;gt;. Reloading is automatic, so... pray, be at ease.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -347,7 +347,7 @@
   "182.csv::204": {
     "id": "182.csv::204",
     "source_text": "作成方法が分かり、魔軍のやつらに\n撃ちこんだ際の効果もこの目で確認できました\n――これで、解放軍の戦力増強は確実です！",
-    "translated_text": "I&#x27;ve grasped the means of its crafting, and confirmed the effects upon the Demon Army with these very eyes. With this... the Liberation Army&#x27;s strength is assured!",
+    "translated_text": "I&amp;#x27;ve grasped the means of its crafting, and confirmed the effects upon the Demon Army with these very eyes. With this... the Liberation Army&amp;#x27;s strength is assured!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -377,7 +377,7 @@
   "182.csv::206": {
     "id": "182.csv::206",
     "source_text": "親父から受け継いだ知識が、技術が\n――いえ、今までの人生全てが\nわたしをまだ生かしてくれるようです",
-    "translated_text": "The knowledge from my father... the skill...\n— nay, &#x27;tis my whole life until now\nthat still seems to keep me alive.",
+    "translated_text": "The knowledge from my father... the skill...\n— nay, &amp;#x27;tis my whole life until now\nthat still seems to keep me alive.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -407,7 +407,7 @@
   "182.csv::208": {
     "id": "182.csv::208",
     "source_text": "えっ、ちょっと――\n大砲の使い方について\nご説明したかったのですが――\nほ、本当に、聞かなくて大丈夫ですか！？",
-    "translated_text": "Eh, just a moment—\nI had wished to explain the cannon&#x27;s use—\nAre you... truly certain you need not hear this!?",
+    "translated_text": "Eh, just a moment—\nI had wished to explain the cannon&amp;#x27;s use—\nAre you... truly certain you need not hear this!?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -452,7 +452,7 @@
   "182.csv::302": {
     "id": "182.csv::302",
     "source_text": "彼の者の討伐を――どうか――\n火竜様なき今、あなただけが頼りなのです",
-    "translated_text": "That one&#x27;s subjugation... I beseech you...\nNow that Lord Fire Dragon is no more, you alone are the one we depend upon.",
+    "translated_text": "That one&amp;#x27;s subjugation... I beseech you...\nNow that Lord Fire Dragon is no more, you alone are the one we depend upon.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -467,7 +467,7 @@
   "182.csv::303": {
     "id": "182.csv::303",
     "source_text": "彼の者の討伐を――どうか――\n火竜様なき今、あなただけが頼りなのです",
-    "translated_text": "That one&#x27;s subjugation... I beseech you...\nNow that Lord Fire Dragon is no more, you alone are the one we depend upon.",
+    "translated_text": "That one&amp;#x27;s subjugation... I beseech you...\nNow that Lord Fire Dragon is no more, you alone are the one we depend upon.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -497,7 +497,7 @@
   "182.csv::305": {
     "id": "182.csv::305",
     "source_text": "彼の異形の存在を民に気付かれることもなく\n対処できたことに、胸を撫で下ろしております",
-    "translated_text": "&#x27;Tis a relief that we were able to address his deformed existence without the citizenry taking notice.",
+    "translated_text": "&amp;#x27;Tis a relief that we were able to address his deformed existence without the citizenry taking notice.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -512,7 +512,7 @@
   "182.csv::306": {
     "id": "182.csv::306",
     "source_text": "ネド王子のご無事、そして異国の覚者様の\nお噂を聞いたとき――我々にとってその話は\n非常に喜ばしく、けれども\nかすかな希望でしかありませんでした",
-    "translated_text": "When word reached us of Prince Nedo&#x27;s safety, and the rumors of the Arisen from a foreign land — for us, such news was greatly heartening, yet it was naught but a faint hope.",
+    "translated_text": "When word reached us of Prince Nedo&amp;#x27;s safety, and the rumors of the Arisen from a foreign land — for us, such news was greatly heartening, yet it was naught but a faint hope.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -527,7 +527,7 @@
   "182.csv::307": {
     "id": "182.csv::307",
     "source_text": "しかし、ここまでの覚者様のご活躍――\n完全なるアッカ―王家の再興が\n確信に変わる思いです",
-    "translated_text": "However, Ser Arisen&#x27;s exploits thus far — &#x27;tis a feeling that the complete restoration of House Acre has turned to conviction.",
+    "translated_text": "However, Ser Arisen&amp;#x27;s exploits thus far — &amp;#x27;tis a feeling that the complete restoration of House Acre has turned to conviction.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -557,7 +557,7 @@
   "182.csv::332": {
     "id": "182.csv::332",
     "source_text": "あれらは知能の低さと凶暴性から\n仲間内でも頻繁に殺し合いをする性質があります\nですので、そう大きな群れを作ることはなかったのです\n――これまでは、ですが",
-    "translated_text": "Their low intelligence and ferocity move them to slaughter one another even amongst their own kind. &#x27;Tis for this reason they never formed such great packs — until now, however.",
+    "translated_text": "Their low intelligence and ferocity move them to slaughter one another even amongst their own kind. &amp;#x27;Tis for this reason they never formed such great packs — until now, however.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -572,7 +572,7 @@
   "182.csv::333": {
     "id": "182.csv::333",
     "source_text": "この異変が、悪しき竜の影響に\nよるものなのかはわかりません",
-    "translated_text": "Whether this anomaly stems from the Evil Dragon&#x27;s influence... we cannot say.",
+    "translated_text": "Whether this anomaly stems from the Evil Dragon&amp;#x27;s influence... we cannot say.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -632,7 +632,7 @@
   "182.csv::337": {
     "id": "182.csv::337",
     "source_text": "懸念としては――今回、群れの形成に至った\n原因がわからないままであることです\nまた、同じような群れが出現しないとも限りません\n今後も注視しておかなくては",
-    "translated_text": "The concern — the cause that led to this herd&#x27;s formation remains yet unknown.\nNor can we discount the chance that similar herds may arise anew.\nWe must needs maintain a vigilant watch henceforth.",
+    "translated_text": "The concern — the cause that led to this herd&amp;#x27;s formation remains yet unknown.\nNor can we discount the chance that similar herds may arise anew.\nWe must needs maintain a vigilant watch henceforth.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
