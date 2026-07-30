@@ -17,7 +17,7 @@
   "178.csv::297": {
     "id": "178.csv::297",
     "source_text": "ウルテカ山岳は火山の影響もあって\nとても自然豊かとは言えないが\nこの洞窟の中は別だ――様々な素材が取れる",
-    "translated_text": "The Urteca Mountains aren&#x27;t very bountiful\ndue to the volcano&#x27;s influence, but this cave\nis different. You can get various materials here.",
+    "translated_text": "The Urteca Mountains aren&amp;#x27;t very bountiful\ndue to the volcano&amp;#x27;s influence, but this cave\nis different. You can get various materials here.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -32,7 +32,7 @@
   "178.csv::298": {
     "id": "178.csv::298",
     "source_text": "地図にマークを付けておいてやるから\n中の様子を見てくるといい――\n魔物がウヨウヨいるから、準備だけは怠るなよ",
-    "translated_text": "I&#x27;ll mark it on your map. Go take a look inside.\nThere are monsters swarming around,\nso don&#x27;t slack on your preparations.",
+    "translated_text": "I&amp;#x27;ll mark it on your map. Go take a look inside.\nThere are monsters swarming around,\nso don&amp;#x27;t slack on your preparations.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -47,7 +47,7 @@
   "178.csv::299": {
     "id": "178.csv::299",
     "source_text": "それと最後に――洞窟が今\nどうなっているかだけは教えてくれ\nしばらく様子を見に行けていなくてな\nそれ以外は好きにやってもらってかまわん",
-    "translated_text": "One last thing. Just make note how the cave\nis doing. I haven&#x27;t been able to check on it for\na while. Other than that, do as you like.",
+    "translated_text": "One last thing. Just make note how the cave\nis doing. I haven&amp;#x27;t been able to check on it for\na while. Other than that, do as you like.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -62,7 +62,7 @@
   "178.csv::300": {
     "id": "178.csv::300",
     "source_text": "地図にマークを付けておいてやるから\n中の様子を見てくるといい――\n魔物がウヨウヨいるから、準備だけは怠るなよ",
-    "translated_text": "I&#x27;ll mark it on your map. Go take a look inside.\nThere are monsters swarming around,\nso don&#x27;t slack on your preparations.",
+    "translated_text": "I&amp;#x27;ll mark it on your map. Go take a look inside.\nThere are monsters swarming around,\nso don&amp;#x27;t slack on your preparations.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -92,7 +92,7 @@
   "178.csv::302": {
     "id": "178.csv::302",
     "source_text": "なるほどな――心配していたほど\n悪いようにはなっていないようだ",
-    "translated_text": "I see. It doesn&#x27;t seem as bad\nas I was worried it might be.",
+    "translated_text": "I see. It doesn&amp;#x27;t seem as bad\nas I was worried it might be.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -107,7 +107,7 @@
   "178.csv::303": {
     "id": "178.csv::303",
     "source_text": "今後も好きに活用してくれ\nお前が出入りするようになれば\n自然と魔物も減っていくだろうさ",
-    "translated_text": "Feel free to make use of it from now on.\nIf you frequent there, the monsters&#x27; presence\nwill naturally decrease.",
+    "translated_text": "Feel free to make use of it from now on.\nIf you frequent there, the monsters&amp;#x27; presence\nwill naturally decrease.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -122,7 +122,7 @@
   "178.csv::313": {
     "id": "178.csv::313",
     "source_text": "覚者殿、こんな話を耳にされたことはございませんか？\n《聖炎の参竜道》には隠されし宝と\nそれを守る3匹の魔物がいる――という話です",
-    "translated_text": "Master Arisen, have you ever heard such a tale? &#x27;Tis said the Sacred Flame Path conceals a hidden treasure, guarded by three monsters.",
+    "translated_text": "Master Arisen, have you ever heard such a tale? &amp;#x27;Tis said the Sacred Flame Path conceals a hidden treasure, guarded by three monsters.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -137,7 +137,7 @@
   "178.csv::314": {
     "id": "178.csv::314",
     "source_text": "実は私、こういう話に目がないもので\n子供のように胸が躍ってしまうのです\n確かめてみたい気持ちはあるのですが\nいかんせん場所が場所ですから――",
-    "translated_text": "In truth, I confess a weakness for tales such as these — my heart races like a child&#x27;s at the mere prospect. I should dearly like to verify the matter for myself, yet... the location being what it is—",
+    "translated_text": "In truth, I confess a weakness for tales such as these — my heart races like a child&amp;#x27;s at the mere prospect. I should dearly like to verify the matter for myself, yet... the location being what it is—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -167,7 +167,7 @@
   "178.csv::316": {
     "id": "178.csv::316",
     "source_text": "《聖炎の参竜道》には隠されし宝と\nそれを守る3匹の魔物がいる――という話です\nこの話が本当であれば、危険な調査になるでしょう\nくれぐれもお気をつけて",
-    "translated_text": "The Sacred Flame Path is said to hold a hidden treasure, guarded by three monsters — or so the tale goes. Should that tale prove true, &#x27;twill be a perilous investigation. Pray, take the utmost care.",
+    "translated_text": "The Sacred Flame Path is said to hold a hidden treasure, guarded by three monsters — or so the tale goes. Should that tale prove true, &amp;#x27;twill be a perilous investigation. Pray, take the utmost care.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -182,7 +182,7 @@
   "178.csv::317": {
     "id": "178.csv::317",
     "source_text": "覚者様、お戻りになられましたか\nご無事でなによりです――\nそれで、宝の真相はどうだったのでしょう？",
-    "translated_text": "Ser Arisen, have you returned? &#x27;Tis a relief to see you unharmed — then, what was the truth of the treasure?",
+    "translated_text": "Ser Arisen, have you returned? &amp;#x27;Tis a relief to see you unharmed — then, what was the truth of the treasure?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -212,7 +212,7 @@
   "178.csv::319": {
     "id": "178.csv::319",
     "source_text": "いつか、私もこの目で見てみたいものです\n元はといえば、こういった伝説や英雄譚に憧れて\n子供心に兵士を志したもので――",
-    "translated_text": "One day, I should like to behold it with these eyes of mine. &#x27;Twas a child&#x27;s admiration for such legends and heroic tales that first stirred me to aspire to the soldier&#x27;s path—",
+    "translated_text": "One day, I should like to behold it with these eyes of mine. &amp;#x27;Twas a child&amp;#x27;s admiration for such legends and heroic tales that first stirred me to aspire to the soldier&amp;#x27;s path—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -227,7 +227,7 @@
   "178.csv::320": {
     "id": "178.csv::320",
     "source_text": "お忙しいところ、依頼を引き受けてくださって\nありがとうございました\nきっと、今後子供たちが口にする英雄譚の主人公は\n覚者殿になることでしょう",
-    "translated_text": "Thank you for undertaking the request even amidst your many duties. &#x27;Tis certain the hero of the tales children will recount hereafter shall be none other than Master Arisen.",
+    "translated_text": "Thank you for undertaking the request even amidst your many duties. &amp;#x27;Tis certain the hero of the tales children will recount hereafter shall be none other than Master Arisen.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -242,7 +242,7 @@
   "178.csv::321": {
     "id": "178.csv::321",
     "source_text": "覚者さま、《初代王の指輪》を手にされたとか！\nご存じですか？\nその指輪、アッカーシェランで数百年もの間\n誰にも見つけられなかった代物なんですよ",
-    "translated_text": "Master Arisen, &#x27;tis said you&#x27;ve come into the Ring of the First King!\nDid you know?\nThat ring went unfound in Acre Selund for hundreds of years!",
+    "translated_text": "Master Arisen, &amp;#x27;tis said you&amp;#x27;ve come into the Ring of the First King!\nDid you know?\nThat ring went unfound in Acre Selund for hundreds of years!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -257,7 +257,7 @@
   "178.csv::322": {
     "id": "178.csv::322",
     "source_text": "どれだけの力を秘めているのかは\n学も無い自分らにはわかりませんけど――\n元貴族であり、クレス前王に仕えていた\nキルスティ師ならお詳しいかもしれませんね",
-    "translated_text": "&#x27;Tis beyond unlearned folk like us to know what power it holds—\nbut Master Kirsty, once a nobleman who served the former King Cress,\nmight well know more of it.",
+    "translated_text": "&amp;#x27;Tis beyond unlearned folk like us to know what power it holds—\nbut Master Kirsty, once a nobleman who served the former King Cress,\nmight well know more of it.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -271,8 +271,8 @@
   },
   "178.csv::323": {
     "id": "178.csv::323",
-    "source_text": "えーっと、今では辺鄙な場所にある&quot;あばら屋&quot;で\n暮らしていらっしゃるのだとか\n偉い方の考えることは理解できませんや\n――王宮には戻られないのですかね",
-    "translated_text": "Well now... &#x27;Tis said they dwell in a ramshackle hovel out in the back of beyond these days. The thinkin&#x27; of the high and mighty is beyond me — think they&#x27;ll ever return to the Royal Palace?",
+    "source_text": "えーっと、今では辺鄙な場所にある&amp;quot;あばら屋&amp;quot;で\n暮らしていらっしゃるのだとか\n偉い方の考えることは理解できませんや\n――王宮には戻られないのですかね",
+    "translated_text": "Well now... &amp;#x27;Tis said they dwell in a ramshackle hovel out in the back of beyond these days. The thinkin&amp;#x27; of the high and mighty is beyond me — think they&amp;#x27;ll ever return to the Royal Palace?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -287,7 +287,7 @@
   "178.csv::324": {
     "id": "178.csv::324",
     "source_text": "《初代王の指輪》について\n詳しくお知りになりたければ\n一度尋ねてみてはどうです？",
-    "translated_text": "If you&#x27;d know more of the Ring of the First King, why not try asking?",
+    "translated_text": "If you&amp;#x27;d know more of the Ring of the First King, why not try asking?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -301,8 +301,8 @@
   },
   "178.csv::325": {
     "id": "178.csv::325",
-    "source_text": "《初代王の指輪》についてですか？\n今はハイセプターのジョブマスターをしている\nキルスティ師ならご存じかもしれませんね\nメガドシス高地にある、&quot;あばら屋&quot;にお住まいとか",
-    "translated_text": "About the Ring of the First King? Master Kirsty, now the High Scepter&#x27;s Job Master, may know of it. &#x27;Tis said she dwells in a ramshackle hut on the Megadosys Plateau.",
+    "source_text": "《初代王の指輪》についてですか？\n今はハイセプターのジョブマスターをしている\nキルスティ師ならご存じかもしれませんね\nメガドシス高地にある、&amp;quot;あばら屋&amp;quot;にお住まいとか",
+    "translated_text": "About the Ring of the First King? Master Kirsty, now the High Scepter&amp;#x27;s Job Master, may know of it. &amp;#x27;Tis said she dwells in a ramshackle hut on the Megadosys Plateau.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -317,7 +317,7 @@
   "178.csv::326": {
     "id": "178.csv::326",
     "source_text": "サマラ初代王の指輪？\nああ、アレで火垂れ山への扉を開いたそうだね\nあの扉はサマラ初代王に関わる何かが無いと\n開くことはないから――例えば、血統や遺品なんかのね",
-    "translated_text": "The Ring of the First King of Samara?\nAh, so &#x27;twas with that you opened the door to Firefall Mountain.\nThat door will not open without aught tied to the First King of Samara—\nbe it bloodline or heirloom, or the like.",
+    "translated_text": "The Ring of the First King of Samara?\nAh, so &amp;#x27;twas with that you opened the door to Firefall Mountain.\nThat door will not open without aught tied to the First King of Samara—\nbe it bloodline or heirloom, or the like.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -377,7 +377,7 @@
   "178.csv::330": {
     "id": "178.csv::330",
     "source_text": "《秘泉への暗道》、そこで話をしよう\n君も行ったことがある場所だから\n迷うことは無いだろう？\n入口で待っていてくれ、私もすぐに向かう",
-    "translated_text": "《Dark Path to the Secret Spring》... let us speak there. &#x27;Tis a place you&#x27;ve visited before, so you should not lose your way. Wait at the entrance — I shall be there anon.",
+    "translated_text": "《Dark Path to the Secret Spring》... let us speak there. &amp;#x27;Tis a place you&amp;#x27;ve visited before, so you should not lose your way. Wait at the entrance — I shall be there anon.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -392,7 +392,7 @@
   "178.csv::331": {
     "id": "178.csv::331",
     "source_text": "《秘泉への暗道》で待ち合わせよう\n――まさかとは思うが、迷うことは無いね？\n君も一度は行っているはずだ\n私もすぐに向かうよ",
-    "translated_text": "Let&#x27;s meet at the Dark Path to the Secret Spring.\n— I&#x27;d never have thought it, but you won&#x27;t lose your way, will you?\nYou&#x27;ve been there once before, after all.\nI&#x27;ll be along anon.",
+    "translated_text": "Let&amp;#x27;s meet at the Dark Path to the Secret Spring.\n— I&amp;#x27;d never have thought it, but you won&amp;#x27;t lose your way, will you?\nYou&amp;#x27;ve been there once before, after all.\nI&amp;#x27;ll be along anon.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -437,7 +437,7 @@
   "178.csv::334": {
     "id": "178.csv::334",
     "source_text": "クレス様も、ネド王子と同じく\nこの泉で秘蹟を行われたんだ\nその時に護衛したのが私だった",
-    "translated_text": "Queen Cress underwent the secret rite at this spring, just as Prince Nedo did. &#x27;Twas I who stood guard at that time.",
+    "translated_text": "Queen Cress underwent the secret rite at this spring, just as Prince Nedo did. &amp;#x27;Twas I who stood guard at that time.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -452,7 +452,7 @@
   "178.csv::335": {
     "id": "178.csv::335",
     "source_text": "私たちがまだ少女だった頃――\n何度か王宮で顔を合わせただけの私を\nクレス様はなぜかハイセプターにと指名された",
-    "translated_text": "When we were yet girls— Queen Cress appointed me High Scepter, though we&#x27;d crossed paths but a few times at the Royal Palace.",
+    "translated_text": "When we were yet girls— Queen Cress appointed me High Scepter, though we&amp;#x27;d crossed paths but a few times at the Royal Palace.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -467,7 +467,7 @@
   "178.csv::336": {
     "id": "178.csv::336",
     "source_text": "私は特に何も思うことなく――\nただの役職としてそれを受け入れ\n先代のハイセプターに師事し、技を磨いた\n幸いかなり素養もあったみたいでね",
-    "translated_text": "I gave it no particular thought—\nMerely accepted it as a post,\nStudied under the previous High Scepter, and honed my skills.\n&#x27;Twas fortunate, I had quite the aptitude for it, it seems.",
+    "translated_text": "I gave it no particular thought—\nMerely accepted it as a post,\nStudied under the previous High Scepter, and honed my skills.\n&amp;#x27;Twas fortunate, I had quite the aptitude for it, it seems.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -497,7 +497,7 @@
   "178.csv::338": {
     "id": "178.csv::338",
     "source_text": "この方は素晴らしい竜となる覚者で――\nそして私を選ばれ、私がお仕えする王なのだと\n心の芯が震えるような思いだった",
-    "translated_text": "This one is a magnificent Arisen who shall become a dragon—and that they chose me, that they are the king I serve... &#x27;twas a feeling that shook me to my core.",
+    "translated_text": "This one is a magnificent Arisen who shall become a dragon—and that they chose me, that they are the king I serve... &amp;#x27;twas a feeling that shook me to my core.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -512,7 +512,7 @@
   "178.csv::339": {
     "id": "178.csv::339",
     "source_text": "さて、今回の思い出話はここまでだ\n思い出話なんてのは尽きないものだからね\n適当に切り上げないと大変なことになる\nさ、私の家に戻ろうか",
-    "translated_text": "Well then, that&#x27;s enough reminiscing for today.\nSuch tales never truly end, you know.\nIf we don&#x27;t cut it short, &#x27;twill be no end of trouble.\nCome, let us return to my home.",
+    "translated_text": "Well then, that&amp;#x27;s enough reminiscing for today.\nSuch tales never truly end, you know.\nIf we don&amp;#x27;t cut it short, &amp;#x27;twill be no end of trouble.\nCome, let us return to my home.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -527,7 +527,7 @@
   "178.csv::340": {
     "id": "178.csv::340",
     "source_text": "何だい？　私に、老人のように\n思い出話ばかりしろって？\n残念ながら、そこまで暇じゃないのさ\nさ、我があばら屋へ戻ろうか",
-    "translated_text": "What is it? You&#x27;d have me spin nothing but reminiscences like some doddering elder?\nI&#x27;m afraid I&#x27;ve not the leisure.\nCome, let&#x27;s return to my hovel.",
+    "translated_text": "What is it? You&amp;#x27;d have me spin nothing but reminiscences like some doddering elder?\nI&amp;#x27;m afraid I&amp;#x27;ve not the leisure.\nCome, let&amp;#x27;s return to my hovel.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -542,7 +542,7 @@
   "178.csv::341": {
     "id": "178.csv::341",
     "source_text": "泉で秘蹟を行ったクレス様は王として\nアッカーシェランの繁栄に尽力された\n――この話の続きは次の機会にでもとっておこうか\n思い出話を聞きたいほど暇なら、またおいで",
-    "translated_text": "Queen Cress, who performed the sacrament at the spring, devoted herself to Acre Selund&#x27;s prosperity as its queen. -- Let us save the rest for another occasion. If you&#x27;ve leisure enough for reminiscence... return again.",
+    "translated_text": "Queen Cress, who performed the sacrament at the spring, devoted herself to Acre Selund&amp;#x27;s prosperity as its queen. -- Let us save the rest for another occasion. If you&amp;#x27;ve leisure enough for reminiscence... return again.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -602,7 +602,7 @@
   "178.csv::345": {
     "id": "178.csv::345",
     "source_text": "敵の生命力を我が物とする――格闘術ではなく、魔術だよ",
-    "translated_text": "The enemy&#x27;s vitality becomes ours to claim — not by martial arts, but by magick.",
+    "translated_text": "The enemy&amp;#x27;s vitality becomes ours to claim — not by martial arts, but by magick.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -617,7 +617,7 @@
   "178.csv::346": {
     "id": "178.csv::346",
     "source_text": "やれやれ、静かに思い出話もできないなんて",
-    "translated_text": "Oh, come on—I can&#x27;t even reminisce in peace.",
+    "translated_text": "Oh, come on—I can&amp;#x27;t even reminisce in peace.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -662,7 +662,7 @@
   "178.csv::349": {
     "id": "178.csv::349",
     "source_text": "いいね、《王家の墓》だ\n私も軽く準備をしたら\nすぐに向かうよ",
-    "translated_text": "Good. The Royal Family Mausoleum, then. I&#x27;ll make light preparations and be there anon.",
+    "translated_text": "Good. The Royal Family Mausoleum, then. I&amp;#x27;ll make light preparations and be there anon.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -677,7 +677,7 @@
   "178.csv::350": {
     "id": "178.csv::350",
     "source_text": "今回は《王家の墓》で話をしよう\nまぁ、思い出巡りの旅に\n付き合うと思ってくれ\n私も軽く準備をしたらすぐに向かうよ",
-    "translated_text": "Let us speak at the Royal Family Mausoleum this time.\nWell... consider it a pilgrimage through memories.\nThink of it as keeping an old woman company.\nI shall be there anon, once I&#x27;ve made ready.",
+    "translated_text": "Let us speak at the Royal Family Mausoleum this time.\nWell... consider it a pilgrimage through memories.\nThink of it as keeping an old woman company.\nI shall be there anon, once I&amp;#x27;ve made ready.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -692,7 +692,7 @@
   "178.csv::351": {
     "id": "178.csv::351",
     "source_text": "ん？　気にしないで、私も今来たところさ\nでは行くとしようか！\n――このすぐ先にある小部屋から\n不穏な気配がするな、油断は禁物だ",
-    "translated_text": "Hm? Pray, think nothing of it — I&#x27;ve but just arrived myself.\nThen let us be off!\n——From the small chamber just ahead... &#x27;Tis an ominous presence. Carelessness would be unwise.",
+    "translated_text": "Hm? Pray, think nothing of it — I&amp;#x27;ve but just arrived myself.\nThen let us be off!\n——From the small chamber just ahead... &amp;#x27;Tis an ominous presence. Carelessness would be unwise.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -707,7 +707,7 @@
   "178.csv::352": {
     "id": "178.csv::352",
     "source_text": "まぁ、いい運動にはなったか\nそれにしても、王家の墓ともあろう場に\nこんなにも魔物がのさばっているとは――\n警備に回す人員が不足しているとはいえ、許せないな",
-    "translated_text": "Well, &#x27;twas good exercise at least.\nEven so... that the Royal Family Mausoleum should be so overrun with monsters—\nShort on guards though they may be, &#x27;tis unforgivable.",
+    "translated_text": "Well, &amp;#x27;twas good exercise at least.\nEven so... that the Royal Family Mausoleum should be so overrun with monsters—\nShort on guards though they may be, &amp;#x27;tis unforgivable.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -722,7 +722,7 @@
   "178.csv::353": {
     "id": "178.csv::353",
     "source_text": "――ああ、クレス様と指輪の話を\n聞きたがっていたのだったね",
-    "translated_text": "――Oh, right—you wanted to hear\nabout Lord Cress and the ring, didn&#x27;t you?",
+    "translated_text": "――Oh, right—you wanted to hear\nabout Lord Cress and the ring, didn&amp;#x27;t you?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -782,7 +782,7 @@
   "178.csv::357": {
     "id": "178.csv::357",
     "source_text": "内から炎の力が煌めくような\n若くも美しい竜だった\nまばゆいほどのその御姿に、これからも\nアッカーシェランの繁栄は約束されたと確信したものだ",
-    "translated_text": "&#x27;Twas a dragon young and beautiful, flame&#x27;s power shimmering from within.\nAt that dazzling form, I held the conviction — Acre Selund&#x27;s prosperity was assured, now and evermore.",
+    "translated_text": "&amp;#x27;Twas a dragon young and beautiful, flame&amp;#x27;s power shimmering from within.\nAt that dazzling form, I held the conviction — Acre Selund&amp;#x27;s prosperity was assured, now and evermore.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -827,7 +827,7 @@
   "178.csv::360": {
     "id": "178.csv::360",
     "source_text": "今回はここまでにしよう\n我があばら屋でお茶でも飲んでいかないか？\n今ならなんと――私自ら手摘みした\n最高級の茶葉がある",
-    "translated_text": "We&#x27;ll stop here for today.\nWon&#x27;t you stay for tea at my humble abode?\nAs it happens... I have the finest tea leaves, picked by my own hand.",
+    "translated_text": "We&amp;#x27;ll stop here for today.\nWon&amp;#x27;t you stay for tea at my humble abode?\nAs it happens... I have the finest tea leaves, picked by my own hand.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -842,7 +842,7 @@
   "178.csv::361": {
     "id": "178.csv::361",
     "source_text": "自給自足の生活も案外楽しいものさ\n惜しむらくはそれを一緒に楽しみたい相手が\n居ないことかな\n今日は付き合ってくれるね？",
-    "translated_text": "A self-sufficient life... &#x27;tis surprisingly enjoyable.\nThe pity is... there&#x27;s no one to share it with.\nYou&#x27;ll keep me company today, won&#x27;t you?",
+    "translated_text": "A self-sufficient life... &amp;#x27;tis surprisingly enjoyable.\nThe pity is... there&amp;#x27;s no one to share it with.\nYou&amp;#x27;ll keep me company today, won&amp;#x27;t you?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -857,7 +857,7 @@
   "178.csv::362": {
     "id": "178.csv::362",
     "source_text": "指輪が見つからずとも\nアッカーシェランの繁栄を確信していた――\nしかし、それからすぐのことだ\n魔軍の襲撃があったのは",
-    "translated_text": "Even had the ring not been found, I was convinced of Acre Selund&#x27;s prosperity— but &#x27;twas soon after that the Demon Army attacked.",
+    "translated_text": "Even had the ring not been found, I was convinced of Acre Selund&amp;#x27;s prosperity— but &amp;#x27;twas soon after that the Demon Army attacked.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -917,7 +917,7 @@
   "178.csv::366": {
     "id": "178.csv::366",
     "source_text": "ううん、所詮は雑魚の群れ――もっと骨のあるヤツと戦いたいね",
-    "translated_text": "Nah, mere small fry... I&#x27;d sooner face a foe of substance.",
+    "translated_text": "Nah, mere small fry... I&amp;#x27;d sooner face a foe of substance.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -932,7 +932,7 @@
   "178.csv::367": {
     "id": "178.csv::367",
     "source_text": "普段は純魔法なんて使う機会が無いからさ",
-    "translated_text": "Normally, I&#x27;ve no call to use pure magick, you see.",
+    "translated_text": "Normally, I&amp;#x27;ve no call to use pure magick, you see.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -947,7 +947,7 @@
   "178.csv::368": {
     "id": "178.csv::368",
     "source_text": "やはり二人で戦うというのは良いものだな",
-    "translated_text": "Fighting together really is great, isn&#x27;t it?",
+    "translated_text": "Fighting together really is great, isn&amp;#x27;t it?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -962,7 +962,7 @@
   "178.csv::369": {
     "id": "178.csv::369",
     "source_text": "ああ、この前の話の続きを聞きに\nわざわざ来てくれたのか\n君も物好きだな――\nせっかくだ、今回も現地で話そうか",
-    "translated_text": "Ah, you came all this way to hear the rest of our last talk... You&#x27;re quite the enthusiast. Since you&#x27;re here, shall we speak on-site again?",
+    "translated_text": "Ah, you came all this way to hear the rest of our last talk... You&amp;#x27;re quite the enthusiast. Since you&amp;#x27;re here, shall we speak on-site again?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -977,7 +977,7 @@
   "178.csv::370": {
     "id": "178.csv::370",
     "source_text": "展望城に通じる秘密の扉\nあれがある《王家の隠れ道》に行こう\n少々遠いから、支度をしてから向かうよ\n先に行っていてくれるかい",
-    "translated_text": "A secret door leading to Lookout Castle.\nLet us make for the Royal Family&#x27;s Secret Path, where it lies.\n&#x27;Tis some distance off, so I shall ready myself afore following.\nWill you go on ahead?",
+    "translated_text": "A secret door leading to Lookout Castle.\nLet us make for the Royal Family&amp;#x27;s Secret Path, where it lies.\n&amp;#x27;Tis some distance off, so I shall ready myself afore following.\nWill you go on ahead?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -992,7 +992,7 @@
   "178.csv::371": {
     "id": "178.csv::371",
     "source_text": "《王家の隠れ道》で待ち合わせよう\n少々遠いから、支度をしてから向かうよ\n先に行っていてくれるかい",
-    "translated_text": "Let us meet at the Royal Family&#x27;s Secret Path.\n&#x27;Tis a fair way off, so I&#x27;ll make ready and follow.\nWould you go on ahead?",
+    "translated_text": "Let us meet at the Royal Family&amp;#x27;s Secret Path.\n&amp;#x27;Tis a fair way off, so I&amp;#x27;ll make ready and follow.\nWould you go on ahead?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1007,7 +1007,7 @@
   "178.csv::372": {
     "id": "178.csv::372",
     "source_text": "では出発といこうか\n先ほど言った通り、目的地は秘密の扉だ\nいつまた厄介な敵が出てくるとも限らない\n二人とはいえ、気を抜かずに行こう",
-    "translated_text": "Then let us set forth.\nAs I said, our destination is the secret door.\nThere&#x27;s no telling when more troublesome foes might appear.\nThough we are but two, let us not lower our guard.",
+    "translated_text": "Then let us set forth.\nAs I said, our destination is the secret door.\nThere&amp;#x27;s no telling when more troublesome foes might appear.\nThough we are but two, let us not lower our guard.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1037,7 +1037,7 @@
   "178.csv::374": {
     "id": "178.csv::374",
     "source_text": "実は、ここにはあまり良い思い出が無くてね",
-    "translated_text": "In truth, I&#x27;ve precious few good memories of this place.",
+    "translated_text": "In truth, I&amp;#x27;ve precious few good memories of this place.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1067,7 +1067,7 @@
   "178.csv::376": {
     "id": "178.csv::376",
     "source_text": "何もかもが平穏で、のどかな毎日だった\nそこへ、突然空の歪みと共に黒き竜が現れ――\n火竜様ももちろんすぐに戦いに出られた",
-    "translated_text": "&#x27;Twas all peaceful... tranquil days, each one.\nThen, all at once, the sky warped—and a black dragon appeared—\nLord Fire Dragon, naturally, sallied forth to battle at once.",
+    "translated_text": "&amp;#x27;Twas all peaceful... tranquil days, each one.\nThen, all at once, the sky warped—and a black dragon appeared—\nLord Fire Dragon, naturally, sallied forth to battle at once.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1082,7 +1082,7 @@
   "178.csv::377": {
     "id": "178.csv::377",
     "source_text": "たとえ力及ばずとも、私も\nクレス様のお傍で戦いたかった\nしかし同時に、彼女自身がそれを望んでいないことも\nわかっていたんだ",
-    "translated_text": "Even had I not the strength, I would have fought at Queen Cress&#x27;s side.\nBut I knew... she herself did not wish for it.",
+    "translated_text": "Even had I not the strength, I would have fought at Queen Cress&amp;#x27;s side.\nBut I knew... she herself did not wish for it.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1097,7 +1097,7 @@
   "178.csv::378": {
     "id": "178.csv::378",
     "source_text": "その望みは、激戦の影響の及ばぬ安全な場に\n民を誘導すること――",
-    "translated_text": "That wish... to guide the folk to a haven beyond the battle&#x27;s reach—",
+    "translated_text": "That wish... to guide the folk to a haven beyond the battle&amp;#x27;s reach—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1126,8 +1126,8 @@
   },
   "178.csv::380": {
     "id": "178.csv::380",
-    "source_text": "最も、魔軍は同時にいくつもの町を\n襲っていたから、今となって思えば\n&quot;安全な場所&quot;なんてなかったんだけどね――",
-    "translated_text": "Mind you, the Demon Army fell upon multiple towns at once, so in hindsight... there was naught such as a &quot;safe place&quot;...",
+    "source_text": "最も、魔軍は同時にいくつもの町を\n襲っていたから、今となって思えば\n&amp;quot;安全な場所&amp;quot;なんてなかったんだけどね――",
+    "translated_text": "Mind you, the Demon Army fell upon multiple towns at once, so in hindsight... there was naught such as a &amp;quot;safe place&amp;quot;...",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1157,7 +1157,7 @@
   "178.csv::382": {
     "id": "178.csv::382",
     "source_text": "今回の話はここまでだ\n帰るとしようか\nいけないね、私の中にまだ後悔があるみたいだ",
-    "translated_text": "Our talk is done. Let us return... That won&#x27;t do. Regret yet lingers within me, it seems.",
+    "translated_text": "Our talk is done. Let us return... That won&amp;#x27;t do. Regret yet lingers within me, it seems.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1172,7 +1172,7 @@
   "178.csv::383": {
     "id": "178.csv::383",
     "source_text": "私はクレス様のハイセプターだ\n指示を受けずとも己の意思によって\n動くことのできる存在\n――王のための存在",
-    "translated_text": "I am Queen Cress&#x27;s High Scepter.\nOne who moves by her own will, even without command.\n— A being for the king.",
+    "translated_text": "I am Queen Cress&amp;#x27;s High Scepter.\nOne who moves by her own will, even without command.\n— A being for the king.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1186,8 +1186,8 @@
   },
   "178.csv::384": {
     "id": "178.csv::384",
-    "source_text": "もしも私が共に戦っていれば\nクレス様の肉体と力を\n悪しき竜の――&quot;素材&quot;としてなんかに――\n使われることだけは無かったかもしれない",
-    "translated_text": "Had I fought alongside her... Queen Cress&#x27;s body and power... might never have been used as the Evil Dragon&#x27;s... &quot;raw materials&quot;...",
+    "source_text": "もしも私が共に戦っていれば\nクレス様の肉体と力を\n悪しき竜の――&amp;quot;素材&amp;quot;としてなんかに――\n使われることだけは無かったかもしれない",
+    "translated_text": "Had I fought alongside her... Queen Cress&amp;#x27;s body and power... might never have been used as the Evil Dragon&amp;#x27;s... &amp;quot;raw materials&amp;quot;...",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1217,7 +1217,7 @@
   "178.csv::386": {
     "id": "178.csv::386",
     "source_text": "今でも、あの時のことを夢に見る\nクレス様のお傍で共に戦うことと\nクレス様のご意思を汲んで動くこと――",
-    "translated_text": "Even now, I dream of that time...\nFighting at Queen Cress&#x27;s side...\nAnd moving in accordance with Her will—",
+    "translated_text": "Even now, I dream of that time...\nFighting at Queen Cress&amp;#x27;s side...\nAnd moving in accordance with Her will—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1292,7 +1292,7 @@
   "178.csv::391": {
     "id": "178.csv::391",
     "source_text": "さっさと殲滅してしまおう、二人ならすぐさ",
-    "translated_text": "Let&#x27;s make short work of them — the two of us, &#x27;twill be swift.",
+    "translated_text": "Let&amp;#x27;s make short work of them — the two of us, &amp;#x27;twill be swift.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1352,7 +1352,7 @@
   "178.csv::395": {
     "id": "178.csv::395",
     "source_text": "我々も見付けられなかった指輪の場所\n《崩れた進入路》、だったかな\nせっかくだ、どんなところなのか興味がある\n君の後を追うから、先導してくれるかい",
-    "translated_text": "The ring&#x27;s location... we couldn&#x27;t find it either.\n《Crumbling Entrance Path》, was it?\n‘Tis a rare chance; I&#x27;ve a mind to see what manner of place it is.\nI&#x27;ll follow after you, so pray, lead the way.",
+    "translated_text": "The ring&amp;#x27;s location... we couldn&amp;#x27;t find it either.\n《Crumbling Entrance Path》, was it?\n‘Tis a rare chance; I&amp;#x27;ve a mind to see what manner of place it is.\nI&amp;#x27;ll follow after you, so pray, lead the way.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1367,7 +1367,7 @@
   "178.csv::396": {
     "id": "178.csv::396",
     "source_text": "我々も見付けられなかった指輪の場所\n《崩れた進入路》、だったかな\nせっかくだ、どんなところなのか興味がある\n君の後を追うから、先導してくれるかい",
-    "translated_text": "The ring&#x27;s location... we couldn&#x27;t find it either.\n《Crumbling Entrance Path》, was it?\n‘Tis a rare chance; I&#x27;ve a mind to see what manner of place it is.\nI&#x27;ll follow after you, so pray, lead the way.",
+    "translated_text": "The ring&amp;#x27;s location... we couldn&amp;#x27;t find it either.\n《Crumbling Entrance Path》, was it?\n‘Tis a rare chance; I&amp;#x27;ve a mind to see what manner of place it is.\nI&amp;#x27;ll follow after you, so pray, lead the way.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1382,7 +1382,7 @@
   "178.csv::397": {
     "id": "178.csv::397",
     "source_text": "こんなところにあったのか――\n見つけられないのも無理はない\n我々がこの辺りを調べた時\nあの壁は崩れていなかったからな――",
-    "translated_text": "To think it lay in a place like this...\n&#x27;Tis no wonder it went unfound.\nWhen we investigated this area...\nThat wall had not yet collapsed...",
+    "translated_text": "To think it lay in a place like this...\n&amp;#x27;Tis no wonder it went unfound.\nWhen we investigated this area...\nThat wall had not yet collapsed...",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1397,7 +1397,7 @@
   "178.csv::398": {
     "id": "178.csv::398",
     "source_text": "もしもクレス様と私が見つけていたなら\nクレス様は――\nいや、今更考えても仕方がないか",
-    "translated_text": "If Queen Cress and I had found...\nQueen Cress would have—\nNo... &#x27;tis no use dwelling on it now.",
+    "translated_text": "If Queen Cress and I had found...\nQueen Cress would have—\nNo... &amp;#x27;tis no use dwelling on it now.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1412,7 +1412,7 @@
   "178.csv::399": {
     "id": "178.csv::399",
     "source_text": "クレス様は、この国の繁栄のためだけでなく\n次代の覚者、そして次代の竜となる者\nつまり――御子たちのことも思って\n指輪を探されていたのだと思う",
-    "translated_text": "I believe Queen Cress sought the ring not merely for this land&#x27;s prosperity,\nbut with the next Arisen in mind... and the one who would become the next dragon.\nIn other words — the imperial heirs.",
+    "translated_text": "I believe Queen Cress sought the ring not merely for this land&amp;#x27;s prosperity,\nbut with the next Arisen in mind... and the one who would become the next dragon.\nIn other words — the imperial heirs.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1442,7 +1442,7 @@
   "178.csv::401": {
     "id": "178.csv::401",
     "source_text": "ん――？　思い出話の最中だというのに\n野暮な客のお出ましのようだ\n仕方ない、軽くお仕置きしてやろうか",
-    "translated_text": "Hmm...? We&#x27;re in the midst of reminiscence, yet a boorish guest has arrived. ...&#x27;Tis no matter. Shall I administer a light chastisement?",
+    "translated_text": "Hmm...? We&amp;#x27;re in the midst of reminiscence, yet a boorish guest has arrived. ...&amp;#x27;Tis no matter. Shall I administer a light chastisement?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1487,7 +1487,7 @@
   "178.csv::404": {
     "id": "178.csv::404",
     "source_text": "やあ、来たね\n指輪のあった場所へ行ってみたいんだ\n連れて行ってくれ\n――我儘言ってすまないね",
-    "translated_text": "Ah, you&#x27;ve come.\nI&#x27;d like to go to where the ring was found.\nTake me there.\n...Pray, forgive my selfishness.",
+    "translated_text": "Ah, you&amp;#x27;ve come.\nI&amp;#x27;d like to go to where the ring was found.\nTake me there.\n...Pray, forgive my selfishness.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1502,7 +1502,7 @@
   "178.csv::405": {
     "id": "178.csv::405",
     "source_text": "その腕前、流石は覚者だ\n――覚者といえば、ネド王子も覚者だが\n戦いの腕前はどうなんだろうな",
-    "translated_text": "Your skill... &#x27;tis as expected of an Arisen.\n——Speaking of Arisen, Prince Nedo is also an Arisen, yet...\nI know not how his battle prowess fares.",
+    "translated_text": "Your skill... &amp;#x27;tis as expected of an Arisen.\n——Speaking of Arisen, Prince Nedo is also an Arisen, yet...\nI know not how his battle prowess fares.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1517,7 +1517,7 @@
   "178.csv::406": {
     "id": "178.csv::406",
     "source_text": "次代の覚者して教育を受けていらした\nセラノ姫と違って、ネド王子が\n剣を振るっているのを見たことが無いんだ\n勉学には励まれていたようだが――",
-    "translated_text": "Unlike Princess Sera, educated as the next Arisen,\nI&#x27;ve never seen Prince Nedo wield a sword.\nHe seemed devoted to his studies, but—",
+    "translated_text": "Unlike Princess Sera, educated as the next Arisen,\nI&amp;#x27;ve never seen Prince Nedo wield a sword.\nHe seemed devoted to his studies, but—",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1532,7 +1532,7 @@
   "178.csv::407": {
     "id": "178.csv::407",
     "source_text": "さて、こんなところで長話するのもなんだし\nもう観光するものも無い\n早めに帰ろうか――君も疲れたろう？",
-    "translated_text": "Well, &#x27;tis no place for a long talk. No more sights to see. Let&#x27;s be off, then — you must be weary, too.",
+    "translated_text": "Well, &amp;#x27;tis no place for a long talk. No more sights to see. Let&amp;#x27;s be off, then — you must be weary, too.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1547,7 +1547,7 @@
   "178.csv::408": {
     "id": "178.csv::408",
     "source_text": "さて、こんなところで長話するのもなんだし\nもう観光するものも無い\n早めに帰ろうか――君も疲れたろう？",
-    "translated_text": "Well, &#x27;tis no place for a long talk. No more sights to see. Let&#x27;s be off, then — you must be weary, too.",
+    "translated_text": "Well, &amp;#x27;tis no place for a long talk. No more sights to see. Let&amp;#x27;s be off, then — you must be weary, too.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1607,7 +1607,7 @@
   "178.csv::412": {
     "id": "178.csv::412",
     "source_text": "――だが、君たちがサマラ初代王の指輪を\n見つけたと知って――\nこれは偶然ではないと感じたんだ",
-    "translated_text": "But... when I learned you&#x27;d found Samara&#x27;s Ring of the First King...\nI felt &#x27;twas no coincidence.",
+    "translated_text": "But... when I learned you&amp;#x27;d found Samara&amp;#x27;s Ring of the First King...\nI felt &amp;#x27;twas no coincidence.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1637,7 +1637,7 @@
   "178.csv::414": {
     "id": "178.csv::414",
     "source_text": "それこそが国の意志であり、そこにはきっと\nクレス様のお気持ちも含まれるのだろうと\nそう強く感じた",
-    "translated_text": "&#x27;Tis the nation&#x27;s will... and I felt strongly that Queen Cress&#x27;s own heart must surely lie within it.",
+    "translated_text": "&amp;#x27;Tis the nation&amp;#x27;s will... and I felt strongly that Queen Cress&amp;#x27;s own heart must surely lie within it.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1652,7 +1652,7 @@
   "178.csv::415": {
     "id": "178.csv::415",
     "source_text": "私はこの国のゆく先を見守りたい――\nそう願うようになった",
-    "translated_text": "I would watch over this country&#x27;s path ahead—\nSuch a wish has come to me.",
+    "translated_text": "I would watch over this country&amp;#x27;s path ahead—\nSuch a wish has come to me.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1682,7 +1682,7 @@
   "178.csv::417": {
     "id": "178.csv::417",
     "source_text": "――セロとバシアスには私から話を付けておいた\nサマラ初代王の指輪は正式に君が持つといい\n君なら、必ずその力をアッカーシェランにとっても\nいい方向に使ってくれるだろうからね",
-    "translated_text": "...I&#x27;ve already spoken with Cyril and Bacias.\nThe Ring of the First King of Samara — &#x27;tis yours by right.\nYou&#x27;ll wield its power for Acre Selund&#x27;s good, I&#x27;ve no doubt.",
+    "translated_text": "...I&amp;#x27;ve already spoken with Cyril and Bacias.\nThe Ring of the First King of Samara — &amp;#x27;tis yours by right.\nYou&amp;#x27;ll wield its power for Acre Selund&amp;#x27;s good, I&amp;#x27;ve no doubt.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1712,7 +1712,7 @@
   "178.csv::419": {
     "id": "178.csv::419",
     "source_text": "ああ、そうそう！　この感覚だ",
-    "translated_text": "Ah, that&#x27;s it! &#x27;Tis this sensation!",
+    "translated_text": "Ah, that&amp;#x27;s it! &amp;#x27;Tis this sensation!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1726,8 +1726,8 @@
   },
   "178.csv::420": {
     "id": "178.csv::420",
-    "source_text": "君やクレス様と一緒に戦うと、&quot;守る&quot;といった感じが無いんだよ",
-    "translated_text": "When I fight alongside you and Queen Cress... there&#x27;s no sense of &quot;protecting&quot; to be had.",
+    "source_text": "君やクレス様と一緒に戦うと、&amp;quot;守る&amp;quot;といった感じが無いんだよ",
+    "translated_text": "When I fight alongside you and Queen Cress... there&amp;#x27;s no sense of &amp;quot;protecting&amp;quot; to be had.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1757,7 +1757,7 @@
   "178.csv::422": {
     "id": "178.csv::422",
     "source_text": "その戦いぶり、ネド王子の指南役に欲しいくらいだ",
-    "translated_text": "Your battle prowess... &#x27;twould see you desired as Prince Nedo&#x27;s mentor.",
+    "translated_text": "Your battle prowess... &amp;#x27;twould see you desired as Prince Nedo&amp;#x27;s mentor.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
