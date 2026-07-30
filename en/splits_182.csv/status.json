@@ -763,5 +763,20 @@
     "row_index": 8,
     "speaker": "Drew",
     "entry_type": "Quest Dialogue"
+  },
+  "182.csv::9": {
+    "id": "182.csv::9",
+    "source_text": "&quot;任務&quot;についてはエリアマスターさんから聞いたよ\nそれじゃ、現地集合といこうか\nあんたも準備ができたら向かってね",
+    "translated_text": "Heard about the &quot;mission&quot; from the Area Master. Right then, let&#x27;s rendezvous on-site. You head over when you&#x27;re ready, eh?",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-07-31T01:35:40.583891",
+    "updated_at": "2026-07-31T01:35:40.595634",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\182.csv",
+    "row_index": 9,
+    "speaker": "Anna",
+    "entry_type": "Quest Dialogue"
   }
 }
