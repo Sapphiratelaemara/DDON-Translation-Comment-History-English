@@ -17,7 +17,7 @@
   "182.csv::81": {
     "id": "182.csv::81",
     "source_text": "あのさ、移動中の魔軍を見つけたんだ\nそこまで重装備でも大隊でもないから\n戦力を整えさえすれば、十分に勝機が見込めるよ",
-    "translated_text": "We found a Demon Army unit on the move.\nNot heavily armed, not e&amp;#x27;en a full battalion—\nready our forces proper, and we&amp;#x27;ve a\nsolid shot at victory.",
+    "translated_text": "We found a Demon Army unit on the move.\nNot heavily armed, not e&amp;amp;#x27;en a full battalion—\nready our forces proper, and we&amp;amp;#x27;ve a\nsolid shot at victory.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": "Sapphira",
@@ -37,8 +37,8 @@
     "translator": "translator",
     "approver": "Sapphira",
     "created_at": "2026-08-09T23:34:21.113885",
-    "updated_at": "2026-08-09T23:35:53.564504",
-    "approved_at": "2026-08-09T23:35:53.564499",
+    "updated_at": "2026-08-09T23:37:07.384344",
+    "approved_at": "2026-08-09T23:37:07.384337",
     "file_path": "C:/DDON-translation/English/splits\\182.csv",
     "row_index": 39,
     "speaker": "Guy",
@@ -47,7 +47,7 @@
   "182.csv::49": {
     "id": "182.csv::49",
     "source_text": "素材として使えそうな物の\nサンプル収集をお願いね\nこれもスポット情報の調査には\n欠かせないんだ",
-    "translated_text": "Versa: Something that might be of aught use as a material, eh? Pray gather some samples, cos that&#x27;s naught but essential for Spot Info research.",
+    "translated_text": "Versa: Something that might be of aught use as a material, eh? Pray gather some samples, cos that&amp;#x27;s naught but essential for Spot Info research.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -62,7 +62,7 @@
   "182.csv::50": {
     "id": "182.csv::50",
     "source_text": "そうね――\n素材として使えそうな物の収集か\n魔物出没状況の調査か\nどちらかをお願いできない？",
-    "translated_text": "&lt;speaker&gt;Versa&lt;/speaker&gt;&lt;entry_type&gt;Quest Dialogue&lt;/entry_type&gt;I s&#x27;pose it comes down to this... Gather some materials that might be of use, or perhaps track where the monsters be lurking? Could I ask you to do one or the other, eh?",
+    "translated_text": "&amp;lt;speaker&amp;gt;Versa&amp;lt;/speaker&amp;gt;&amp;lt;entry_type&amp;gt;Quest Dialogue&amp;lt;/entry_type&amp;gt;I s&amp;#x27;pose it comes down to this... Gather some materials that might be of use, or perhaps track where the monsters be lurking? Could I ask you to do one or the other, eh?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
