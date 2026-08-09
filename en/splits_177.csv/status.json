@@ -2,7 +2,7 @@
   "177.csv::0": {
     "id": "177.csv::0",
     "source_text": "それに、僕には村を守るという役目もあるから――\n覚者である君が討伐に向かってくれるなら\nこんなに頼もしいことはないよ",
-    "translated_text": "Besides, I&amp;amp;amp;amp;amp;amp;#x27;ve a duty to ward the village— so\nif you, the Arisen, would undertake the\nextermination... I daresay naught\ncould be more heartening.",
+    "translated_text": "Besides, I&amp;amp;amp;amp;amp;amp;amp;#x27;ve a duty to ward the village— so\nif you, the Arisen, would undertake the\nextermination... I daresay naught\ncould be more heartening.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -16,8 +16,8 @@
   },
   "177.csv::1": {
     "id": "177.csv::1",
-    "source_text": "今、ヤツは《&amp;amp;amp;amp;amp;amp;amp;amp;lt;SPOT 944&amp;amp;amp;amp;amp;amp;amp;amp;gt;》に\nいるみたいだけど――\n何せ羽根のある相手だ\nいつどこへ飛び立つかわからない状態さ",
-    "translated_text": "He seems to be at the &amp;amp;amp;amp;amp;amp;lt;SPOT 944&amp;amp;amp;amp;amp;amp;gt; for\nthe moment, albeit... &amp;amp;amp;amp;amp;amp;#x27;tis a feathered foe, after\nall. I daresay there&amp;amp;amp;amp;amp;amp;#x27;s no witting when or where\nit might take flight.",
+    "source_text": "今、ヤツは《&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;SPOT 944&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;》に\nいるみたいだけど――\n何せ羽根のある相手だ\nいつどこへ飛び立つかわからない状態さ",
+    "translated_text": "He seems to be at the &amp;amp;amp;amp;amp;amp;amp;lt;SPOT 944&amp;amp;amp;amp;amp;amp;amp;gt; for\nthe moment, albeit... &amp;amp;amp;amp;amp;amp;amp;#x27;tis a feathered foe, after\nall. I daresay there&amp;amp;amp;amp;amp;amp;amp;#x27;s no witting when or where\nit might take flight.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -32,7 +32,7 @@
   "177.csv::2": {
     "id": "177.csv::2",
     "source_text": "それに、クレーターを作るような\n強力な力を持った魔物だから\n十分に注意して向かってくれよ",
-    "translated_text": "Besides, &amp;amp;amp;amp;amp;amp;#x27;tis a monster with power enow to carve\ncraters — so be wary when you go.",
+    "translated_text": "Besides, &amp;amp;amp;amp;amp;amp;amp;#x27;tis a monster with power enow to carve\ncraters — so be wary when you go.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -77,7 +77,7 @@
   "177.csv::5": {
     "id": "177.csv::5",
     "source_text": "何しろ、侵食胞子をまき散らしながら\n飛び回る元凶が討伐されたということは\n今のように恐ろしい速さで進む土壌の侵食に\n悩まされることが無くなるのですから",
-    "translated_text": "Indeed, now that the very font which scattered\ninfected spores in its flight has been\nexterminated, we shall no longer be plagued by\nthe soil&amp;amp;amp;amp;amp;amp;#x27;s infection advancing at so\nfearful a speed as this.",
+    "translated_text": "Indeed, now that the very font which scattered\ninfected spores in its flight has been\nexterminated, we shall no longer be plagued by\nthe soil&amp;amp;amp;amp;amp;amp;amp;#x27;s infection advancing at so\nfearful a speed as this.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -92,7 +92,7 @@
   "177.csv::6": {
     "id": "177.csv::6",
     "source_text": "きっと、討伐されたグリフィンも\n蝕まれた体からようやく解き放たれて\nモルフォールの森や空に慰められていることでしょう",
-    "translated_text": "&amp;amp;amp;amp;amp;amp;#x27;Tis certain the vanquished Griffin has at last\nbeen freed from its corrupted corse, and now finds\nsolace in Morfaul&amp;amp;amp;amp;amp;amp;#x27;s forests and skies.",
+    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;#x27;Tis certain the vanquished Griffin has at last\nbeen freed from its corrupted corse, and now finds\nsolace in Morfaul&amp;amp;amp;amp;amp;amp;amp;#x27;s forests and skies.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -167,7 +167,7 @@
   "177.csv::11": {
     "id": "177.csv::11",
     "source_text": "実は１つ、頼みごとを聞いてもらいたくてな\nなに、そんなに難しい話じゃない\n魔物を退治してきてほしいだけだ",
-    "translated_text": "Verily, there is one favor I would ask. &amp;amp;amp;amp;amp;amp;#x27;Tis\nnot a difficult matter... I only need you\nto slay some monsters.",
+    "translated_text": "Verily, there is one favor I would ask. &amp;amp;amp;amp;amp;amp;amp;#x27;Tis\nnot a difficult matter... I only need you\nto slay some monsters.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -181,8 +181,8 @@
   },
   "177.csv::12": {
     "id": "177.csv::12",
-    "source_text": "この間、俺がいつも釣りをする《&amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;gt;》に\n行こうとしたら、影みたいなものがサーッと\n飛び回るのが見えたんだ",
-    "translated_text": "The other day, when I tried to go to\n&amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;gt;, where I always fish... I\nsaw aught like a shadow, flitting about.",
+    "source_text": "この間、俺がいつも釣りをする《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;amp;gt;》に\n行こうとしたら、影みたいなものがサーッと\n飛び回るのが見えたんだ",
+    "translated_text": "The other day, when I tried to go to\n&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;amp;gt;, where I always fish... I\nsaw aught like a shadow, flitting about.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -197,7 +197,7 @@
   "177.csv::13": {
     "id": "177.csv::13",
     "source_text": "すぐに引き返したから\n実際にアレが何だったのかはわからんが――\n多分、魔物の類だろう\nいや、間違いなく魔物だろう！",
-    "translated_text": "I turned back at once, so... I wit not what that\ntruly was— Mayhap &amp;amp;amp;amp;amp;amp;#x27;twas some manner of monster...\nNay... &amp;amp;amp;amp;amp;amp;#x27;tis a monster, beyond doubt!",
+    "translated_text": "I turned back at once, so... I wit not what that\ntruly was— Mayhap &amp;amp;amp;amp;amp;amp;amp;#x27;twas some manner of monster...\nNay... &amp;amp;amp;amp;amp;amp;amp;#x27;tis a monster, beyond doubt!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -212,7 +212,7 @@
   "177.csv::14": {
     "id": "177.csv::14",
     "source_text": "聞けばお前さんは覚者だというじゃないか\n魔物退治くらい、簡単にできるはずだろ？\n頼まれてくれるよな？",
-    "translated_text": "I hear you&amp;amp;amp;amp;amp;amp;#x27;re an Arisen.\nSlaying a monster or two should be simple enow\nfor the likes of you, aye?\nYou&amp;amp;amp;amp;amp;amp;#x27;ll do it for me, will you not?",
+    "translated_text": "I hear you&amp;amp;amp;amp;amp;amp;amp;#x27;re an Arisen.\nSlaying a monster or two should be simple enow\nfor the likes of you, aye?\nYou&amp;amp;amp;amp;amp;amp;amp;#x27;ll do it for me, will you not?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -226,8 +226,8 @@
   },
   "177.csv::15": {
     "id": "177.csv::15",
-    "source_text": "《&amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;gt;》の辺りを\n影みたいなものがサーッと飛び回るのが見えたんだ",
-    "translated_text": "I saw aught like a shadow, darting about\nnigh &amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;gt;.",
+    "source_text": "《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;amp;gt;》の辺りを\n影みたいなものがサーッと飛び回るのが見えたんだ",
+    "translated_text": "I saw aught like a shadow, darting about\nnigh &amp;amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;amp;gt;.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -242,7 +242,7 @@
   "177.csv::16": {
     "id": "177.csv::16",
     "source_text": "聞けばお前さんは覚者だというじゃないか\n魔物退治くらい、簡単にできるはずだろ？\n頼まれてくれるよな？",
-    "translated_text": "I hear you&amp;amp;amp;amp;amp;amp;#x27;re an Arisen.\nSlaying a monster or two should be simple enow\nfor the likes of you, aye?\nYou&amp;amp;amp;amp;amp;amp;#x27;ll do it for me, will you not?",
+    "translated_text": "I hear you&amp;amp;amp;amp;amp;amp;amp;#x27;re an Arisen.\nSlaying a monster or two should be simple enow\nfor the likes of you, aye?\nYou&amp;amp;amp;amp;amp;amp;amp;#x27;ll do it for me, will you not?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -256,8 +256,8 @@
   },
   "177.csv::17": {
     "id": "177.csv::17",
-    "source_text": "もう《&amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;gt;》の魔物を\n退治してきたっていうのか！？\nほ、本当だろうな――",
-    "translated_text": "You&amp;amp;amp;amp;amp;amp;#x27;ve... you&amp;amp;amp;amp;amp;amp;#x27;ve already vanquished the monsters\nat &amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;gt;!?\nI... is it... is it truly so—",
+    "source_text": "もう《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;amp;gt;》の魔物を\n退治してきたっていうのか！？\nほ、本当だろうな――",
+    "translated_text": "You&amp;amp;amp;amp;amp;amp;amp;#x27;ve... you&amp;amp;amp;amp;amp;amp;amp;#x27;ve already vanquished the monsters\nat &amp;amp;amp;amp;amp;amp;amp;lt;SPOT 946&amp;amp;amp;amp;amp;amp;amp;gt;!?\nI... is it... is it truly so—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -287,7 +287,7 @@
   "177.csv::19": {
     "id": "177.csv::19",
     "source_text": "それにしても、\nお前さん意外と頼れるやつなんだな――\n少しは信用してやってもいいぞ",
-    "translated_text": "Still... you&amp;amp;amp;amp;amp;amp;#x27;re unexpectedly reliable, \n​are you not? \nI suppose I could trust you... a little.",
+    "translated_text": "Still... you&amp;amp;amp;amp;amp;amp;amp;#x27;re unexpectedly reliable, \n​are you not? \nI suppose I could trust you... a little.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -302,7 +302,7 @@
   "177.csv::20": {
     "id": "177.csv::20",
     "source_text": "村の近くに魔物が出たってことは――\n一応俺から族長に伝えておくことにしよう\nはぁ、また用も無く\n釣りに行っていたことがバレるな",
-    "translated_text": "Monsters near the village... that means— I\nsuppose I&amp;amp;amp;amp;amp;amp;#x27;d best tell the Chief.\nHaah... They&amp;amp;amp;amp;amp;amp;#x27;ll find out I went fishing for no\nreal reason... again.",
+    "translated_text": "Monsters near the village... that means— I\nsuppose I&amp;amp;amp;amp;amp;amp;amp;#x27;d best tell the Chief.\nHaah... They&amp;amp;amp;amp;amp;amp;amp;#x27;ll find out I went fishing for no\nreal reason... again.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -317,7 +317,7 @@
   "177.csv::21": {
     "id": "177.csv::21",
     "source_text": "ああ、ボーデシアが話したがっていたという件か\nわかった、俺から彼女に\n近々貴君が訪ねてくるだろうと伝えておこう",
-    "translated_text": "Ah, the matter Boadicea wished to speak of, is it?\nVery well — I&amp;amp;amp;amp;amp;amp;#x27;ll tell her you&amp;amp;amp;amp;amp;amp;#x27;ll be\ncalling on her ere long.",
+    "translated_text": "Ah, the matter Boadicea wished to speak of, is it?\nVery well — I&amp;amp;amp;amp;amp;amp;amp;#x27;ll tell her you&amp;amp;amp;amp;amp;amp;amp;#x27;ll be\ncalling on her ere long.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -332,7 +332,7 @@
   "177.csv::22": {
     "id": "177.csv::22",
     "source_text": "ボーデシアは井戸のそばにいることが多い\nその辺りに行けば会えるだろう",
-    "translated_text": "Boadicea&amp;amp;amp;amp;amp;amp;#x27;s oft by the well. You should\nfind her around there.",
+    "translated_text": "Boadicea&amp;amp;amp;amp;amp;amp;amp;#x27;s oft by the well. You should\nfind her around there.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -347,7 +347,7 @@
   "177.csv::23": {
     "id": "177.csv::23",
     "source_text": "ボーデシアには俺からも連絡しておこう\n彼女は井戸のそばにいることが多いようだ\nその辺りにいけば会えるだろう",
-    "translated_text": "I&amp;amp;amp;amp;amp;amp;#x27;ll contact Boadicea myself, as well. She&amp;amp;amp;amp;amp;amp;#x27;s oft\nnigh the well — go there and\nyou&amp;amp;amp;amp;amp;amp;#x27;ll likely find her.",
+    "translated_text": "I&amp;amp;amp;amp;amp;amp;amp;#x27;ll contact Boadicea myself, as well. She&amp;amp;amp;amp;amp;amp;amp;#x27;s oft\nnigh the well — go there and\nyou&amp;amp;amp;amp;amp;amp;amp;#x27;ll likely find her.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -377,7 +377,7 @@
   "177.csv::25": {
     "id": "177.csv::25",
     "source_text": "あなたがこの村をひっかき回すから\n族長も遺跡を調査すべきだ、なんて\n言い始めたじゃないですか",
-    "translated_text": "Because you&amp;amp;amp;amp;amp;amp;#x27;ve been stirring up this village, the\nChief has e&amp;amp;amp;amp;amp;amp;#x27;en started saying the ruins\nought to be investigated.",
+    "translated_text": "Because you&amp;amp;amp;amp;amp;amp;amp;#x27;ve been stirring up this village, the\nChief has e&amp;amp;amp;amp;amp;amp;amp;#x27;en started saying the ruins\nought to be investigated.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -392,7 +392,7 @@
   "177.csv::26": {
     "id": "177.csv::26",
     "source_text": "デーモン出現はね、遺跡に\n足を踏み入れようとしたせいで\n祖先たちの怒りに触れた結果なんだわ",
-    "translated_text": "The fiend&amp;amp;amp;amp;amp;amp;#x27;s appearance, you see... &amp;amp;amp;amp;amp;amp;#x27;tis the\nresult of incurring the ancestors&amp;amp;amp;amp;amp;amp;#x27; wrath for\ntrying to set foot in the ruins.",
+    "translated_text": "The fiend&amp;amp;amp;amp;amp;amp;amp;#x27;s appearance, you see... &amp;amp;amp;amp;amp;amp;amp;#x27;tis the\nresult of incurring the ancestors&amp;amp;amp;amp;amp;amp;amp;#x27; wrath for\ntrying to set foot in the ruins.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -407,7 +407,7 @@
   "177.csv::27": {
     "id": "177.csv::27",
     "source_text": "いえ、もしかしたら――\n本当はよい精霊だったのに、あなたが怒らせたから\nデーモンの姿で出てきたんじゃないかしらね？",
-    "translated_text": "Nay, mayhap... &amp;amp;amp;amp;amp;amp;#x27;twas a goodly spirit in truth,\nyet you roused its wrath, so it came forth in\nfiend form...?",
+    "translated_text": "Nay, mayhap... &amp;amp;amp;amp;amp;amp;amp;#x27;twas a goodly spirit in truth,\nyet you roused its wrath, so it came forth in\nfiend form...?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -422,7 +422,7 @@
   "177.csv::28": {
     "id": "177.csv::28",
     "source_text": "静かにしていれば、じきにこの騒動も収まるはずです\n族長にもそういって抗議しようと\n思ってるところですよ",
-    "translated_text": "If we keep quiet, this\ndisturbance should settle anon.\nI&amp;amp;amp;amp;amp;amp;#x27;m thinking of telling the Chief\nas much, as a protest.",
+    "translated_text": "If we keep quiet, this\ndisturbance should settle anon.\nI&amp;amp;amp;amp;amp;amp;amp;#x27;m thinking of telling the Chief\nas much, as a protest.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -437,7 +437,7 @@
   "177.csv::29": {
     "id": "177.csv::29",
     "source_text": "あなたがわたしよりもデーモンに詳しくて\nちゃんとした調査結果を持ってきて\n「そんなことはない」って言えるなら\n話は別ですけど――",
-    "translated_text": "Lest you wit more of fiends than I, and bring\nproper investigation results\nto show &amp;amp;amp;amp;amp;amp;#x27;tis not so.\nThen it&amp;amp;amp;amp;amp;amp;#x27;s a different matter...",
+    "translated_text": "Lest you wit more of fiends than I, and bring\nproper investigation results\nto show &amp;amp;amp;amp;amp;amp;amp;#x27;tis not so.\nThen it&amp;amp;amp;amp;amp;amp;amp;#x27;s a different matter...",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -451,8 +451,8 @@
   },
   "177.csv::30": {
     "id": "177.csv::30",
-    "source_text": "《&amp;amp;amp;amp;amp;amp;lt;SPOT 948&amp;amp;amp;amp;amp;amp;gt;》に現れたデーモンの件\nこれ以上ひっかき回さないでくださいよ\n族長にも抗議しますからね！",
-    "translated_text": "The matter of the fiend that appeared at\n&amp;amp;amp;amp;amp;amp;lt;SPOT 948&amp;amp;amp;amp;amp;amp;gt; — prithee, do not stir things\nup any further than this.\nI&amp;amp;amp;amp;amp;amp;#x27;ll protest to the Chief as well!",
+    "source_text": "《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 948&amp;amp;amp;amp;amp;amp;amp;gt;》に現れたデーモンの件\nこれ以上ひっかき回さないでくださいよ\n族長にも抗議しますからね！",
+    "translated_text": "The matter of the fiend that appeared at\n&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 948&amp;amp;amp;amp;amp;amp;amp;gt; — prithee, do not stir things\nup any further than this.\nI&amp;amp;amp;amp;amp;amp;amp;#x27;ll protest to the Chief as well!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -467,7 +467,7 @@
   "177.csv::31": {
     "id": "177.csv::31",
     "source_text": "あなたがわたしよりもデーモンに詳しくて\nちゃんとした調査結果を持ってきて\n「そんなことはない」って言えるなら\n話は別ですけど――",
-    "translated_text": "Lest you wit more of fiends than I, and bring\nproper investigation results to show &amp;amp;amp;amp;amp;amp;#x27;tis not so.\nThen it&amp;amp;amp;amp;amp;amp;#x27;s a different matter...",
+    "translated_text": "Lest you wit more of fiends than I, and bring\nproper investigation results to show &amp;amp;amp;amp;amp;amp;amp;#x27;tis not so.\nThen it&amp;amp;amp;amp;amp;amp;amp;#x27;s a different matter...",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -512,7 +512,7 @@
   "177.csv::34": {
     "id": "177.csv::34",
     "source_text": "えー―\nこれはデーモンの餌食になった獣――！？\nこっちは、デーモンの肉片――！？",
-    "translated_text": "Eh—\nThis beast... &amp;amp;amp;amp;amp;amp;#x27;twas made a fiend&amp;amp;amp;amp;amp;amp;#x27;s prey—!?\nAnd this... a piece of fiend&amp;amp;amp;amp;amp;amp;#x27;s flesh—!?",
+    "translated_text": "Eh—\nThis beast... &amp;amp;amp;amp;amp;amp;amp;#x27;twas made a fiend&amp;amp;amp;amp;amp;amp;amp;#x27;s prey—!?\nAnd this... a piece of fiend&amp;amp;amp;amp;amp;amp;amp;#x27;s flesh—!?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -527,7 +527,7 @@
   "177.csv::35": {
     "id": "177.csv::35",
     "source_text": "なんという禍々しい――\nた、確かに良い精霊の仕業では\n決して無いようですね\nそれに、何かの呪いでもなさそう――",
-    "translated_text": "What a dreadful...  \nI...Indeed, &amp;amp;amp;amp;amp;amp;#x27;tis not the work of a goodly spirit.\nNor does it seem to be any hex...",
+    "translated_text": "What a dreadful...  \nI...Indeed, &amp;amp;amp;amp;amp;amp;amp;#x27;tis not the work of a goodly spirit.\nNor does it seem to be any hex...",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -557,7 +557,7 @@
   "177.csv::37": {
     "id": "177.csv::37",
     "source_text": "族長に抗議しに行くのは――やめにします\nこんな恐ろしい魔物が増えているのなら\n何らかの対策を講じるのも、当然ですものね",
-    "translated_text": "I&amp;amp;amp;amp;amp;amp;#x27;ll not go to the Chief to protest— If such\nfearful monsters are increasing, taking some\nmeasure is only natural, is it not?",
+    "translated_text": "I&amp;amp;amp;amp;amp;amp;amp;#x27;ll not go to the Chief to protest— If such\nfearful monsters are increasing, taking some\nmeasure is only natural, is it not?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -571,8 +571,8 @@
   },
   "177.csv::38": {
     "id": "177.csv::38",
-    "source_text": "《&amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;》についてだが\nマヴェイルが周辺の事情について詳しいはずだ\n彼には話を通しておこう",
-    "translated_text": "Regarding the &amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;, Mavail\nshould be well-versed in the local situation.\nI&amp;amp;amp;amp;amp;amp;#x27;ll put in a word with him.",
+    "source_text": "《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;》についてだが\nマヴェイルが周辺の事情について詳しいはずだ\n彼には話を通しておこう",
+    "translated_text": "Regarding the &amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;, Mavail\nshould be well-versed in the local situation.\nI&amp;amp;amp;amp;amp;amp;amp;#x27;ll put in a word with him.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -587,7 +587,7 @@
   "177.csv::39": {
     "id": "177.csv::39",
     "source_text": "確か、マヴェイルは外にいるはずだな\n直接話を聞きに行ってもらいたい",
-    "translated_text": "If memory serves, Mavail should be outside. I&amp;amp;amp;amp;amp;amp;#x27;d\nhave you go and hear what they\nhave to say directly.",
+    "translated_text": "If memory serves, Mavail should be outside. I&amp;amp;amp;amp;amp;amp;amp;#x27;d\nhave you go and hear what they\nhave to say directly.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -601,8 +601,8 @@
   },
   "177.csv::40": {
     "id": "177.csv::40",
-    "source_text": "外にいるマヴェイルに\n直接《&amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;》周辺についての\n話を聞きに行ってもらいたい\nあの辺りについては、恐らく一番詳しいはずだ",
-    "translated_text": "I would have you go to Mavail outside and hear\ndirectly from him about the area around\n&amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;. He is likely the most\nsagacious about those parts.",
+    "source_text": "外にいるマヴェイルに\n直接《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;》周辺についての\n話を聞きに行ってもらいたい\nあの辺りについては、恐らく一番詳しいはずだ",
+    "translated_text": "I would have you go to Mavail outside and hear\ndirectly from him about the area around\n&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;. He is likely the most\nsagacious about those parts.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -616,8 +616,8 @@
   },
   "177.csv::41": {
     "id": "177.csv::41",
-    "source_text": "話は族長から聞いてるよ\n《&amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;》辺りの情報を\n覚者さんに教えて欲しいって言われたからね",
-    "translated_text": "The Chief filled me in. Said I should share what\nI wit of the area around the\n&amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;\nwith you, Ser Arisen.",
+    "source_text": "話は族長から聞いてるよ\n《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;》辺りの情報を\n覚者さんに教えて欲しいって言われたからね",
+    "translated_text": "The Chief filled me in. Said I should share what\nI wit of the area around the\n&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;\nwith you, Ser Arisen.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -632,7 +632,7 @@
   "177.csv::42": {
     "id": "177.csv::42",
     "source_text": "俺にあの辺りのことを聞くってことは――\n禁止されてるのに俺が遠くまで\n足をのばしてたこと、バレてたんだな",
-    "translated_text": "So you&amp;amp;amp;amp;amp;amp;#x27;re asking me about those\nparts... means you know.\nThat I&amp;amp;amp;amp;amp;amp;#x27;d been ranging far despite the ban.",
+    "translated_text": "So you&amp;amp;amp;amp;amp;amp;amp;#x27;re asking me about those\nparts... means you know.\nThat I&amp;amp;amp;amp;amp;amp;amp;#x27;d been ranging far despite the ban.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -647,7 +647,7 @@
   "177.csv::43": {
     "id": "177.csv::43",
     "source_text": "覚者さん、わざわざ聞きにきてくれた\nところ悪いんだけど\n俺も特別な情報は持ってないんだ",
-    "translated_text": "Ser Arisen, &amp;amp;amp;amp;amp;amp;#x27;tis a shame you came all this way to\nask, but I&amp;amp;amp;amp;amp;amp;#x27;ve no special tidings myself.",
+    "translated_text": "Ser Arisen, &amp;amp;amp;amp;amp;amp;amp;#x27;tis a shame you came all this way to\nask, but I&amp;amp;amp;amp;amp;amp;amp;#x27;ve no special tidings myself.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -662,7 +662,7 @@
   "177.csv::44": {
     "id": "177.csv::44",
     "source_text": "あの辺りは確かに凶暴な魔物がうろついてるけど\n近寄ったところで呪われたり\n病気になったりはしない――ただそれだけだ",
-    "translated_text": "I daresay those parts have their share of savage\nmonsters prowling about — still, merely drawing\nnigh won&amp;amp;amp;amp;amp;amp;#x27;t hex you or bring illness. &amp;amp;amp;amp;amp;amp;#x27;Tis just\nthat, and naught more.",
+    "translated_text": "I daresay those parts have their share of savage\nmonsters prowling about — still, merely drawing\nnigh won&amp;amp;amp;amp;amp;amp;amp;#x27;t hex you or bring illness. &amp;amp;amp;amp;amp;amp;amp;#x27;Tis just\nthat, and naught more.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -677,7 +677,7 @@
   "177.csv::45": {
     "id": "177.csv::45",
     "source_text": "注意することがあるとすれば\n魔物の凶暴さだけかな――\n覚者さん、気を付けて行ってきてくれよ",
-    "translated_text": "If aught&amp;amp;amp;amp;amp;amp;#x27;s to be warned of... &amp;amp;amp;amp;amp;amp;#x27;tis only the\nmonsters&amp;amp;amp;amp;amp;amp;#x27; savagery, I should think— Ser Arisen,\npray take care on your way.",
+    "translated_text": "If aught&amp;amp;amp;amp;amp;amp;amp;#x27;s to be warned of... &amp;amp;amp;amp;amp;amp;amp;#x27;tis only the\nmonsters&amp;amp;amp;amp;amp;amp;amp;#x27; savagery, I should think— Ser Arisen,\npray take care on your way.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -691,8 +691,8 @@
   },
   "177.csv::46": {
     "id": "177.csv::46",
-    "source_text": "《&amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;》辺りの情報を聞かれても\n特に特別なことは言えないよ",
-    "translated_text": "Even should you ask after the\n&amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;, I&amp;amp;amp;amp;amp;amp;#x27;ve\nnaught special to tell.",
+    "source_text": "《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;》辺りの情報を聞かれても\n特に特別なことは言えないよ",
+    "translated_text": "Even should you ask after the\n&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;, I&amp;amp;amp;amp;amp;amp;amp;#x27;ve\nnaught special to tell.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -707,7 +707,7 @@
   "177.csv::47": {
     "id": "177.csv::47",
     "source_text": "注意することがあるとすれば\n魔物の凶暴さだけかな――\n覚者さん、気を付けて行ってきてくれよ",
-    "translated_text": "The only thing to mind, mayhap, is the monsters&amp;amp;amp;amp;amp;amp;#x27;\nferocity— Ser Arisen, do take care now.",
+    "translated_text": "The only thing to mind, mayhap, is the monsters&amp;amp;amp;amp;amp;amp;amp;#x27;\nferocity— Ser Arisen, do take care now.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -721,8 +721,8 @@
   },
   "177.csv::48": {
     "id": "177.csv::48",
-    "source_text": "お疲れ様、覚者さん！\nまさか本当に《&amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;》に入って\n魔族を倒してくるなんて――！",
-    "translated_text": "Well done, Ser Arisen! I daresay I ne&amp;amp;amp;amp;amp;amp;#x27;er imagined\nyou&amp;amp;amp;amp;amp;amp;#x27;d truly enter the &amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;gt;\nand vanquish fiends...!",
+    "source_text": "お疲れ様、覚者さん！\nまさか本当に《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;》に入って\n魔族を倒してくるなんて――！",
+    "translated_text": "Well done, Ser Arisen! I daresay I ne&amp;amp;amp;amp;amp;amp;amp;#x27;er imagined\nyou&amp;amp;amp;amp;amp;amp;amp;#x27;d truly enter the &amp;amp;amp;amp;amp;amp;amp;lt;SPOT 912&amp;amp;amp;amp;amp;amp;amp;gt;\nand vanquish fiends...!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -737,7 +737,7 @@
   "177.csv::49": {
     "id": "177.csv::49",
     "source_text": "村の人間はびっくりすること間違いなしだ\n――なんだって！？\nベヘモットまでいたっていうのかい！",
-    "translated_text": "I imagine the village folk will\nbe fairly astonished.\n—What&amp;amp;amp;amp;amp;amp;#x27;s that!?\nE&amp;amp;amp;amp;amp;amp;#x27;en a Behemoth, you say!",
+    "translated_text": "I imagine the village folk will\nbe fairly astonished.\n—What&amp;amp;amp;amp;amp;amp;amp;#x27;s that!?\nE&amp;amp;amp;amp;amp;amp;amp;#x27;en a Behemoth, you say!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -752,7 +752,7 @@
   "177.csv::50": {
     "id": "177.csv::50",
     "source_text": "そのこともぜひ、村のみんなに話させてくれよ！\n力があれば困難にも打ち勝つことができる――\n遺跡も恐れることはない――って\nやっと気づくんじゃないかな",
-    "translated_text": "I&amp;amp;amp;amp;amp;amp;#x27;d have you tell everyone in the\nvillage about this, too!\nWith strength, any hardship can be overcome— The\nruins, too, are naught to fear— Mayhap they&amp;amp;amp;amp;amp;amp;#x27;ll\nfinally realize as much.",
+    "translated_text": "I&amp;amp;amp;amp;amp;amp;amp;#x27;d have you tell everyone in the\nvillage about this, too!\nWith strength, any hardship can be overcome— The\nruins, too, are naught to fear— Mayhap they&amp;amp;amp;amp;amp;amp;amp;#x27;ll\nfinally realize as much.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -781,8 +781,8 @@
   },
   "177.csv::52": {
     "id": "177.csv::52",
-    "source_text": "実はね、旅の人が\n《&amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;》の辺りで\n採取をしたいって\n許可を求めにきたことがあるの",
-    "translated_text": "In truth, a pilgrim came asking\nfor permission to gather materials\nnear the &amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt; area.",
+    "source_text": "実はね、旅の人が\n《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt;》の辺りで\n採取をしたいって\n許可を求めにきたことがあるの",
+    "translated_text": "In truth, a pilgrim came asking\nfor permission to gather materials\nnear the &amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt; area.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -797,7 +797,7 @@
   "177.csv::53": {
     "id": "177.csv::53",
     "source_text": "だいぶ前のことだったから\n入るのを許可した族長も\nそのことを忘れているのかも――",
-    "translated_text": "&amp;amp;amp;amp;amp;amp;#x27;Twas quite a while ago,\nso the elder who granted permission\nmight have forgotten about it...",
+    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;#x27;Twas quite a while ago,\nso the elder who granted permission\nmight have forgotten about it...",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -811,8 +811,8 @@
   },
   "177.csv::54": {
     "id": "177.csv::54",
-    "source_text": "でも、もしも旅の人があの日だけじゃなく\n何度も《&amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;》の辺りに\n来ていたら――",
-    "translated_text": "But... if the pilgrim had not come only that day,\nbut had come to the area around\nthe &amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt; many times—",
+    "source_text": "でも、もしも旅の人があの日だけじゃなく\n何度も《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt;》の辺りに\n来ていたら――",
+    "translated_text": "But... if the pilgrim had not come only that day,\nbut had come to the area around\nthe &amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt; many times—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -826,8 +826,8 @@
   },
   "177.csv::55": {
     "id": "177.csv::55",
-    "source_text": "覚者さま、もしも《&amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;》で\n旅の人が困っていたら\n助けてあげてほしいの",
-    "translated_text": "Arisen, if that pilgrim is in trouble at the\n&amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;, I hope you’ll help them.",
+    "source_text": "覚者さま、もしも《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt;》で\n旅の人が困っていたら\n助けてあげてほしいの",
+    "translated_text": "Arisen, if that pilgrim is in trouble at the\n&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt;, I hope you’ll help them.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -842,7 +842,7 @@
   "177.csv::56": {
     "id": "177.csv::56",
     "source_text": "旅の人が居なかったなら\nそれでいいんだけど――\n討伐から戻ってきたら\nどうだったか、お話を聞かせてね",
-    "translated_text": "If the pilgrim is not there, then that&amp;amp;amp;amp;amp;amp;#x27;s fine—\nWhen you return from the hunt, do tell me how it went.",
+    "translated_text": "If the pilgrim is not there, then that&amp;amp;amp;amp;amp;amp;amp;#x27;s fine—\nWhen you return from the hunt, do tell me how it went.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -856,8 +856,8 @@
   },
   "177.csv::57": {
     "id": "177.csv::57",
-    "source_text": "覚者さま、もしも《&amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;》で\n旅の人が困っていたら\n助けてあげてほしいの",
-    "translated_text": "Arisen, if that pilgrim is in trouble at the\n&amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;, I hope you’ll help them.",
+    "source_text": "覚者さま、もしも《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt;》で\n旅の人が困っていたら\n助けてあげてほしいの",
+    "translated_text": "Arisen, if that pilgrim is in trouble at the\n&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt;, I hope you’ll help them.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -871,7 +871,7 @@
   },
   "177.csv::58": {
     "id": "177.csv::58",
-    "source_text": "ずっと前に村に来た旅の人でね\nわたしに&amp;amp;amp;amp;amp;amp;quot;芯なる樹&amp;amp;amp;amp;amp;amp;quot;の話を\n聞かせてくれた優しい人なの――",
+    "source_text": "ずっと前に村に来た旅の人でね\nわたしに&amp;amp;amp;amp;amp;amp;amp;quot;芯なる樹&amp;amp;amp;amp;amp;amp;amp;quot;の話を\n聞かせてくれた優しい人なの――",
     "translated_text": "He was a  traveler who came to the village long\nago, a kind person who told me of the\nstory of the Core Tree—",
     "status": "approved",
     "translator": "translator",
@@ -901,8 +901,8 @@
   },
   "177.csv::60": {
     "id": "177.csv::60",
-    "source_text": "そういえば&amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt;という子に会ったな\nあの子も村の外に出たいんだそうだ\n昔の私と似たものを感じて、少し\n&amp;amp;amp;amp;amp;amp;quot;芯なる樹&amp;amp;amp;amp;amp;amp;quot;の話をしてやったことがあった――",
-    "translated_text": "Come to think of it, I met a youngling called\n&amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;gt;. Seems they want out of the village too.\nFelt aught of my younger self in them... so I\ntold them a little of the Core Tree.",
+    "source_text": "そういえば&amp;amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;amp;gt;という子に会ったな\nあの子も村の外に出たいんだそうだ\n昔の私と似たものを感じて、少し\n&amp;amp;amp;amp;amp;amp;amp;quot;芯なる樹&amp;amp;amp;amp;amp;amp;amp;quot;の話をしてやったことがあった――",
+    "translated_text": "Come to think of it, I met a youngling called\n&amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt;. Seems they want out of the village too.\nFelt aught of my younger self in them... so I\ntold them a little of the Core Tree.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -916,8 +916,8 @@
   },
   "177.csv::61": {
     "id": "177.csv::61",
-    "source_text": "私はもう少しここを調査することにするが\n君に&amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt;への伝言を頼むことにしよう",
-    "translated_text": "I’ll investigate here a bit longer, but I’ll\nleave a missive for &amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;gt; with you.",
+    "source_text": "私はもう少しここを調査することにするが\n君に&amp;amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;amp;gt;への伝言を頼むことにしよう",
+    "translated_text": "I’ll investigate here a bit longer, but I’ll\nleave a missive for &amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt; with you.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -932,7 +932,7 @@
   "177.csv::62": {
     "id": "177.csv::62",
     "source_text": "また機会があれば、\n土産話を用意してグリンデュアに寄ってやる――\nそう伝えてくれ",
-    "translated_text": "If the chance comes anew, I&amp;amp;amp;amp;amp;#x27;ll stop by Glyndwr\nwith tales to tell. Pass that along.",
+    "translated_text": "If the chance comes anew, I&amp;amp;amp;amp;amp;amp;#x27;ll stop by Glyndwr\nwith tales to tell. Pass that along.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -946,8 +946,8 @@
   },
   "177.csv::63": {
     "id": "177.csv::63",
-    "source_text": "私はもう少しここを調査することにするが\n君に&amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt;への伝言を頼むことにしよう",
-    "translated_text": "I’ll investigate here a bit longer, but I’ll\nleave a missive for &amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;gt; with you.",
+    "source_text": "私はもう少しここを調査することにするが\n君に&amp;amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;amp;gt;への伝言を頼むことにしよう",
+    "translated_text": "I’ll investigate here a bit longer, but I’ll\nleave a missive for &amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt; with you.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -962,7 +962,7 @@
   "177.csv::64": {
     "id": "177.csv::64",
     "source_text": "また機会があれば、\n土産話を用意してグリンデュアに寄ってやる――\nそう伝えてくれ",
-    "translated_text": "If the chance comes anew, I&amp;amp;amp;amp;amp;#x27;ll stop by Glyndwr\nwith tales to tell. Pass that along.",
+    "translated_text": "If the chance comes anew, I&amp;amp;amp;amp;amp;amp;#x27;ll stop by Glyndwr\nwith tales to tell. Pass that along.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -976,8 +976,8 @@
   },
   "177.csv::65": {
     "id": "177.csv::65",
-    "source_text": "《&amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;》に\n行ってくれるというのか――\nいや、実のところ\n今度こそ断られるかと思っていたのだ",
-    "translated_text": "You&amp;amp;amp;amp;amp;#x27;d go to &amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;gt;...? Nay, in all\nverity—I&amp;amp;amp;amp;amp;#x27;d thought this time you&amp;amp;amp;amp;amp;#x27;d surely refuse.",
+    "source_text": "《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt;》に\n行ってくれるというのか――\nいや、実のところ\n今度こそ断られるかと思っていたのだ",
+    "translated_text": "You&amp;amp;amp;amp;amp;amp;#x27;d go to &amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;...? Nay, in all\nverity—I&amp;amp;amp;amp;amp;amp;#x27;d thought this time you&amp;amp;amp;amp;amp;amp;#x27;d surely refuse.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -992,7 +992,7 @@
   "177.csv::66": {
     "id": "177.csv::66",
     "source_text": "何せ、強力な魔物が徘徊し\nその根城としているような場所だ\nしかし――貴君は引き受けてくれるというのだな",
-    "translated_text": "After all, powerful monsters prowl there —\nit&amp;amp;amp;amp;amp;#x27;s all but their den.\nBut — you&amp;amp;amp;amp;amp;#x27;d take it on, then?",
+    "translated_text": "After all, powerful monsters prowl there —\nit&amp;amp;amp;amp;amp;amp;#x27;s all but their den.\nBut — you&amp;amp;amp;amp;amp;amp;#x27;d take it on, then?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1007,7 +1007,7 @@
   "177.csv::67": {
     "id": "177.csv::67",
     "source_text": "それでは、貴君に対し正式に\n魔物討伐を依頼するとしよう\n討伐のあかつきには礼もさせてもらう\n――頼んだぞ",
-    "translated_text": "Then let us formally commission you for the\nmonster extermination. When the task is complete,\nyou shall have your recompense —\nI&amp;amp;amp;amp;amp;#x27;m counting on you.",
+    "translated_text": "Then let us formally commission you for the\nmonster extermination. When the task is complete,\nyou shall have your recompense —\nI&amp;amp;amp;amp;amp;amp;#x27;m counting on you.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1021,8 +1021,8 @@
   },
   "177.csv::68": {
     "id": "177.csv::68",
-    "source_text": "む、そういえば、&amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt;が\n貴君に話したいことがあると言っていたな――\n討伐に向かう前に\n一度話を聞いてやってもらえないか？",
-    "translated_text": "Hm, come to think of it, &amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;gt; mentioned wanting\nto speak with you— Would you hear them out ere\nyou depart on the extermination?",
+    "source_text": "む、そういえば、&amp;amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;amp;gt;が\n貴君に話したいことがあると言っていたな――\n討伐に向かう前に\n一度話を聞いてやってもらえないか？",
+    "translated_text": "Hm, come to think of it, &amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt; mentioned wanting\nto speak with you— Would you hear them out ere\nyou depart on the extermination?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1036,8 +1036,8 @@
   },
   "177.csv::69": {
     "id": "177.csv::69",
-    "source_text": "それでは、貴君に対し正式に《&amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;》を\n徘徊する魔物討伐を依頼するとしよう\n討伐のあかつきには礼もさせてもらう\n――頼んだぞ",
-    "translated_text": "Now then, let me formally petition that you\nexterminate the monsters prowling the\n&amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;gt;. Upon their subjugation, I\nshall see you rewarded. — I&amp;amp;amp;amp;amp;#x27;m counting on you.",
+    "source_text": "それでは、貴君に対し正式に《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;amp;gt;》を\n徘徊する魔物討伐を依頼するとしよう\n討伐のあかつきには礼もさせてもらう\n――頼んだぞ",
+    "translated_text": "Now then, let me formally petition that you\nexterminate the monsters prowling the\n&amp;amp;amp;amp;amp;amp;lt;SPOT 914&amp;amp;amp;amp;amp;amp;gt;. Upon their subjugation, I\nshall see you rewarded. — I&amp;amp;amp;amp;amp;amp;#x27;m counting on you.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1051,8 +1051,8 @@
   },
   "177.csv::70": {
     "id": "177.csv::70",
-    "source_text": "む、そういえば、&amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt;が\n貴君に話したいことがあると言っていたな――\n討伐に向かう前に\n一度話を聞いてやってもらえないか？",
-    "translated_text": "Hm, come to think of it, &amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;gt; mentioned wanting\nto speak with you— Would you hear them out ere\nyou depart on the extermination?",
+    "source_text": "む、そういえば、&amp;amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;amp;gt;が\n貴君に話したいことがあると言っていたな――\n討伐に向かう前に\n一度話を聞いてやってもらえないか？",
+    "translated_text": "Hm, come to think of it, &amp;amp;amp;amp;amp;amp;lt;NPC 2708&amp;amp;amp;amp;amp;amp;gt; mentioned wanting\nto speak with you— Would you hear them out ere\nyou depart on the extermination?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1067,7 +1067,7 @@
   "177.csv::71": {
     "id": "177.csv::71",
     "source_text": "誰かは知らんが、いいところに来てくれた！\n採取のために足を伸ばしてみたら\n魔物の罠にかかってしまったんだ",
-    "translated_text": "I don&amp;amp;amp;amp;amp;#x27;t wit who you are, but you came to\njust the right place!\nI went out to gather some supplies, but I ended\nup falling into a monster&amp;amp;amp;amp;amp;#x27;s trap.",
+    "translated_text": "I don&amp;amp;amp;amp;amp;amp;#x27;t wit who you are, but you came to\njust the right place!\nI went out to gather some supplies, but I ended\nup falling into a monster&amp;amp;amp;amp;amp;amp;#x27;s trap.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1082,7 +1082,7 @@
   "177.csv::72": {
     "id": "177.csv::72",
     "source_text": "結界を張る護符が周囲にあるはずだ\nそれを全て破壊してくれないか？\nもう半日近く、この状態でね",
-    "translated_text": "Warding talismans around here hold the barrier.\nDestroy them all, would you? &amp;amp;amp;amp;amp;#x27;Tis been near half\na day in this state.",
+    "translated_text": "Warding talismans around here hold the barrier.\nDestroy them all, would you? &amp;amp;amp;amp;amp;amp;#x27;Tis been near half\na day in this state.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1097,7 +1097,7 @@
   "177.csv::73": {
     "id": "177.csv::73",
     "source_text": "――気を付けろ\n君も捕まるぞ！",
-    "translated_text": "――Watch yourself. You&amp;amp;amp;amp;amp;#x27;ll get caught too!",
+    "translated_text": "――Watch yourself. You&amp;amp;amp;amp;amp;amp;#x27;ll get caught too!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1112,7 +1112,7 @@
   "177.csv::74": {
     "id": "177.csv::74",
     "source_text": "結界を張る護符が周囲にあるはずだ\nそれを全て破壊してくれ！\n私も一緒に戦う！",
-    "translated_text": "Warding talismans should be scattered about the\narea. Destroy them all!\nI&amp;amp;amp;amp;amp;#x27;ll fight alongside you!",
+    "translated_text": "Warding talismans should be scattered about the\narea. Destroy them all!\nI&amp;amp;amp;amp;amp;amp;#x27;ll fight alongside you!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1127,7 +1127,7 @@
   "177.csv::75": {
     "id": "177.csv::75",
     "source_text": "やっぱり旅の人は\nまたあそこにいたのね！\n旅の人が無事でよかった――",
-    "translated_text": "Sure enough, the traveler\nwas there anew!\nI&amp;amp;amp;amp;amp;#x27;m so glad the traveler is safe—",
+    "translated_text": "Sure enough, the traveler\nwas there anew!\nI&amp;amp;amp;amp;amp;amp;#x27;m so glad the traveler is safe—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1142,7 +1142,7 @@
   "177.csv::76": {
     "id": "177.csv::76",
     "source_text": "そうだ、覚者さまが戻ってきたら\n族長にお知らせするように言われてたんだった！",
-    "translated_text": "Ah, that&amp;amp;amp;amp;amp;#x27;s right — I was told to tell the Chief\nwhen Master Arisen returned!",
+    "translated_text": "Ah, that&amp;amp;amp;amp;amp;amp;#x27;s right — I was told to tell the Chief\nwhen Master Arisen returned!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1157,7 +1157,7 @@
   "177.csv::77": {
     "id": "177.csv::77",
     "source_text": "族長にはわたしが言っておくね\n覚者さまが魔族をやっつけてくれたって！\nありがとう、白き竜の覚者さま！",
-    "translated_text": "I&amp;amp;amp;amp;amp;#x27;ll tell the Chief — Master Arisen\ndrove off the Fiends!\nThank you, Arisen of the White Dragon!",
+    "translated_text": "I&amp;amp;amp;amp;amp;amp;#x27;ll tell the Chief — Master Arisen\ndrove off the Fiends!\nThank you, Arisen of the White Dragon!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1187,7 +1187,7 @@
   "177.csv::79": {
     "id": "177.csv::79",
     "source_text": "今まで無尽蔵に現れていた魔族は\n恐らくスカージが呼び寄せていたもの――\nとなれば、スカージを討てば\nこのキンガルも危機を脱するはずだ",
-    "translated_text": "The Fiends that have appeared in endless numbers\nuntil now — &amp;amp;amp;amp;amp;#x27;twas likely the Scourge that\nsummoned them. If so, then slaying the Scourge\nshould see Kingal freed from peril.",
+    "translated_text": "The Fiends that have appeared in endless numbers\nuntil now — &amp;amp;amp;amp;amp;amp;#x27;twas likely the Scourge that\nsummoned them. If so, then slaying the Scourge\nshould see Kingal freed from peril.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1201,8 +1201,8 @@
   },
   "177.csv::80": {
     "id": "177.csv::80",
-    "source_text": "貴君に《&amp;amp;amp;amp;amp;amp;lt;SPOT 916&amp;amp;amp;amp;amp;amp;gt;》に潜む\nスカージの討伐――\nいや、このキンガル峡谷の命運を託そう",
-    "translated_text": "I entrust to you the extermination of the Scourge\nlurking in &amp;amp;amp;amp;amp;lt;SPOT 916&amp;amp;amp;amp;amp;gt; — nay, I\ncommend the fate of this Kingal\nCanyon entire to you.",
+    "source_text": "貴君に《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 916&amp;amp;amp;amp;amp;amp;amp;gt;》に潜む\nスカージの討伐――\nいや、このキンガル峡谷の命運を託そう",
+    "translated_text": "I entrust to you the extermination of the Scourge\nlurking in &amp;amp;amp;amp;amp;amp;lt;SPOT 916&amp;amp;amp;amp;amp;amp;gt; — nay, I\ncommend the fate of this Kingal\nCanyon entire to you.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1231,8 +1231,8 @@
   },
   "177.csv::82": {
     "id": "177.csv::82",
-    "source_text": "貴君に《&amp;amp;amp;amp;amp;amp;lt;SPOT 916&amp;amp;amp;amp;amp;amp;gt;》に潜む\nスカージの討伐――\nいや、このキンガル峡谷の命運を託そう",
-    "translated_text": "I entrust to you the extermination of the Scourge\nlurking in &amp;amp;amp;amp;amp;lt;SPOT 916&amp;amp;amp;amp;amp;gt; — nay, I\ncommend the fate of this Kingal\nCanyon entire to you.",
+    "source_text": "貴君に《&amp;amp;amp;amp;amp;amp;amp;lt;SPOT 916&amp;amp;amp;amp;amp;amp;amp;gt;》に潜む\nスカージの討伐――\nいや、このキンガル峡谷の命運を託そう",
+    "translated_text": "I entrust to you the extermination of the Scourge\nlurking in &amp;amp;amp;amp;amp;amp;lt;SPOT 916&amp;amp;amp;amp;amp;amp;gt; — nay, I\ncommend the fate of this Kingal\nCanyon entire to you.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1292,7 +1292,7 @@
   "177.csv::86": {
     "id": "177.csv::86",
     "source_text": "ねぇ、覚者さまも\nこれから侵食の悪魔と戦いにいくんでしょう？\n持ち物とか、装備とか、一緒に行く人とか\n全部しっかり見直して向かってね",
-    "translated_text": "Say, Master Arisen... you&amp;amp;amp;#x27;re off to fight the\nCorruption Demons, aren&amp;amp;amp;#x27;t you?\nYour belongings, your equipment, your\ncompanions... I pray you review them all\nthoroughly ere you depart.",
+    "translated_text": "Say, Master Arisen... you&amp;amp;amp;amp;#x27;re off to fight the\nCorruption Demons, aren&amp;amp;amp;amp;#x27;t you?\nYour belongings, your equipment, your\ncompanions... I pray you review them all\nthoroughly ere you depart.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1307,7 +1307,7 @@
   "177.csv::87": {
     "id": "177.csv::87",
     "source_text": "侵食の悪魔はとっても怖いって\n普通の魔物とは違うんだって\nイデさんも言ってたから！\nちゃんと装備や持ち物を見直してね、約束よ",
-    "translated_text": "The Corruption Demon... &amp;amp;amp;#x27;tis terribly\nfrightening, I hear.\nThey say &amp;amp;amp;#x27;tis different from ordinary monsters.\nEven Ide said so...!\nPray, review your equipment and belongings\nproperly. Promise me.",
+    "translated_text": "The Corruption Demon... &amp;amp;amp;amp;#x27;tis terribly\nfrightening, I hear.\nThey say &amp;amp;amp;amp;#x27;tis different from ordinary monsters.\nEven Ide said so...!\nPray, review your equipment and belongings\nproperly. Promise me.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1322,7 +1322,7 @@
   "177.csv::88": {
     "id": "177.csv::88",
     "source_text": "侵食の悪魔はとっても怖いって\n普通の魔物とは違うんだって\nイデさんも言ってたから！\nちゃんと装備や持ち物を見直してね、約束よ",
-    "translated_text": "The Corruption Demon... &amp;amp;amp;#x27;tis terribly\nfrightening, I hear.\nThey say &amp;amp;amp;#x27;tis different from ordinary monsters.\nEven Ide said so...!\nPray, review your equipment and belongings\nproperly. Promise me.",
+    "translated_text": "The Corruption Demon... &amp;amp;amp;amp;#x27;tis terribly\nfrightening, I hear.\nThey say &amp;amp;amp;amp;#x27;tis different from ordinary monsters.\nEven Ide said so...!\nPray, review your equipment and belongings\nproperly. Promise me.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1336,7 +1336,7 @@
   },
   "177.csv::89": {
     "id": "177.csv::89",
-    "source_text": "貴君がこうして戻ったということは\nかの強大な悪魔&amp;amp;amp;amp;amp;amp;quot;スカージ&amp;amp;amp;amp;amp;amp;quot;を\n破ってきてくれたのだな",
+    "source_text": "貴君がこうして戻ったということは\nかの強大な悪魔&amp;amp;amp;amp;amp;amp;amp;quot;スカージ&amp;amp;amp;amp;amp;amp;amp;quot;を\n破ってきてくれたのだな",
     "translated_text": "That you have returned thus means you have\nvanquished that mighty fiend, the Scourge.",
     "status": "approved",
     "translator": "translator",
@@ -1352,7 +1352,7 @@
   "177.csv::90": {
     "id": "177.csv::90",
     "source_text": "この村では、遺跡に入ると恐ろしい呪いが\n降りかかると信じられていたのは\n貴君も知るところだろう",
-    "translated_text": "&amp;amp;amp;#x27;Tis aught you know well, I trust — that in\nthis village, &amp;amp;amp;#x27;twas believed a fell hex\nwould betide any who entered the ruins.",
+    "translated_text": "&amp;amp;amp;amp;#x27;Tis aught you know well, I trust — that in\nthis village, &amp;amp;amp;amp;#x27;twas believed a fell hex\nwould betide any who entered the ruins.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1366,8 +1366,8 @@
   },
   "177.csv::91": {
     "id": "177.csv::91",
-    "source_text": "遺跡に入り、強大な魔族を打ち破ることで\n貴君は&amp;amp;amp;amp;amp;amp;quot;我々の心にかかった呪い&amp;amp;amp;amp;amp;amp;quot;をも\n見事打ち破ってくれたのだ",
-    "translated_text": "By venturing into the ruins and vanquishing the\nmighty fiend, you have shattered, too, the &amp;amp;amp;quot;hex\nthat lay upon our hearts.&amp;amp;amp;quot;",
+    "source_text": "遺跡に入り、強大な魔族を打ち破ることで\n貴君は&amp;amp;amp;amp;amp;amp;amp;quot;我々の心にかかった呪い&amp;amp;amp;amp;amp;amp;amp;quot;をも\n見事打ち破ってくれたのだ",
+    "translated_text": "By venturing into the ruins and vanquishing the\nmighty fiend, you have shattered, too, the &amp;amp;amp;amp;quot;hex\nthat lay upon our hearts.&amp;amp;amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1382,7 +1382,7 @@
   "177.csv::92": {
     "id": "177.csv::92",
     "source_text": "今はまだはっきりとは表れていないが\nこの変化はじきに村人たちにも\n染み込んでいくことだろう",
-    "translated_text": "&amp;amp;amp;#x27;Tis not yet clearly manifest, but this change\nwill soon seep into the villagers as well.",
+    "translated_text": "&amp;amp;amp;amp;#x27;Tis not yet clearly manifest, but this change\nwill soon seep into the villagers as well.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
