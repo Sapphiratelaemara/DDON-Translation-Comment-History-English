@@ -2,7 +2,7 @@
   "268.csv::233": {
     "id": "268.csv::233",
     "source_text": "《ハイデル地下霊廟》へ挑むのだな\nなら貴君に深部の調査を頼めないだろうか",
-    "translated_text": "So you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re heading to the [Hidell Catacombs,]\nare you?\nIn that case, could I ask you to\ninvestigate its deepest depths?",
+    "translated_text": "So you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re heading to the [Hidell Catacombs,]\nare you?\nIn that case, could I ask you to\ninvestigate its deepest depths?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": "Sapphira",
@@ -92,7 +92,7 @@
   "268.csv::240": {
     "id": "268.csv::240",
     "source_text": "――なんと、潜んでいた魔物を退治して\nくれたのだな。感謝する\nそしてそうか――霊廟の深部は\nさらに別の封印が施されていたというのか",
-    "translated_text": "So, you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve slain the lurking beast. I am\ngrateful. So-the depths of the crypt were\nfurther sealed by another ward, as you say?",
+    "translated_text": "So, you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve slain the lurking beast. I am\ngrateful. So-the depths of the crypt were\nfurther sealed by another ward, as you say?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -167,7 +167,7 @@
   "268.csv::245": {
     "id": "268.csv::245",
     "source_text": "急ぐ必要はない、貴君の任務の合間を見て\n対応してくれれば十分だ",
-    "translated_text": "There&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s no need to rush; just handle this\nwhene&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er you have a moment\nbetwixt your other tasks.",
+    "translated_text": "There&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s no need to rush; just handle this\nwhene&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er you have a moment\nbetwixt your other tasks.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -182,7 +182,7 @@
   "268.csv::246": {
     "id": "268.csv::246",
     "source_text": "疫病の原因調査は、これまでに多くの\n覚者が挑んだが、未だ解決には遠い\nくれぐれも身の安全を第一にしてくれ",
-    "translated_text": "Many Arisen have sought the cause of the\npestilence, yet &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis still far from resolved; I\nbeseech you, above all, to keep your\nown safety foremost.",
+    "translated_text": "Many Arisen have sought the cause of the\npestilence, yet &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis still far from resolved; I\nbeseech you, above all, to keep your\nown safety foremost.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -286,8 +286,8 @@
   },
   "268.csv::253": {
     "id": "268.csv::253",
-    "source_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;後世に、私達の罪を遺すことを許してほしい 勇気ある者よ、もしあの男がテルに 災いをもたらした時は、どうか――&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;",
-    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Forgive our sins that be bequeathed to\nposterity. O valiant one, should that man bring\ndisaster upon Tel, I beseech—&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;",
+    "source_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;後世に、私達の罪を遺すことを許してほしい 勇気ある者よ、もしあの男がテルに 災いをもたらした時は、どうか――&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;",
+    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Forgive our sins that be bequeathed to\nposterity. O valiant one, should that man bring\ndisaster upon Tel, I beseech—&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -302,7 +302,7 @@
   "268.csv::254": {
     "id": "268.csv::254",
     "source_text": "――面倒をかけてばかりだが、この通りだ\nどうか貴君の力でテルの闇を\n突きとめてくれ",
-    "translated_text": "It troubles me much, yet &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis is how it is;\nI pray you; with your might,\ndeliver Tel from darkness.",
+    "translated_text": "It troubles me much, yet &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis is how it is;\nI pray you; with your might,\ndeliver Tel from darkness.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -317,7 +317,7 @@
   "268.csv::255": {
     "id": "268.csv::255",
     "source_text": "――そうか、やはり疫病は\n司祭の呪いが元になっていたのだな",
-    "translated_text": "So, it appears that the plague was indeed caused\nby the cleric&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s hex.",
+    "translated_text": "So, it appears that the plague was indeed caused\nby the cleric&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s hex.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -332,7 +332,7 @@
   "268.csv::256": {
     "id": "268.csv::256",
     "source_text": "本来は、我々テルの住民こそが\n向かい合わねばならなかった問題だ",
-    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis a matter that we, the folk of Tel,\nought to have faced ourselves.",
+    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis a matter that we, the folk of Tel,\nought to have faced ourselves.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -407,7 +407,7 @@
   "268.csv::261": {
     "id": "268.csv::261",
     "source_text": "おそらくあの最深部にこそ\nテル村を覆う病の病巣があるはずなのだ",
-    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis likely that right at the very depths of that\nplace lies the font of the disease\nafflicting Tel Village.",
+    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis likely that right at the very depths of that\nplace lies the font of the disease\nafflicting Tel Village.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -422,7 +422,7 @@
   "268.csv::262": {
     "id": "268.csv::262",
     "source_text": "――そうでした！\nワールドクエストに挑むことになった覚者さまに\nお願いしたいことがあるんです",
-    "translated_text": "Ah, that&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s right! There&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s something I&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d ask of\nyou, Master Arisen, now that you&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re\nembarking on a World Quest.",
+    "translated_text": "Ah, that&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s right! There&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s something I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d ask of\nyou, Master Arisen, now that you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re\nembarking on a World Quest.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -437,7 +437,7 @@
   "268.csv::263": {
     "id": "268.csv::263",
     "source_text": "白竜さまがお眠りになってからというもの\nレスタニア各地ではさまざまな異変に\n苛まれているんです――",
-    "translated_text": "E&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er since the White Dragon fell to slumber,\nLestania&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s been beset by all manner\nof queer happenings—",
+    "translated_text": "E&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er since the White Dragon fell to slumber,\nLestania&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s been beset by all manner\nof queer happenings—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -452,7 +452,7 @@
   "268.csv::264": {
     "id": "268.csv::264",
     "source_text": "つい最近、西の《ブリア海岸》エリアマスター\nオニールさんから、頼りになる覚者さまがいたら\n紹介してほしいって神殿に連絡があったんですよ",
-    "translated_text": "Just recently, the temple received word from\nO&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Neill, Area Master of the western Breya Coast —\nhe&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s asking to be put in touch with a dependable\nArisen, should one be found.",
+    "translated_text": "Just recently, the temple received word from\nO&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Neill, Area Master of the western Breya Coast —\nhe&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s asking to be put in touch with a dependable\nArisen, should one be found.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -467,7 +467,7 @@
   "268.csv::265": {
     "id": "268.csv::265",
     "source_text": "覚者さま、どうでしょう？\nブリア海岸の《ローテス村》に向かい、オニールさん\nの用件を聞いてあげてもらえないでしょうか",
-    "translated_text": "Master Arisen, what say you? Pray, would you head\nto [Rotes Village] on the Breya Coast, to hear the\nbusiness of Ser O&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Neill?",
+    "translated_text": "Master Arisen, what say you? Pray, would you head\nto [Rotes Village] on the Breya Coast, to hear the\nbusiness of Ser O&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Neill?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -482,7 +482,7 @@
   "268.csv::266": {
     "id": "268.csv::266",
     "source_text": "ああ、あんたが神殿が紹介してくれた\n噂の覚者さんだな\n来てくれてありがとう！",
-    "translated_text": "Ah, so you&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re the rumored Arisen the temple sent\no&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er. Much obliged for showing up!",
+    "translated_text": "Ah, so you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re the rumored Arisen the temple sent\no&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er. Much obliged for showing up!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -497,7 +497,7 @@
   "268.csv::267": {
     "id": "268.csv::267",
     "source_text": "実は、今ローテスは厄介な連中に\n目をつけられていてね\n《ブリア宝奪団》って名乗る海賊まがいさ",
-    "translated_text": "In truth, Rotes has been marked by a troublesome\nlot of late — they style themselves the Breya\nTreasure Bandits, a pirate&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s rabble\nifsoe&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er there was one.",
+    "translated_text": "In truth, Rotes has been marked by a troublesome\nlot of late — they style themselves the Breya\nTreasure Bandits, a pirate&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s rabble\nifsoe&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er there was one.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -511,8 +511,8 @@
   },
   "268.csv::268": {
     "id": "268.csv::268",
-    "source_text": "連中は&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;ブリアの財宝&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;ってのを探してるようなんだオレに知ってることを話せと脅してきたり村人に絡んだりするけど、何のことかさっぱりで――",
-    "translated_text": "They&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re after &amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;The Treasure of Breya&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; or so they\nsay. Threatenin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; me to talk, tormentin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; the\nvillagers — but I haven&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t a clue\nwhat they&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re on about—",
+    "source_text": "連中は&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;ブリアの財宝&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;ってのを探してるようなんだオレに知ってることを話せと脅してきたり村人に絡んだりするけど、何のことかさっぱりで――",
+    "translated_text": "They&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re after &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;The Treasure of Breya&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; or so they\nsay. Threatenin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; me to talk, tormentin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; the\nvillagers — but I haven&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t a clue\nwhat they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re on about—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -527,7 +527,7 @@
   "268.csv::269": {
     "id": "268.csv::269",
     "source_text": "お願いだ覚者さん、力を貸してくれないか？\n《ブリア宝奪団》と名乗る連中を\n見つけ出して、村に近づかないよう\n懲らしめてほしいんだ",
-    "translated_text": "I&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;m beggin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; you, Ser Arisen — won&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t you lend a\nhand? Track down the lot callin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; themselves the\nBreya Treasure Bandits, and teach &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;em not to\ncome near our village.",
+    "translated_text": "I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;m beggin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; you, Ser Arisen — won&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t you lend a\nhand? Track down the lot callin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; themselves the\nBreya Treasure Bandits, and teach &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;em not to\ncome near our village.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -542,7 +542,7 @@
   "268.csv::270": {
     "id": "268.csv::270",
     "source_text": "あいつらのアジトは《隠れ浜》かもしれない\nならず者がよく出入りしているんだ\nそのうち村が襲われても不思議じゃない",
-    "translated_text": "Their hideout might be the Hidden Beach. Ruffians\nfrequent the place — &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;twon&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t be long afore the\nvillage comes under attack.",
+    "translated_text": "Their hideout might be the Hidden Beach. Ruffians\nfrequent the place — &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;twon&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t be long afore the\nvillage comes under attack.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -557,7 +557,7 @@
   "268.csv::271": {
     "id": "268.csv::271",
     "source_text": "姿がないようなら、このエリアで\nボードクエストやワールドクエストを\nしながら様子を見てみてよ",
-    "translated_text": "If they&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re not showin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;, try takin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on some Board\nQuests or World Quests in this area\nwhilst you wait and see.",
+    "translated_text": "If they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re not showin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;, try takin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on some Board\nQuests or World Quests in this area\nwhilst you wait and see.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -572,7 +572,7 @@
   "268.csv::272": {
     "id": "268.csv::272",
     "source_text": "おっ、《隠れ浜》のならず者を追い払って\nくれたんだな\nありがとう、どうだった？",
-    "translated_text": "Oh, so you drove off the ruffians at the Hidden\nBeach. Thank you, how&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d it go?",
+    "translated_text": "Oh, so you drove off the ruffians at the Hidden\nBeach. Thank you, how&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d it go?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -587,7 +587,7 @@
   "268.csv::273": {
     "id": "268.csv::273",
     "source_text": "――うーん、そうかぁ\nすこし聞いてる感じだと様子がちがうなぁ\nそれはただの野盗かもしれないな",
-    "translated_text": "――Hmm, I see... From the sound of it, the\nsituation&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s different. Mayhap they&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re\nnaught but common bandits.",
+    "translated_text": "――Hmm, I see... From the sound of it, the\nsituation&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s different. Mayhap they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re\nnaught but common bandits.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -602,7 +602,7 @@
   "268.csv::274": {
     "id": "268.csv::274",
     "source_text": "だとすれば、海岸少しいったところにある\nあの場所、《海辺の地下室》あたりが怪しいな",
-    "translated_text": "If that&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s the case, that place a little ways down\nthe coast — the Seaside Cellar —\nlooks mighty suspicious.",
+    "translated_text": "If that&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s the case, that place a little ways down\nthe coast — the Seaside Cellar —\nlooks mighty suspicious.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -617,7 +617,7 @@
   "268.csv::275": {
     "id": "268.csv::275",
     "source_text": "あそこは魔物や海賊がたむろしやすくて\n危険だから封鎖したんだけどさ",
-    "translated_text": "We sealed the place off — monsters &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;n pirates\ngather there, makes it hazardous.",
+    "translated_text": "We sealed the place off — monsters &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;n pirates\ngather there, makes it hazardous.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -632,7 +632,7 @@
   "268.csv::276": {
     "id": "268.csv::276",
     "source_text": "またボードクエストや、ワールドクエストを\nしながら様子を見てみてくれよ",
-    "translated_text": "Give it another go — keep watch whilst you&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re\nrunnin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; Board Quests and World Quests.",
+    "translated_text": "Give it another go — keep watch whilst you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re\nrunnin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; Board Quests and World Quests.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -662,7 +662,7 @@
   "268.csv::278": {
     "id": "268.csv::278",
     "source_text": "もしまた連中がアジトにいたら\n逆にやつらの宝を奪っちゃってよ\nあんたの役に立つ方がきっと宝も本望さ",
-    "translated_text": "If they&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re back at the hideout, turn the tables —\ntake their treasure for your own. The loot&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d\nsurely sooner serve you.",
+    "translated_text": "If they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re back at the hideout, turn the tables —\ntake their treasure for your own. The loot&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d\nsurely sooner serve you.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -676,8 +676,8 @@
   },
   "268.csv::279": {
     "id": "268.csv::279",
-    "source_text": "でも、&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;ブリアに眠る財宝&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね",
-    "translated_text": "But &amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;treasure sleeping in Breya,&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; is it? If\nthat&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s true, &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis certainly intriguin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;... Come to\nthink on it, there was another village in Breya —\nan abandoned one on the south shore called Ruflow.",
+    "source_text": "でも、&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;ブリアに眠る財宝&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね",
+    "translated_text": "But &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;treasure sleeping in Breya,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; is it? If\nthat&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s true, &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis certainly intriguin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;... Come to\nthink on it, there was another village in Breya —\nan abandoned one on the south shore called Ruflow.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -707,7 +707,7 @@
   "268.csv::281": {
     "id": "268.csv::281",
     "source_text": "恐ろしいことがあって一夜で滅んだって\n話だけが残ってるんだけど、結局ルフローが\n滅んだ原因は謎のままなんだよ\n財宝と何か関係あったのかな――",
-    "translated_text": "Only the tale remains — some fell calamity\nstruck, and Ruflow perished in a single night.\nBut in the end, the cause of its ruin stays a\nmystery. Mayhap the treasure had\nsomethin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; to do with it—",
+    "translated_text": "Only the tale remains — some fell calamity\nstruck, and Ruflow perished in a single night.\nBut in the end, the cause of its ruin stays a\nmystery. Mayhap the treasure had\nsomethin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; to do with it—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -722,7 +722,7 @@
   "268.csv::282": {
     "id": "268.csv::282",
     "source_text": "そうだ！　あんたなら、ルフローが滅んだ\n真相や財宝も見つけられるんじゃないかな？\nブリアの問題を解決しながら、ぜひ\nそのあたりのことについても調べてくれよ",
-    "translated_text": "Right! You might be the one to uncover the verity\nof Ruflow&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s downfall — and the treasure to boot.\nWhilst you&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re settlin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; Breya&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s troubles, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d ask\nyou to look into that business as well.",
+    "translated_text": "Right! You might be the one to uncover the verity\nof Ruflow&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s downfall — and the treasure to boot.\nWhilst you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re settlin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; Breya&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s troubles, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d ask\nyou to look into that business as well.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -737,7 +737,7 @@
   "268.csv::283": {
     "id": "268.csv::283",
     "source_text": "覚者さまならきっと《ブリア海岸》の問題も\n解決してくださると思ってます！",
-    "translated_text": "I&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve every confidence you&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll resolve the Breya\nCoast&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s troubles as well, Master Arisen!",
+    "translated_text": "I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve every confidence you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll resolve the Breya\nCoast&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s troubles as well, Master Arisen!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -752,7 +752,7 @@
   "268.csv::284": {
     "id": "268.csv::284",
     "source_text": "どうか、《ローテス村》にいるブリア海岸の\nエリアマスター、オニールさんの相談に\n乗ってあげてくださいね",
-    "translated_text": "Please, do hear out Ser O&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Neill, Area Master of\nthe Breya Coast, o&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er in Rotes Village.",
+    "translated_text": "Please, do hear out Ser O&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Neill, Area Master of\nthe Breya Coast, o&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er in Rotes Village.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -767,7 +767,7 @@
   "268.csv::285": {
     "id": "268.csv::285",
     "source_text": "《隠れ浜》に最近、ならず者が\nよく出入りしてるんだよ",
-    "translated_text": "Ruffians&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve been frequentin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; the Hidden\nBeach of late.",
+    "translated_text": "Ruffians&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve been frequentin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; the Hidden\nBeach of late.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -782,7 +782,7 @@
   "268.csv::286": {
     "id": "268.csv::286",
     "source_text": "そこが連中のアジトかも\nあんたの力で懲らしめてやってよ",
-    "translated_text": "Could be that&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s their hideout. Go on — teach &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;em\na lesson with that strength o&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; yours.",
+    "translated_text": "Could be that&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s their hideout. Go on — teach &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;em\na lesson with that strength o&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; yours.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -797,7 +797,7 @@
   "268.csv::287": {
     "id": "268.csv::287",
     "source_text": "もし誰もいないようなら、このエリアの\nボードクエストやワールドクエストを\nしつつ様子を見てみてくれないかな",
-    "translated_text": "If no one&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s about, try takin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on some Board\nQuests and World Quests in this area\nwhile you wait and see.",
+    "translated_text": "If no one&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s about, try takin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on some Board\nQuests and World Quests in this area\nwhile you wait and see.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -812,7 +812,7 @@
   "268.csv::288": {
     "id": "268.csv::288",
     "source_text": "少し行った所にある《海辺の地下室》に\n誰かが入り込んでるみたいでさ",
-    "translated_text": "Seems someone&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s gotten into the Seaside Cellar a\nlittle ways down the coast.",
+    "translated_text": "Seems someone&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s gotten into the Seaside Cellar a\nlittle ways down the coast.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -827,7 +827,7 @@
   "268.csv::289": {
     "id": "268.csv::289",
     "source_text": "そここそ連中のアジトかも\nどうにか懲らしめてやってよ",
-    "translated_text": "That just might be their hideout. Go on\n— give &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;em what for.",
+    "translated_text": "That just might be their hideout. Go on\n— give &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;em what for.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -842,7 +842,7 @@
   "268.csv::290": {
     "id": "268.csv::290",
     "source_text": "もし入れないようなら、このエリアの\nボードクエストやワールドクエストを\nしつつ様子を見てみてくれないかな",
-    "translated_text": "If you can&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t get inside, try takin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on some Board\nQuests and World Quests in this area\nwhile you wait and see.",
+    "translated_text": "If you can&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t get inside, try takin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on some Board\nQuests and World Quests in this area\nwhile you wait and see.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -872,7 +872,7 @@
   "268.csv::292": {
     "id": "268.csv::292",
     "source_text": "採取アイテムや討伐対象の魔物を探すには、\nエリアマスターの《スポット情報》が便利です",
-    "translated_text": "To search for items and \ntarget monsters for suppression,\nthe Area Master&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s &amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Spot Info&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; is a handy tool.",
+    "translated_text": "To search for items and \ntarget monsters for suppression,\nthe Area Master&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Spot Info&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; is a handy tool.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -902,7 +902,7 @@
   "268.csv::294": {
     "id": "268.csv::294",
     "source_text": "②スポット情報で、「入手可能アイテム」と\n　「魔物情報」を確認",
-    "translated_text": "In the spot information, \ncheck the &amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Available Items&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; and &amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Enemies&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;.",
+    "translated_text": "In the spot information, \ncheck the &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Available Items&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; and &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Enemies&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -917,7 +917,7 @@
   "268.csv::295": {
     "id": "268.csv::295",
     "source_text": "よしきた覚者さん、宝探しだな！\nルドルフォの爺さん家で見た古い灯台守の\n日誌にあったんだよ、手掛かりが",
-    "translated_text": "Right then, Ser Arisen — a treasure hunt it is!\nFound a clue in an aged lighthouse keeper&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s\njournal, back at grandpa Rudolfo&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s place.",
+    "translated_text": "Right then, Ser Arisen — a treasure hunt it is!\nFound a clue in an aged lighthouse keeper&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s\njournal, back at grandpa Rudolfo&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s place.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -932,7 +932,7 @@
   "268.csv::296": {
     "id": "268.csv::296",
     "source_text": "南の浜辺の崖上にある《潮騒洞窟》は\n当時は海神様の洞窟なんて呼ばれてて\nお参りに行く人もいたんだって",
-    "translated_text": "The Roaring Tide Cave atop the cliffs on the\nsouth shore — back then &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;twas called the Sea\nGod&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s Cave, and folk&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d go there to proffer\nprayers, or so they say.",
+    "translated_text": "The Roaring Tide Cave atop the cliffs on the\nsouth shore — back then &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;twas called the Sea\nGod&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s Cave, and folk&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;d go there to proffer\nprayers, or so they say.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -946,8 +946,8 @@
   },
   "268.csv::297": {
     "id": "268.csv::297",
-    "source_text": "でも、洞窟は封鎖されたんだ\n――それというのも、&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;海神様の宝&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;を狙って洞窟を荒らしたヤツがいたせいらしいんだほら宝だよ、財宝ってこれじゃないかな！？",
-    "translated_text": "But the cave was sealed off — seems some fool\nwent and ransacked the place, chasin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; after the\n&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Sea God&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s Treasure.&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; See? Treasure!\nThis must be it, right!?",
+    "source_text": "でも、洞窟は封鎖されたんだ\n――それというのも、&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;海神様の宝&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;を狙って洞窟を荒らしたヤツがいたせいらしいんだほら宝だよ、財宝ってこれじゃないかな！？",
+    "translated_text": "But the cave was sealed off — seems some fool\nwent and ransacked the place, chasin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; after the\n&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Sea God&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s Treasure.&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; See? Treasure!\nThis must be it, right!?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -962,7 +962,7 @@
   "268.csv::298": {
     "id": "268.csv::298",
     "source_text": "そういえば、よく分からない鍵が\n引継品の中にあるのは知ってたんだよね\nビビっときて、もしやと思って\n行ってみたら――大当たりってわけ！",
-    "translated_text": "Come to think, I knew there was a mysterious key\namidst the heirlooms. A hunch struck — &amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Mayhap...&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;\n— so I went and tried it. Bullseye!",
+    "translated_text": "Come to think, I knew there was a mysterious key\namidst the heirlooms. A hunch struck — &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Mayhap...&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;\n— so I went and tried it. Bullseye!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -977,7 +977,7 @@
   "268.csv::299": {
     "id": "268.csv::299",
     "source_text": "あんたならきっと財宝を見つけられるよ\nその時は山分けでよろしくな！",
-    "translated_text": "You&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re sure to find the treasure, I know it. When\nyou do — let&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s split it down the middle, aye?",
+    "translated_text": "You&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re sure to find the treasure, I know it. When\nyou do — let&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s split it down the middle, aye?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1007,7 +1007,7 @@
   "268.csv::301": {
     "id": "268.csv::301",
     "source_text": "はぁ～、でも、そうかぁ\n洞窟の海神様――リンドブルムを\nルフローの人間が怒らせたせいで\n村は襲われちゃったのか",
-    "translated_text": "Haah... but I see. So the village was attacked\nbecause Ruflow&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s folk angered the Sea God of\nthe cave — Lindwurm.",
+    "translated_text": "Haah... but I see. So the village was attacked\nbecause Ruflow&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s folk angered the Sea God of\nthe cave — Lindwurm.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1022,7 +1022,7 @@
   "268.csv::302": {
     "id": "268.csv::302",
     "source_text": "白竜様がお倒れになってから\n海竜は急に凶暴になったらしいし――\n以前なら、そんなことは無かったんだろうけど",
-    "translated_text": "Since Lord White Dragon fell, the sea wyrm&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s\nturned savage all of a sudden— &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Twould ne&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er have\ncome to this afore, though.",
+    "translated_text": "Since Lord White Dragon fell, the sea wyrm&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s\nturned savage all of a sudden— &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Twould ne&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;er have\ncome to this afore, though.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1052,7 +1052,7 @@
   "268.csv::304": {
     "id": "268.csv::304",
     "source_text": "――まぁ、しないか\nあんたが言うんだしな",
-    "translated_text": "—Well, I suppose not.\n​You&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re the one saying so, after all.",
+    "translated_text": "—Well, I suppose not.\n​You&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re the one saying so, after all.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1067,7 +1067,7 @@
   "268.csv::305": {
     "id": "268.csv::305",
     "source_text": "いろいろ真相がはっきりしたのは良かったよ\nそんなに綺麗な滝なら\n今度俺も見に行ってみようかな",
-    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis good the truth&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s come to light. If the falls\nare truly that fair, mayhap I&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll pay &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;em a\nvisit myself next time.",
+    "translated_text": "&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis good the truth&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s come to light. If the falls\nare truly that fair, mayhap I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll pay &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;em a\nvisit myself next time.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1082,7 +1082,7 @@
   "268.csv::306": {
     "id": "268.csv::306",
     "source_text": "覚者さん、財宝探しよろしく頼むよ！\n《潮騒洞窟》にあるらしいからさ",
-    "translated_text": "Ser Arisen, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;m countin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on you for the treasure\nhunt! Seems the Roaring Tide Cave&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s where it&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s at.",
+    "translated_text": "Ser Arisen, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;m countin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on you for the treasure\nhunt! Seems the Roaring Tide Cave&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s where it&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s at.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1097,7 +1097,7 @@
   "268.csv::307": {
     "id": "268.csv::307",
     "source_text": "金銀財宝か、すごい美術品か――\n何なんだろうな！\n報告楽しみに待ってるよ",
-    "translated_text": "Gold and silver riches, or some wondrous work of art—\nWonder what it could be!\nI&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll be waitin&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on your tidings.",
+    "translated_text": "Gold and silver riches, or some wondrous work of art—\nWonder what it could be!\nI&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll be waitin&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27; on your tidings.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1127,7 +1127,7 @@
   "268.csv::308": {
     "id": "268.csv::308",
     "source_text": "うーんやっぱり、《海辺の地下室》に\n入りこんだ連中が怪しいな――\n今度こそ《ブリア宝奪団》のアジトじゃないかな",
-    "translated_text": "Hmm, aye... those who entered the Seaside Cellar\nseem suspicious. This time for sure it must be\nthe Breya Treasure Bandit&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s hideout.",
+    "translated_text": "Hmm, aye... those who entered the Seaside Cellar\nseem suspicious. This time for sure it must be\nthe Breya Treasure Bandit&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s hideout.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1142,7 +1142,7 @@
   "268.csv::309": {
     "id": "268.csv::309",
     "source_text": "覚者さん、入口の封鎖はといてあるから\n連中を見つけたら\nどうにか懲らしめてやってよ",
-    "translated_text": "Ser Arisen, the entrance&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s seal is undone; should\nyou find them, give them a sound thrashing.",
+    "translated_text": "Ser Arisen, the entrance&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s seal is undone; should\nyou find them, give them a sound thrashing.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1172,7 +1172,7 @@
   "268.csv::311": {
     "id": "268.csv::311",
     "source_text": "今度こそ《ブリア宝奪団》の連中の\nアジトじゃないかな",
-    "translated_text": "I think this might finally be\nthe hideout of the &amp;amp;amp;amp;amp;amp;amp;amp;quot;Breya Treasure Bandits.&amp;amp;amp;amp;amp;amp;amp;amp;quot;",
+    "translated_text": "I think this might finally be\nthe hideout of the &amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Breya Treasure Bandits.&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1217,7 +1217,7 @@
   "268.csv::314": {
     "id": "268.csv::314",
     "source_text": "もしまた連中がアジトにいたら\nやっつけてやってよ\nほら、《装備》とか逆に奪えるかもしれないし",
-    "translated_text": "If they&amp;amp;amp;amp;amp;amp;amp;amp;#x27;re at the hideout anew... do them in.\nMayhap you&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll even claim their equipment instead.",
+    "translated_text": "If they&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;re at the hideout anew... do them in.\nMayhap you&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll even claim their equipment instead.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1231,8 +1231,8 @@
   },
   "268.csv::315": {
     "id": "268.csv::315",
-    "source_text": "でも、&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;ブリアに眠る財宝&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね",
-    "translated_text": "But if &amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;the treasure resting in the Breya&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; is indeed real... that would certainly be a cause for concern. Wait a moment—I recall that aside from the damaged settlements, there was another place in the Breya... the ruined hamlet at the southern shore known as the &amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Ruflow,&amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; which has long since been forsaken.\n",
+    "source_text": "でも、&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;ブリアに眠る財宝&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね",
+    "translated_text": "But if &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;the treasure resting in the Breya&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; is indeed real... that would certainly be a cause for concern. Wait a moment—I recall that aside from the damaged settlements, there was another place in the Breya... the ruined hamlet at the southern shore known as the &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;Ruflow,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; which has long since been forsaken.\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1247,7 +1247,7 @@
   "268.csv::316": {
     "id": "268.csv::316",
     "source_text": "もしかしたら、例の財宝と関係あるのは\nそっちの村だったのかもしれないな",
-    "translated_text": "Mayhap &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis your village that&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s connected to that treasure.",
+    "translated_text": "Mayhap &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis your village that&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s connected to that treasure.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1262,7 +1262,7 @@
   "268.csv::317": {
     "id": "268.csv::317",
     "source_text": "恐ろしいことがあって一夜で滅んだって\n話だけが残ってるんだけど、結局ルフローが\n滅んだ原因は謎のままなんだよ\n財宝と何か関係あったのかな――",
-    "translated_text": "\nThere was something terrible that destroyed it in one night... Only tales remain, but the cause of Ruflow&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s downfall stays a mystery... Might there be some tie to treasure, I wonder...\n",
+    "translated_text": "\nThere was something terrible that destroyed it in one night... Only tales remain, but the cause of Ruflow&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s downfall stays a mystery... Might there be some tie to treasure, I wonder...\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1277,7 +1277,7 @@
   "268.csv::318": {
     "id": "268.csv::318",
     "source_text": "そうだ！　あんたなら、ルフローが滅んだ\n真相や財宝も見つけられるんじゃないかな？\nブリアの問題を解決しながら、ぜひ\nそのあたりのことについても調べてくれよ",
-    "translated_text": "Master! Indeed! You can bring about Ruflow&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s ruin. Perhaps you will also find the truth or treasure. While solving Breya&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s problem, please also investigate those matters.",
+    "translated_text": "Master! Indeed! You can bring about Ruflow&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s ruin. Perhaps you will also find the truth or treasure. While solving Breya&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s problem, please also investigate those matters.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -1292,7 +1292,7 @@
   "268.csv::332": {
     "id": "268.csv::332",
     "source_text": "引き受けてくれるのね、ありがとう！\n《ミスリウ鍾乳洞》には以前から強力な\n魔獣が棲んでいたの",
-    "translated_text": "You&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll take this on, then? Thank you! The Mysree\nLimestone Cave has long been home to\nfearsome beasts.",
+    "translated_text": "You&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll take this on, then? Thank you! The Mysree\nLimestone Cave has long been home to\nfearsome beasts.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1322,7 +1322,7 @@
   "268.csv::334": {
     "id": "268.csv::334",
     "source_text": "《ミスリウ鍾乳洞》は、そのシンガの住処なの\n前に、ハンター部隊がヤツに瀕死の重傷を\n負わせて追いつめたんだけど――",
-    "translated_text": "The [Mysree Limestone Cave] is that Singha&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s\nlair. Before, a hunter unit dealt it nigh-fatal\nwounds and cornered it—",
+    "translated_text": "The [Mysree Limestone Cave] is that Singha&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s\nlair. Before, a hunter unit dealt it nigh-fatal\nwounds and cornered it—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1337,7 +1337,7 @@
   "268.csv::335": {
     "id": "268.csv::335",
     "source_text": "もう一歩というところでヤツは鍾乳洞の奥に\n逃げ戻ってしまった\n以来姿を見せないから死んだと思っていたわ\n念のため、入口は封鎖していたけど",
-    "translated_text": "The beast was mere one step from the end when it\nfled deep into the heart of the limestone cavern.\nHaven&amp;amp;amp;amp;amp;amp;amp;amp;#x27;t set eyes on it since, so I took it for\ndead. Sealed the entrance just in case, though.",
+    "translated_text": "The beast was mere one step from the end when it\nfled deep into the heart of the limestone cavern.\nHaven&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t set eyes on it since, so I took it for\ndead. Sealed the entrance just in case, though.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1352,7 +1352,7 @@
   "268.csv::336": {
     "id": "268.csv::336",
     "source_text": "――もちろん、先に調査に行った騎士団にも\nこのことは伝えたわ\nなんとか探して、連れ帰ってくれないかしら",
-    "translated_text": "Of course — I&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve told as much to the Knight&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s\nOrder group that went ahead to\ninvestigate as well.\nWon&amp;amp;amp;amp;amp;amp;amp;amp;#x27;t you find them and bring them back somehow?",
+    "translated_text": "Of course — I&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve told as much to the Knight&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s\nOrder group that went ahead to\ninvestigate as well.\nWon&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t you find them and bring them back somehow?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1367,7 +1367,7 @@
   "268.csv::337": {
     "id": "268.csv::337",
     "source_text": "そう――騎士のことは残念だわ\nまさかシンガが本当に生きていたなんて",
-    "translated_text": "So — &amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis a pity about the Knight.\nTo think Singha was truly alive...",
+    "translated_text": "So — &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis a pity about the Knight.\nTo think Singha was truly alive...",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1382,7 +1382,7 @@
   "268.csv::338": {
     "id": "268.csv::338",
     "source_text": "でも、あながたが撃退してくれた――！\n本当に感謝しているわ\nもしあの魔獅子が地上に現れたら\nきっとリンウッドは――",
-    "translated_text": "But you drove it back—! Truly, I&amp;amp;amp;amp;amp;amp;amp;amp;#x27;m grateful.\nShould that demonic lion have\nsurfaced, Lynwood would surely—",
+    "translated_text": "But you drove it back—! Truly, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;m grateful.\nShould that demonic lion have\nsurfaced, Lynwood would surely—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1397,7 +1397,7 @@
   "268.csv::339": {
     "id": "268.csv::339",
     "source_text": "でも、完全に安心はできないわ\n魔獅子は死に瀕してもなお、恐るべき蛇の\n生命力で再び立ちあがるというの",
-    "translated_text": "But we can&amp;amp;amp;amp;amp;amp;amp;amp;#x27;t be fully at ease. A demon lion,\neven at death&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s door, rises again thanks to the\nserpent&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s fearsome vitality — so &amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis said.",
+    "translated_text": "But we can&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t be fully at ease. A demon lion,\neven at death&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s door, rises again thanks to the\nserpent&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s fearsome vitality — so &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;tis said.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1412,7 +1412,7 @@
   "268.csv::340": {
     "id": "268.csv::340",
     "source_text": "以前のハンターたちも、完全に仕留めたはず\nなのに知らぬ間に息を吹き返したと言っていた\n鍾乳洞に逃げ込まれる前にね",
-    "translated_text": "The hunters prior should&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve slain it outright...\nyet they swore it revived unseen, ere it fled\ninto the limestone cavern.",
+    "translated_text": "The hunters prior should&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve slain it outright...\nyet they swore it revived unseen, ere it fled\ninto the limestone cavern.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1427,7 +1427,7 @@
   "268.csv::341": {
     "id": "268.csv::341",
     "source_text": "もしまたヤツが息を吹き返していたら\n今度こそ仕留めてちょうだい\nこの分だと、森の深部では《白獅子アルバス》も\n目を覚ましているかもしれないわね――",
-    "translated_text": "If it&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s revived anew... this time, put it down\nfor good. As it is, mayhap the White Lion Albus\nhas awakened in the forest depths as well—",
+    "translated_text": "If it&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;s revived anew... this time, put it down\nfor good. As it is, mayhap the White Lion Albus\nhas awakened in the forest depths as well—",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1442,7 +1442,7 @@
   "268.csv::342": {
     "id": "268.csv::342",
     "source_text": "《ミスリウ鍾乳洞》の確認はどうかしら？\n急かせる立場ではないのだけれど\nできれば急いでちょうだい",
-    "translated_text": "How fares the [Mysree Limestone Cave]\ninvestigation?\nI&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve no right to press, but...\nmake haste if you can.",
+    "translated_text": "How fares the [Mysree Limestone Cave]\ninvestigation?\nI&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve no right to press, but...\nmake haste if you can.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1472,7 +1472,7 @@
   "268.csv::350": {
     "id": "268.csv::350",
     "source_text": "――しかし、サイクロプスが坑道に入り込んだ\nって話はよく聞きますが、岩盤崩落とは\nそこまでの力があるんですかねぇ――？",
-    "translated_text": "―Also, I&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve often heard that a \ncyclops lurks the tunnels. That sort of strength\nmight also work just as well!",
+    "translated_text": "―Also, I&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve often heard that a \ncyclops lurks the tunnels. That sort of strength\nmight also work just as well!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -1487,7 +1487,7 @@
   "268.csv::352": {
     "id": "268.csv::352",
     "source_text": "いやはや、なるほど確かに\nそれならあの崩れっぷりも納得が――",
-    "translated_text": "Ah, that explains it!\n&amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis no wonder it collapsed...",
+    "translated_text": "Ah, that explains it!\n&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis no wonder it collapsed...",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
