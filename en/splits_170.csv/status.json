@@ -2,7 +2,7 @@
   "170.csv::77": {
     "id": "170.csv::77",
     "source_text": "フッフッフ、まぁ聞きたまえ！\n俺は祭りってものが大好きなのだ\n先日も、ある村で伝統的な祭りに参加したんだが\nこれがまた面白い祭りでね",
-    "translated_text": "Heh heh heh, well, listen up!\nI absolutely love festivals.\nJust the other day, I took part in a traditional\nfestival in a certain village, and &amp;amp;amp;amp;amp;amp;amp;amp;#x27;twas quite an\ninteresting one, I must say.",
+    "translated_text": "Heh heh heh, well, listen up!\nI absolutely love festivals.\nJust the other day, I took part in a traditional\nfestival in a certain village, and &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;twas quite an\ninteresting one, I must say.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": "Sapphira",
@@ -17,7 +17,7 @@
   "170.csv::78": {
     "id": "170.csv::78",
     "source_text": "ほら、このランタンをもって村中を練り歩くんだ\nそうすると甘いお菓子が沢山拾えるようになる\nどうだ、摩訶不思議で素晴らしいランタンだろう！",
-    "translated_text": "See, with this lantern in hand, I wend\nthrough the village, and sweet treats shall be\ngathered in abundance. What think you? &amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis a\nwondrous and mysterious lantern, nay?\nSplendid, isn&amp;amp;amp;amp;amp;amp;amp;amp;#x27;t it!",
+    "translated_text": "See, with this lantern in hand, I wend\nthrough the village, and sweet treats shall be\ngathered in abundance. What think you? &amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis a\nwondrous and mysterious lantern, nay?\nSplendid, isn&amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;t it!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": "Sapphira",
@@ -47,7 +47,7 @@
   "170.csv::80": {
     "id": "170.csv::80",
     "source_text": "だが、せっかく手に入れたお菓子を\nここに来る途中で落っことしてしまったのだ！\nというわけで、通りすがりのキミ\n俺の代わりに拾ってきてくれないかね？",
-    "translated_text": "But I&amp;amp;amp;amp;amp;amp;#x27;ve just dropped the sweets I snagged on the\nway hence! So, since yer passing by—could ye\nfetch &amp;amp;amp;amp;amp;amp;#x27;em for me in lieu?",
+    "translated_text": "But I&amp;amp;amp;amp;amp;amp;amp;#x27;ve just dropped the sweets I snagged on the\nway hence! So, since yer passing by—could ye\nfetch &amp;amp;amp;amp;amp;amp;amp;#x27;em for me in lieu?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -62,7 +62,7 @@
   "170.csv::81": {
     "id": "170.csv::81",
     "source_text": "＜テル村にある枯れ井戸＞で落としてね\n――だって、急にお化けが出てきたんだ\nそりゃ驚いて落っことしても仕方ないだろう！？\nお菓子の回収、どうか頼まれてくれ！",
-    "translated_text": "Dropped it down the dried-up\nwell in Tel Village...\nA bloody phantom up and appeared of a sudden.\nCan&amp;amp;amp;amp;amp;amp;amp;#x27;t scarce blame a man for droppin&amp;amp;amp;amp;amp;amp;amp;#x27; it in a\nfright, now can ye?!\nDo be a dear and fetch back the sweets, would ye?",
+    "translated_text": "Dropped it down the dried-up\nwell in Tel Village...\nA bloody phantom up and appeared of a sudden.\nCan&amp;amp;amp;amp;amp;amp;amp;amp;#x27;t scarce blame a man for droppin&amp;amp;amp;amp;amp;amp;amp;amp;#x27; it in a\nfright, now can ye?!\nDo be a dear and fetch back the sweets, would ye?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -77,7 +77,7 @@
   "170.csv::82": {
     "id": "170.csv::82",
     "source_text": "＜テルの枯れ井戸＞にお菓子を落としたんだ\nきっとあのお化けみたいな魔物もまだいるに違いない\nどうか頼む！\n俺の代わりに拾ってきてくれないか！",
-    "translated_text": "[Tel&amp;amp;amp;amp;amp;amp;amp;#x27;s Withered Well] I dropped my sweets there. I s&amp;amp;amp;amp;amp;amp;amp;#x27;pose that that ghost‑like monster&amp;amp;amp;amp;amp;amp;amp;#x27;s still lurkin&amp;amp;amp;amp;amp;amp;amp;#x27; in it, mind. I beg ye! Can ye fetch &amp;amp;amp;amp;amp;amp;amp;#x27;em for me?",
+    "translated_text": "[Tel&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s Withered Well] I dropped my sweets there. I s&amp;amp;amp;amp;amp;amp;amp;amp;#x27;pose that that ghost‑like monster&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s still lurkin&amp;amp;amp;amp;amp;amp;amp;amp;#x27; in it, mind. I beg ye! Can ye fetch &amp;amp;amp;amp;amp;amp;amp;amp;#x27;em for me?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -92,7 +92,7 @@
   "170.csv::83": {
     "id": "170.csv::83",
     "source_text": "あのお化けを倒してきてくれたのか！\nいやぁハッハッハ、これは助かった\nでは、取り返してもらったお菓子をさっそく――",
-    "translated_text": "Angelo: You didst manage to lay that night‑spirited beast low, did ye? Ha ha ha— that&amp;amp;amp;amp;amp;amp;amp;#x27;s a comfort, truly.  \nWell, then, shall we forthwith retrieve the sweets ye have recovered?",
+    "translated_text": "Angelo: You didst manage to lay that night‑spirited beast low, did ye? Ha ha ha— that&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s a comfort, truly.  \nWell, then, shall we forthwith retrieve the sweets ye have recovered?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -122,7 +122,7 @@
   "170.csv::85": {
     "id": "170.csv::85",
     "source_text": "お、俺のクッキーはどこにいってしまったんだ！？\nレスタニアでは小さなキャンディよりも\n食べごたえのあるクッキーの方が喜ばれるから\n必死になって集めたのに――！",
-    "translated_text": "Where... where have my cookies vanished to!? &amp;amp;amp;amp;amp;amp;amp;#x27;Tis a tragedy, truly. In Lestania, folks prefer a cookie with some substance over those tiny candies, so I&amp;amp;amp;amp;amp;amp;amp;#x27;ve been quite desperate to gather them all—!",
+    "translated_text": "Where... where have my cookies vanished to!? &amp;amp;amp;amp;amp;amp;amp;amp;#x27;Tis a tragedy, truly. In Lestania, folks prefer a cookie with some substance over those tiny candies, so I&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve been quite desperate to gather them all—!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -152,7 +152,7 @@
   "170.csv::87": {
     "id": "170.csv::87",
     "source_text": "ここには何でも交換してくれる人がいる\nと聞いたんだが――\nその人に頼んで、キャンディをクッキーに替えて\n来てもらえないか！？",
-    "translated_text": "I heard there&amp;amp;amp;amp;amp;amp;amp;#x27;s a chap &amp;amp;amp;amp;amp;amp;amp;#x27;round here who&amp;amp;amp;amp;amp;amp;amp;#x27;ll swap ye anythin&amp;amp;amp;amp;amp;amp;amp;#x27;, eh? — Could you ask him to swap my candy for a cookie?",
+    "translated_text": "I heard there&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s a chap &amp;amp;amp;amp;amp;amp;amp;amp;#x27;round here who&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ll swap ye anythin&amp;amp;amp;amp;amp;amp;amp;amp;#x27;, eh? — Could you ask him to swap my candy for a cookie?",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -167,7 +167,7 @@
   "170.csv::88": {
     "id": "170.csv::88",
     "source_text": "これは覚者さん、わたしになにか御用で？\nおや――これはまた珍しい\n近頃はこういった小さな菓子が\n流通するようになってきましたねぇ",
-    "translated_text": " คลาม์commentary…....? Scholars etc…………???…‐?‐q……? …\n\nขอ~~….…‑“……………”… “…… …●…….‐.. …\n\n\n\nWe must translate with archaized modern English. Must avoid archaic slash. Use LORE: 覚者さん becomes &amp;amp;amp;amp;amp;amp;amp;quot;Arisen&amp;amp;amp;amp;amp;amp;amp;quot;. Note: &amp;amp;amp;amp;amp;amp;amp;quot;覚者さ&amp;amp;amp;amp;amp;amp;amp;quot; would be &amp;amp;amp;amp;amp;amp;amp;quot;Ser Arisen&amp;amp;amp;amp;amp;amp;amp;quot;. This user says पार्ट? Use Gregory entry. Output only your text. No blanks? The content: &amp;amp;amp;amp;amp;amp;amp;quot;これは…? ...…?&amp;amp;amp;amp;amp;amp;amp;quot; We need to produce: &amp;amp;amp;amp;amp;amp;amp;quot;This is an Arisen, dost thou have a business for me?&amp;amp;amp;amp;amp;amp;amp;quot; But with early modern stylization? No -est. Let&amp;amp;amp;amp;amp;amp;amp;#x27;s produce something like: &amp;amp;amp;amp;amp;amp;amp;quot;This is an Arisen, hast thou some business for me?&amp;amp;amp;amp;amp;amp;amp;quot; And second: &amp;amp;amp;amp;amp;amp;amp;quot;Oh—this is yet another rarity. Lately, such small confectionery has come into circulation, hasn&amp;amp;amp;amp;amp;amp;amp;#x27;t it?&amp;amp;amp;amp;amp;amp;amp;quot; Ensure no special punctuation beyond period. Use ellipsis or dash? &amp;amp;amp;amp;amp;amp;amp;quot;おや――これはまた珍しい&amp;amp;amp;amp;amp;amp;amp;quot; is &amp;amp;amp;amp;amp;amp;amp;quot;Oh—this is again a rarity.&amp;amp;amp;amp;amp;amp;amp;quot; Use em dash. Ok. No blank lines.&amp;amp;amp;amp;amp;amp;amp;lt;|end|&amp;amp;amp;amp;amp;amp;amp;gt;This is an Arisen, hast thou some business for me? Oh—this is yet another rarity; lately, such small confectionery has begun to circulate, n weblogs.",
+    "translated_text": " คลาม์commentary…....? Scholars etc…………???…‐?‐q……? …\n\nขอ~~….…‑“……………”… “…… …●…….‐.. …\n\n\n\nWe must translate with archaized modern English. Must avoid archaic slash. Use LORE: 覚者さん becomes &amp;amp;amp;amp;amp;amp;amp;amp;quot;Arisen&amp;amp;amp;amp;amp;amp;amp;amp;quot;. Note: &amp;amp;amp;amp;amp;amp;amp;amp;quot;覚者さ&amp;amp;amp;amp;amp;amp;amp;amp;quot; would be &amp;amp;amp;amp;amp;amp;amp;amp;quot;Ser Arisen&amp;amp;amp;amp;amp;amp;amp;amp;quot;. This user says पार्ट? Use Gregory entry. Output only your text. No blanks? The content: &amp;amp;amp;amp;amp;amp;amp;amp;quot;これは…? ...…?&amp;amp;amp;amp;amp;amp;amp;amp;quot; We need to produce: &amp;amp;amp;amp;amp;amp;amp;amp;quot;This is an Arisen, dost thou have a business for me?&amp;amp;amp;amp;amp;amp;amp;amp;quot; But with early modern stylization? No -est. Let&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s produce something like: &amp;amp;amp;amp;amp;amp;amp;amp;quot;This is an Arisen, hast thou some business for me?&amp;amp;amp;amp;amp;amp;amp;amp;quot; And second: &amp;amp;amp;amp;amp;amp;amp;amp;quot;Oh—this is yet another rarity. Lately, such small confectionery has come into circulation, hasn&amp;amp;amp;amp;amp;amp;amp;amp;#x27;t it?&amp;amp;amp;amp;amp;amp;amp;amp;quot; Ensure no special punctuation beyond period. Use ellipsis or dash? &amp;amp;amp;amp;amp;amp;amp;amp;quot;おや――これはまた珍しい&amp;amp;amp;amp;amp;amp;amp;amp;quot; is &amp;amp;amp;amp;amp;amp;amp;amp;quot;Oh—this is again a rarity.&amp;amp;amp;amp;amp;amp;amp;amp;quot; Use em dash. Ok. No blank lines.&amp;amp;amp;amp;amp;amp;amp;amp;lt;|end|&amp;amp;amp;amp;amp;amp;amp;amp;gt;This is an Arisen, hast thou some business for me? Oh—this is yet another rarity; lately, such small confectionery has begun to circulate, n weblogs.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -182,7 +182,7 @@
   "170.csv::89": {
     "id": "170.csv::89",
     "source_text": "これとは別の菓子をお探しと？\nへっへへ、覚者さん実に運がいい\n丁度商人から菓子を入荷したところです\nよろしければ差し上げましょう",
-    "translated_text": "\n\n&amp;amp;amp;amp;amp;amp;amp;quot;Do you seek another sweet?  \nHah! Goodly is the luck of Ser Arisen!  \nLo, we have just received pastries from a merchant!  \nIf it pleases you, I shall present it.&amp;amp;amp;amp;amp;amp;amp;quot;\n",
+    "translated_text": "\n\n&amp;amp;amp;amp;amp;amp;amp;amp;quot;Do you seek another sweet?  \nHah! Goodly is the luck of Ser Arisen!  \nLo, we have just received pastries from a merchant!  \nIf it pleases you, I shall present it.&amp;amp;amp;amp;amp;amp;amp;amp;quot;\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -197,7 +197,7 @@
   "170.csv::90": {
     "id": "170.csv::90",
     "source_text": "勿論タダじゃありませんよ\nそのキャンディと交換で、ですがね",
-    "translated_text": " Hauptstadt&amp;amp;amp;amp;amp;amp;amp;lt;|end|&amp;amp;amp;amp;amp;amp;amp;gt;Verily, it be not gratis; take that candy in exchange, yet.",
+    "translated_text": " Hauptstadt&amp;amp;amp;amp;amp;amp;amp;amp;lt;|end|&amp;amp;amp;amp;amp;amp;amp;amp;gt;Verily, it be not gratis; take that candy in exchange, yet.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -242,7 +242,7 @@
   "170.csv::93": {
     "id": "170.csv::93",
     "source_text": "おお！　交換してきてくれたのか\n素晴らしい！　キミもやるじゃないか！\nこれこれ、この美味そうなクッキーだ",
-    "translated_text": "Oho! So thou—er, you went and traded for it, did you? Splendid! Might say you&amp;amp;amp;amp;amp;amp;amp;#x27;ve a knack for this, eh? Here now, these look to be right tasty cookies",
+    "translated_text": "Oho! So thou—er, you went and traded for it, did you? Splendid! Might say you&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve a knack for this, eh? Here now, these look to be right tasty cookies",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -257,7 +257,7 @@
   "170.csv::94": {
     "id": "170.csv::94",
     "source_text": "ここまでやってもらって、さすがに\nタダでっていうわけにはいかないな\nそうだ、お礼にこのランタンと同じのを\n君にもプレゼントしよう！",
-    "translated_text": "Angelo: You&amp;amp;amp;amp;amp;amp;amp;#x27;ve gone to such trouble for me, I s&amp;amp;amp;amp;amp;amp;amp;#x27;pose I cannot very well let you leave without something in return. There! As a token of my thanks, I shall give you a Present—one just like this lantern!",
+    "translated_text": "Angelo: You&amp;amp;amp;amp;amp;amp;amp;amp;#x27;ve gone to such trouble for me, I s&amp;amp;amp;amp;amp;amp;amp;amp;#x27;pose I cannot very well let you leave without something in return. There! As a token of my thanks, I shall give you a Present—one just like this lantern!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -272,7 +272,7 @@
   "170.csv::95": {
     "id": "170.csv::95",
     "source_text": "例の祭りでもらったのだ\nなかなか味があって可愛いだろう？\nこれがあるとお菓子が沢山手に入るんだそうだ ",
-    "translated_text": "Twas at that festival I came by it. Has a certain charm, don&amp;amp;amp;amp;amp;amp;amp;#x27;t it? Cute as a button, too. Word is, this little thing nets you a king&amp;amp;amp;amp;amp;amp;amp;#x27;s ransom in sweets.",
+    "translated_text": "Twas at that festival I came by it. Has a certain charm, don&amp;amp;amp;amp;amp;amp;amp;amp;#x27;t it? Cute as a button, too. Word is, this little thing nets you a king&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s ransom in sweets.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -317,7 +317,7 @@
   "170.csv::98": {
     "id": "170.csv::98",
     "source_text": "道楽にかまけて滅んでしまっては\n意味がないから、何がいいとは言わないけど――\nでも、もう少しお祭りごとを\n楽しむ余裕があってもいいと思うのよね！",
-    "translated_text": "\n\n&amp;amp;amp;amp;amp;amp;amp;quot;To stray along the path to ruin is naught but folly, yet I shall not declare what may be good... But if thou mayst find leisure to partake of the festival&amp;amp;amp;amp;amp;amp;amp;#x27;s mirth awhile more, methinks it were well.&amp;amp;amp;amp;amp;amp;amp;quot;\n",
+    "translated_text": "\n\n&amp;amp;amp;amp;amp;amp;amp;amp;quot;To stray along the path to ruin is naught but folly, yet I shall not declare what may be good... But if thou mayst find leisure to partake of the festival&amp;amp;amp;amp;amp;amp;amp;amp;#x27;s mirth awhile more, methinks it were well.&amp;amp;amp;amp;amp;amp;amp;amp;quot;\n",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -332,7 +332,7 @@
   "ecb38f47de50e1e9": {
     "id": "ecb38f47de50e1e9",
     "source_text": "フッフッフ、まぁ聞きたまえ！\n俺は祭りってものが大好きなのだ\n先日も、ある村で伝統的な祭りに参加したんだが\nこれがまた面白い祭りでね",
-    "translated_text": "Heh heh heh, well, listen up!\nI absolutely love festivals.\nJust the other day, I took part in a traditional\nfestival in a certain village, and &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;twas quite an\ninteresting one, I must say.",
+    "translated_text": "Heh heh heh, well, listen up!\nI absolutely love festivals.\nJust the other day, I took part in a traditional\nfestival in a certain village, and &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#x27;twas quite an\ninteresting one, I must say.",
     "status": "translated",
     "translator": "translator",
     "approver": null,
