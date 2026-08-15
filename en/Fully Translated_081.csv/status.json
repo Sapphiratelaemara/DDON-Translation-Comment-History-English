@@ -2,7 +2,7 @@
   "081.csv::151": {
     "id": "081.csv::151",
     "source_text": "「巨大な敵を倒すには一人では困難である\n　そのためにパーティーで挑む事が大事で\n　敵を怒らせてスキを作る必要がある」",
-    "translated_text": "&amp;amp;quot;Defeating giant enemies alone is difficult.\nThat&amp;amp;#x27;s why it&amp;amp;#x27;s important to challenge them\nas a party and create openings\nby enraging them.&amp;amp;quot;",
+    "translated_text": "&amp;amp;amp;quot;Defeating giant enemies alone is difficult.\nThat&amp;amp;amp;#x27;s why it&amp;amp;amp;#x27;s important to challenge them\nas a party and create openings\nby enraging them.&amp;amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -17,7 +17,7 @@
   "081.csv::159": {
     "id": "081.csv::159",
     "source_text": "何者かが刻んだ教えの言葉が浮かび上がっている――\n「三つ――敵の振り解き攻撃から耐えるべし」",
-    "translated_text": "Teachings carved by someone emerge—\n\n&amp;amp;quot;Three—endure the enemy&amp;amp;#x27;s \nattempts to shake you off.&amp;amp;quot;",
+    "translated_text": "Teachings carved by someone emerge—\n\n&amp;amp;amp;quot;Three—endure the enemy&amp;amp;amp;#x27;s \nattempts to shake you off.&amp;amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -31,8 +31,8 @@
   },
   "081.csv::160": {
     "id": "081.csv::160",
-    "source_text": "「怒り状態の敵にしがみついた状態で\n　振り払いアイコン（黄色）が出たら\n　&amp;amp;lt;ICON STG_TOUCH&amp;amp;gt;を押す」",
-    "translated_text": "&amp;amp;quot;While clinging to an enemy in an enraged\nstate, when the yellow shake-off warning\nappears, press &amp;amp;lt;ICON STG_TOUCH&amp;amp;gt;.&amp;amp;quot;",
+    "source_text": "「怒り状態の敵にしがみついた状態で\n　振り払いアイコン（黄色）が出たら\n　&amp;amp;amp;lt;ICON STG_TOUCH&amp;amp;amp;gt;を押す」",
+    "translated_text": "&amp;amp;amp;quot;While clinging to an enemy in an enraged\nstate, when the yellow shake-off warning\nappears, press &amp;amp;amp;lt;ICON STG_TOUCH&amp;amp;amp;gt;.&amp;amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -47,7 +47,7 @@
   "081.csv::161": {
     "id": "081.csv::161",
     "source_text": "「怒った敵が振り払い行動が出す時は\n　耐えて回避して揺さぶりを継続できる」",
-    "translated_text": "&amp;amp;quot;When an enraged enemy attempts to shake you\noff, endure it to continue shaking them.&amp;amp;quot;",
+    "translated_text": "&amp;amp;amp;quot;When an enraged enemy attempts to shake you\noff, endure it to continue shaking them.&amp;amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -62,7 +62,7 @@
   "081.csv::167": {
     "id": "081.csv::167",
     "source_text": "「続けざまに斬りつければ反撃を受けにくい\n　タイミングをずらせば、技の派生も可能である」",
-    "translated_text": "&amp;amp;quot;Consecutive slashes make it harder for\nenemies to counter.\nShifting the timing allows for\nskill variations.&amp;amp;quot;",
+    "translated_text": "&amp;amp;amp;quot;Consecutive slashes make it harder for\nenemies to counter.\nShifting the timing allows for\nskill variations.&amp;amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -77,7 +77,7 @@
   "081.csv::169": {
     "id": "081.csv::169",
     "source_text": "「ただしスタミナの消費には注意が必要だ\n　よりよい盾ならば強い攻撃も防げるだろう」",
-    "translated_text": "&quot;But be careful how much stamina you expend.\nA better shield will defend \nagainst stronger attacks.&quot;​",
+    "translated_text": "&amp;quot;But be careful how much stamina you expend.\nA better shield will defend \nagainst stronger attacks.&amp;quot;​",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -91,8 +91,8 @@
   },
   "081.csv::170": {
     "id": "081.csv::170",
-    "source_text": "&amp;lt;ICON STG_SUB_WEP&amp;gt;を押す",
-    "translated_text": "Press &lt;ICON STG_SUB_WEP&gt;.",
+    "source_text": "&amp;amp;lt;ICON STG_SUB_WEP&amp;amp;gt;を押す",
+    "translated_text": "Press &amp;lt;ICON STG_SUB_WEP&amp;gt;.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -107,7 +107,7 @@
   "081.csv::174": {
     "id": "081.csv::174",
     "source_text": "「敵の攻撃を盾弾きで怯ませて\n　素早く反撃のチャンスを作り出せる\n　無防備な空中時でも敵の攻撃回避に有効である」",
-    "translated_text": "&quot;Deflecting enemy attacks with your shield\ncan stagger them, creating a quick\nopportunity for a counterattack.\nIt is also effective for dodging enemy\nattacks even when defenseless in the air.&quot;",
+    "translated_text": "&amp;quot;Deflecting enemy attacks with your shield\ncan stagger them, creating a quick\nopportunity for a counterattack.\nIt is also effective for dodging enemy\nattacks even when defenseless in the air.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -122,7 +122,7 @@
   "081.csv::183": {
     "id": "081.csv::183",
     "source_text": "「発動した範囲に傷ついた仲間を入れる事で\n　自分だけでなく仲間の体力も回復できる\n　ただし回復は体力の白いゲージ幅までである」",
-    "translated_text": "&quot;Injured allies within the activated area\nwill recover HP, not just you. Recovery is\nlimited to the white gauge\nportion of their HP.&quot;",
+    "translated_text": "&amp;quot;Injured allies within the activated area\nwill recover HP, not just you. Recovery is\nlimited to the white gauge\nportion of their HP.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -137,7 +137,7 @@
   "081.csv::199": {
     "id": "081.csv::199",
     "source_text": "「遠距離からロープを放ち、対象に引っ掛けて\n　素早く距離を詰める技だ\n　突進時に攻撃を加えることもできる」",
-    "translated_text": "&quot;A technique to shoot a rope from a\ndistance, hook the target, and\nquickly close the gap.\nYou can also attack during the charge.&quot;",
+    "translated_text": "&amp;quot;A technique to shoot a rope from a\ndistance, hook the target, and\nquickly close the gap.\nYou can also attack during the charge.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -152,7 +152,7 @@
   "081.csv::206": {
     "id": "081.csv::206",
     "source_text": "「敵の攻撃を受けずに素早く回避できる\n　接近時は素早く攻撃に移すことも可能」　",
-    "translated_text": "&quot;Quickly evade without taking damage.\nWhen close, you can swiftly\ntransition to offense.&quot;",
+    "translated_text": "&amp;quot;Quickly evade without taking damage.\nWhen close, you can swiftly\ntransition to offense.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -167,7 +167,7 @@
   "081.csv::207": {
     "id": "081.csv::207",
     "source_text": "何者かが刻んだ教えの言葉が浮かび上がっている――\n「敵にしがみついて《百烈斬り》を成功させよ」",
-    "translated_text": "Teachings carved by someone emerge― &quot;Cling\nonto the enemy and land Scarlet Kisses.&quot;",
+    "translated_text": "Teachings carved by someone emerge― &amp;quot;Cling\nonto the enemy and land Scarlet Kisses.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -182,7 +182,7 @@
   "081.csv::214": {
     "id": "081.csv::214",
     "source_text": "「盾を構えた状態で\n　敵の攻撃を全方位から防ぐ事で\n　フォースゲージを蓄積できる」",
-    "translated_text": "&quot;By blocking enemy attacks from all\ndirections while holding up your shield, you\ncan accumulate Force Gauge.&quot;",
+    "translated_text": "&amp;quot;By blocking enemy attacks from all\ndirections while holding up your shield, you\ncan accumulate Force Gauge.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -197,7 +197,7 @@
   "081.csv::222": {
     "id": "081.csv::222",
     "source_text": "「敵を自分にひきつける事で\n　盾で敵の攻撃を防ぎながら\n　仲間に攻撃チャンスを与えられる」",
-    "translated_text": "&quot;By drawing enemies toward yourself, you can\nblock their attacks with your shield and\ncreate opportunities for allies to attack.&quot;",
+    "translated_text": "&amp;quot;By drawing enemies toward yourself, you can\nblock their attacks with your shield and\ncreate opportunities for allies to attack.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -211,8 +211,8 @@
   },
   "081.csv::261": {
     "id": "081.csv::261",
-    "source_text": "「&lt;ICON STG_ATTACK_0&gt;を押して詠唱後、\n　&lt;ICON STG_ATTACK_0&gt;を押して発動」",
-    "translated_text": "&quot;Press &lt;ICON STG_ATTACK_0&gt; to cast,\n then press &lt;ICON STG_ATTACK_0&gt; to activate.&quot;",
+    "source_text": "「&amp;lt;ICON STG_ATTACK_0&amp;gt;を押して詠唱後、\n　&amp;lt;ICON STG_ATTACK_0&amp;gt;を押して発動」",
+    "translated_text": "&amp;quot;Press &amp;lt;ICON STG_ATTACK_0&amp;gt; to cast,\n then press &amp;lt;ICON STG_ATTACK_0&amp;gt; to activate.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -226,8 +226,8 @@
   },
   "081.csv::264": {
     "id": "081.csv::264",
-    "source_text": "「&lt;ICON STG_ATTACK_1&gt;を押して詠唱後、\n　&lt;ICON STG_ATTACK_1&gt;を押して発動」",
-    "translated_text": "&quot;Press &lt;ICON STG_ATTACK_1&gt; to cast,\nthen press &lt;ICON STG_ATTACK_1&gt; to activate.&quot;",
+    "source_text": "「&amp;lt;ICON STG_ATTACK_1&amp;gt;を押して詠唱後、\n　&amp;lt;ICON STG_ATTACK_1&amp;gt;を押して発動」",
+    "translated_text": "&amp;quot;Press &amp;lt;ICON STG_ATTACK_1&amp;gt; to cast,\nthen press &amp;lt;ICON STG_ATTACK_1&amp;gt; to activate.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -242,7 +242,7 @@
   "081.csv::265": {
     "id": "081.csv::265",
     "source_text": "「敵の侵入時にダメージを与える魔力の罠だ\n　詠唱時間最大時に設置できる」",
-    "translated_text": "&quot;A magickal trap that deals damage when \n enemies enter its range.\n Can be set when cast time completes.&quot;",
+    "translated_text": "&amp;quot;A magickal trap that deals damage when \n enemies enter its range.\n Can be set when cast time completes.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -257,7 +257,7 @@
   "081.csv::277": {
     "id": "081.csv::277",
     "source_text": "「また魔法の種類や戦況に応じて\n　ロックオン自体を解除して\n　好きな場所に魔法を放つ事ができる」",
-    "translated_text": "&quot;Depending on spell type or battle\nconditions, you can also disable lock-on\nentirely and cast spells freely.&quot;",
+    "translated_text": "&amp;quot;Depending on spell type or battle\nconditions, you can also disable lock-on\nentirely and cast spells freely.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -272,7 +272,7 @@
   "081.csv::285": {
     "id": "081.csv::285",
     "source_text": "何者かが刻んだ教えの言葉が浮かび上がっている――\n「《助真の魔眼》で味方を捉えよ」",
-    "translated_text": "Teachings carved by someone emerge―\n\n&quot;Lock onto your ally with \nMagick Eye: True Aid.&quot;",
+    "translated_text": "Teachings carved by someone emerge―\n\n&amp;quot;Lock onto your ally with \nMagick Eye: True Aid.&amp;quot;",
     "status": "translated",
     "translator": "Sapphira",
     "approver": null,
@@ -287,7 +287,7 @@
   "081.csv::281": {
     "id": "081.csv::281",
     "source_text": "「カスタムスキルの魔法威力同様にも\n　活かされるので戦況に応じて利用すべし」　",
-    "translated_text": "&quot;Also enhances magickal power of custom\nskills, so use it according to\nbattle conditions.&quot;",
+    "translated_text": "&amp;quot;Also enhances magickal power of custom\nskills, so use it according to\nbattle conditions.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -302,7 +302,7 @@
   "081.csv::291": {
     "id": "081.csv::291",
     "source_text": "「複数の攻撃対象を狙い魔矢で射る技だ\n　捉えた敵の数が多いほど威力は上昇する」",
-    "translated_text": "&quot;A technique that shoots multiple targets\nwith magick arrows. The more enemies struck,\nthe greater its power becomes.&quot;",
+    "translated_text": "&amp;quot;A technique that shoots multiple targets\nwith magick arrows. The more enemies struck,\nthe greater its power becomes.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -311,6 +311,21 @@
     "approved_at": "2026-08-15T22:40:11.039888",
     "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
     "row_index": 291,
+    "speaker": "Ludovika",
+    "entry_type": "Quest Examine"
+  },
+  "081.csv::299": {
+    "id": "081.csv::299",
+    "source_text": "「敵に&lt;ICON STG_SUB_WEP&gt;を押しながら\n　集中ゲージが上がるのを待ち、ゲージが\n　２周目満了のタイミングを狙って魔矢を放て」",
+    "translated_text": "&quot;Hold &lt;ICON STG_SUB_WEP&gt; on the enemy and wait for the\nfocus gauge to rise. Time your magick arrow\nwhen the gauge completes its second cycle.&quot;",
+    "status": "translated",
+    "translator": "Sapphira",
+    "approver": null,
+    "created_at": "2026-08-15T23:11:42.469146",
+    "updated_at": "2026-08-15T23:11:42.521978",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 299,
     "speaker": "Ludovika",
     "entry_type": "Quest Examine"
   }
