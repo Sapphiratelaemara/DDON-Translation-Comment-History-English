@@ -343,5 +343,50 @@
     "row_index": 300,
     "speaker": "Ludovika",
     "entry_type": "Quest Examine"
+  },
+  "081.csv::314": {
+    "id": "081.csv::314",
+    "source_text": "何者かが刻んだ教えの言葉が浮かび上がっている――\n「《耐魔の身構え》で敵の攻撃を受けろ」",
+    "translated_text": "Teachings carved by someone emerge―\n\n&quot;Stand firm against the foe&#x27;s \nattack with Brace.&quot;",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T23:30:10.825687",
+    "updated_at": "2026-08-15T23:30:12.070602",
+    "approved_at": "2026-08-15T23:30:12.070594",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 314,
+    "speaker": "Arisen Corps Regimental Soldier",
+    "entry_type": "Quest Examine"
+  },
+  "081.csv::316": {
+    "id": "081.csv::316",
+    "source_text": "「構え中に攻撃を受けることにより\n　反撃の糧となるリベンジゲージを蓄積できる」",
+    "translated_text": "&quot;Absorbing attacks while bracing \naccumulates the Revenge Gauge \nfor counterattacks.&quot;",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T23:30:34.999202",
+    "updated_at": "2026-08-15T23:30:36.003253",
+    "approved_at": "2026-08-15T23:30:36.003244",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 316,
+    "speaker": "Arisen Corps Regimental Soldier",
+    "entry_type": "Quest Examine"
+  },
+  "081.csv::323": {
+    "id": "081.csv::323",
+    "source_text": "「最も威力の高い剣技のひとつだ\n　発動時にボタンを押下したままで力を溜め、\n　一気に放つことで脅威的な威力を得られる」",
+    "translated_text": "&quot;One of the most powerful sword techniques.\nHold the button during activation to charge\npower, then release it all at once for\ndevastating force.&quot;",
+    "status": "translated",
+    "translator": "Sapphira",
+    "approver": null,
+    "created_at": "2026-08-15T23:33:07.320023",
+    "updated_at": "2026-08-15T23:33:07.333168",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 323,
+    "speaker": "Arisen Corps Regimental Soldier",
+    "entry_type": "Quest Examine"
   }
 }
