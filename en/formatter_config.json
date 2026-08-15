@@ -3,7 +3,7 @@
     "TUTORIAL_STEP"
   ],
   "styles": {},
-  "wall_preset": "Dialogue Box",
+  "wall_preset": "Pop-up",
   "tag_map": {
     "NAME QUEST": 30,
     "PAWN_NAME": 12,
