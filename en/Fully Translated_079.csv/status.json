@@ -2,7 +2,7 @@
   "079.csv::263": {
     "id": "079.csv::263",
     "source_text": "最奥、《聖滝の間》に入るには\n《水流制御室》で滝を止める必要がある――",
-    "translated_text": "To enter the innermost area, &quot;Holy Waterfall\nHall,&quot; you need to stop the waterfall in the\n&quot;Flow Control Room&quot;.",
+    "translated_text": "To enter the innermost area, &amp;quot;Holy Waterfall\nHall,&amp;quot; you need to stop the waterfall in the\n&amp;quot;Flow Control Room&amp;quot;.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -16,8 +16,8 @@
   },
   "079.csv::264": {
     "id": "079.csv::264",
-    "source_text": "問題は&quot;失われた鍵&quot;の所在――\n鍵がなければ、制御室へ入れないのだ",
-    "translated_text": "The problem is the location of the &quot;lost\nkey.&quot; Without the key, there is no way to\nget into the control room.",
+    "source_text": "問題は&amp;quot;失われた鍵&amp;quot;の所在――\n鍵がなければ、制御室へ入れないのだ",
+    "translated_text": "The problem is the location of the &amp;quot;lost\nkey.&amp;quot; Without the key, there is no way to\nget into the control room.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -32,7 +32,7 @@
   "079.csv::270": {
     "id": "079.csv::270",
     "source_text": "魔物が湧き出てこないよう\n正面門に通じる扉は封鎖しておこう\n近くに開閉用のレバーがあったはずだ",
-    "translated_text": "To prevent monsters from emerging, we&#x27;ve\nblocked the door leading to\nthe main entrance.\nThere should be a lever nearby for\nopening and closing it.",
+    "translated_text": "To prevent monsters from emerging, we&amp;#x27;ve\nblocked the door leading to\nthe main entrance.\nThere should be a lever nearby for\nopening and closing it.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -47,7 +47,7 @@
   "079.csv::272": {
     "id": "079.csv::272",
     "source_text": "――ここにも無いとなれば\nこの階段を登った先、２階に違いない！",
-    "translated_text": "If it&#x27;s not here either, it must be on the\nsecond floor at the top of these stairs!",
+    "translated_text": "If it&amp;#x27;s not here either, it must be on the\nsecond floor at the top of these stairs!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -62,7 +62,7 @@
   "079.csv::275": {
     "id": "079.csv::275",
     "source_text": "部屋の前までは鍵を持っていたはずだが\n通路の宝箱に手を伸ばしたときに床が崩れ――",
-    "translated_text": "I would&#x27;ve had a key to the front of the\nroom, but when I reached for the treasure\nchest in the corridor, the floor collapsed...",
+    "translated_text": "I would&amp;#x27;ve had a key to the front of the\nroom, but when I reached for the treasure\nchest in the corridor, the floor collapsed...",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -91,8 +91,8 @@
   },
   "079.csv::279": {
     "id": "079.csv::279",
-    "source_text": "&quot;書き置き&quot;\nもし――ここまで探しに来てくれたなら\n会いたいな\n丘の上、崩れた教会で待ってるから",
-    "translated_text": "Note: &quot;If you&#x27;ve come all this way to find\nme, I want to see you.\nI&#x27;ll be waiting at the ruined church\non top of the hill.&quot;",
+    "source_text": "&amp;quot;書き置き&amp;quot;\nもし――ここまで探しに来てくれたなら\n会いたいな\n丘の上、崩れた教会で待ってるから",
+    "translated_text": "Note: &amp;quot;If you&amp;#x27;ve come all this way to find\nme, I want to see you.\nI&amp;#x27;ll be waiting at the ruined church\non top of the hill.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -107,7 +107,7 @@
   "079.csv::280": {
     "id": "079.csv::280",
     "source_text": "封鎖エリア《メルゴダ護政区》開放",
-    "translated_text": "The restricted area &quot;Mergoda Security\nDistrict&quot; has been unsealed.",
+    "translated_text": "The restricted area &amp;quot;Mergoda Security\nDistrict&amp;quot; has been unsealed.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -136,8 +136,8 @@
   },
   "079.csv::286": {
     "id": "079.csv::286",
-    "source_text": "澄んだ青い光を秘めた石の欠片\n&quot;竜の泪&quot;を見つけた",
-    "translated_text": "You have found a shard of crystal imbued\nwith a clear blue light, known as\nthe &quot;Dragon Tear.&quot;",
+    "source_text": "澄んだ青い光を秘めた石の欠片\n&amp;quot;竜の泪&amp;quot;を見つけた",
+    "translated_text": "You have found a shard of crystal imbued\nwith a clear blue light, known as\nthe &amp;quot;Dragon Tear.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -151,8 +151,8 @@
   },
   "079.csv::316": {
     "id": "079.csv::316",
-    "source_text": "壁に文字が刻まれている――\n&quot;高貴なるサマラの指に輝きし光\n我が心を魅了し、支配する光\n輝きから逃れんと塔に身を隠すが\n我が思いはひとときも離れず&quot;",
-    "translated_text": "There are inscriptions on the wall: &quot;On the\nnoble Samara&#x27;s fingers, a radiant light\nshines, enchanting and ruling our hearts,\nThough I hide in the tower to escape the\nradiance, My thoughts never\nstray for a moment.&quot;",
+    "source_text": "壁に文字が刻まれている――\n&amp;quot;高貴なるサマラの指に輝きし光\n我が心を魅了し、支配する光\n輝きから逃れんと塔に身を隠すが\n我が思いはひとときも離れず&amp;quot;",
+    "translated_text": "There are inscriptions on the wall: &amp;quot;On the\nnoble Samara&amp;#x27;s fingers, a radiant light\nshines, enchanting and ruling our hearts,\nThough I hide in the tower to escape the\nradiance, My thoughts never\nstray for a moment.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -166,8 +166,8 @@
   },
   "079.csv::317": {
     "id": "079.csv::317",
-    "source_text": "床に文字が刻まれている――\n&quot;探究と秘密を愛する者よ\nここより北の洞窟で待つ\n高貴なるサマラの指に輝きし光\n人の目に余る煌めきサマラに帰るべし&quot;",
-    "translated_text": "There are inscriptions on the floor: &quot;O\nseeker of exploration and secrets; I await\nin the cave north from here, where the\nradiant light shines on the noble fingers of\nSamara. Return to Samara with a brilliance\nbeyond human eyes.&quot;",
+    "source_text": "床に文字が刻まれている――\n&amp;quot;探究と秘密を愛する者よ\nここより北の洞窟で待つ\n高貴なるサマラの指に輝きし光\n人の目に余る煌めきサマラに帰るべし&amp;quot;",
+    "translated_text": "There are inscriptions on the floor: &amp;quot;O\nseeker of exploration and secrets; I await\nin the cave north from here, where the\nradiant light shines on the noble fingers of\nSamara. Return to Samara with a brilliance\nbeyond human eyes.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -181,8 +181,8 @@
   },
   "079.csv::318": {
     "id": "079.csv::318",
-    "source_text": "石棺に文字が刻まれている――\n&quot;我が欲望は光に焼かれて人外となる\n探究と秘密を愛する者よ、どうか我が身に平穏を\n高貴なるサマラの指に輝きし光\n人の目に余る煌めきサマラに帰るべし&quot;",
-    "translated_text": "Inscriptions are carved into the stone\ncoffin: &quot;My desire is scorched by the light\nand becomes inhuman.\nO lover of inquiry and secrets,\nplease grant me peace.\nThe light that shone upon the noble Samara’s\nfingers— A radiance too brilliant for human\neyes—must return to Samara.&quot;",
+    "source_text": "石棺に文字が刻まれている――\n&amp;quot;我が欲望は光に焼かれて人外となる\n探究と秘密を愛する者よ、どうか我が身に平穏を\n高貴なるサマラの指に輝きし光\n人の目に余る煌めきサマラに帰るべし&amp;quot;",
+    "translated_text": "Inscriptions are carved into the stone\ncoffin: &amp;quot;My desire is scorched by the light\nand becomes inhuman.\nO lover of inquiry and secrets,\nplease grant me peace.\nThe light that shone upon the noble Samara’s\nfingers— A radiance too brilliant for human\neyes—must return to Samara.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -242,7 +242,7 @@
   "079.csv::425": {
     "id": "079.csv::425",
     "source_text": "この中ではこれはハズレだろう――\nと、分かっていてつい調べてしまった！",
-    "translated_text": "This one is probably a bust—\nbut you just couldn&#x27;t help checking it!",
+    "translated_text": "This one is probably a bust—\nbut you just couldn&amp;#x27;t help checking it!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -257,7 +257,7 @@
   "079.csv::426": {
     "id": "079.csv::426",
     "source_text": "かなり期待して調べたのだが――\nただのデカいカボチャのようだ\nどうやってここまで投げ込んだのだろうか？",
-    "translated_text": "You had high hopes while checking it, but—\nit&#x27;s just a large pumpkin. \nYou wonder how it was tossed here?",
+    "translated_text": "You had high hopes while checking it, but—\nit&amp;#x27;s just a large pumpkin. \nYou wonder how it was tossed here?",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -287,7 +287,7 @@
   "079.csv::428": {
     "id": "079.csv::428",
     "source_text": "熟成を通り越して完全に腐っている――\nこれはこれで嫌だが\n探しているものとは違うようだ",
-    "translated_text": "It&#x27;s completely rotted beyond ripeness— it&#x27;s\nunpleasant, but not what you&#x27;re looking for.",
+    "translated_text": "It&amp;#x27;s completely rotted beyond ripeness— it&amp;#x27;s\nunpleasant, but not what you&amp;#x27;re looking for.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -332,7 +332,7 @@
   "079.csv::437": {
     "id": "079.csv::437",
     "source_text": "小型の投石器が置かれている――\n複数を相手にするのは無理だろう",
-    "translated_text": "A small catapult is set up here—\nit&#x27;s not suited for dealing with many foes.",
+    "translated_text": "A small catapult is set up here—\nit&amp;#x27;s not suited for dealing with many foes.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -362,7 +362,7 @@
   "079.csv::455": {
     "id": "079.csv::455",
     "source_text": "何かについて書かれた本だ――\nつい最近誰かが読んだ痕跡がある",
-    "translated_text": "It&#x27;s a book about something...\nThere are traces of someone\nreading it just recently.",
+    "translated_text": "It&amp;#x27;s a book about something...\nThere are traces of someone\nreading it just recently.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
