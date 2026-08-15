@@ -2,7 +2,7 @@
   "081.csv::151": {
     "id": "081.csv::151",
     "source_text": "「巨大な敵を倒すには一人では困難である\n　そのためにパーティーで挑む事が大事で\n　敵を怒らせてスキを作る必要がある」",
-    "translated_text": "&amp;quot;Defeating giant enemies alone is difficult.\nThat&amp;#x27;s why it&amp;#x27;s important to challenge them\nas a party and create openings\nby enraging them.&amp;quot;",
+    "translated_text": "&amp;amp;quot;Defeating giant enemies alone is difficult.\nThat&amp;amp;#x27;s why it&amp;amp;#x27;s important to challenge them\nas a party and create openings\nby enraging them.&amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -17,7 +17,7 @@
   "081.csv::159": {
     "id": "081.csv::159",
     "source_text": "何者かが刻んだ教えの言葉が浮かび上がっている――\n「三つ――敵の振り解き攻撃から耐えるべし」",
-    "translated_text": "Teachings carved by someone emerge—\n\n&amp;quot;Three—endure the enemy&amp;#x27;s \nattempts to shake you off.&amp;quot;",
+    "translated_text": "Teachings carved by someone emerge—\n\n&amp;amp;quot;Three—endure the enemy&amp;amp;#x27;s \nattempts to shake you off.&amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -31,8 +31,8 @@
   },
   "081.csv::160": {
     "id": "081.csv::160",
-    "source_text": "「怒り状態の敵にしがみついた状態で\n　振り払いアイコン（黄色）が出たら\n　&amp;lt;ICON STG_TOUCH&amp;gt;を押す」",
-    "translated_text": "&amp;quot;While clinging to an enemy in an enraged\nstate, when the yellow shake-off warning\nappears, press &amp;lt;ICON STG_TOUCH&amp;gt;.&amp;quot;",
+    "source_text": "「怒り状態の敵にしがみついた状態で\n　振り払いアイコン（黄色）が出たら\n　&amp;amp;lt;ICON STG_TOUCH&amp;amp;gt;を押す」",
+    "translated_text": "&amp;amp;quot;While clinging to an enemy in an enraged\nstate, when the yellow shake-off warning\nappears, press &amp;amp;lt;ICON STG_TOUCH&amp;amp;gt;.&amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -47,7 +47,7 @@
   "081.csv::161": {
     "id": "081.csv::161",
     "source_text": "「怒った敵が振り払い行動が出す時は\n　耐えて回避して揺さぶりを継続できる」",
-    "translated_text": "&amp;quot;When an enraged enemy attempts to shake you\noff, endure it to continue shaking them.&amp;quot;",
+    "translated_text": "&amp;amp;quot;When an enraged enemy attempts to shake you\noff, endure it to continue shaking them.&amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -62,7 +62,7 @@
   "081.csv::167": {
     "id": "081.csv::167",
     "source_text": "「続けざまに斬りつければ反撃を受けにくい\n　タイミングをずらせば、技の派生も可能である」",
-    "translated_text": "&amp;quot;Consecutive slashes make it harder for\nenemies to counter.\nShifting the timing allows for\nskill variations.&amp;quot;",
+    "translated_text": "&amp;amp;quot;Consecutive slashes make it harder for\nenemies to counter.\nShifting the timing allows for\nskill variations.&amp;amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -71,6 +71,36 @@
     "approved_at": "2026-08-15T21:38:17.861268",
     "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
     "row_index": 167,
+    "speaker": "Arisen Corps Regimental Soldier",
+    "entry_type": "Quest Examine"
+  },
+  "081.csv::169": {
+    "id": "081.csv::169",
+    "source_text": "「ただしスタミナの消費には注意が必要だ\n　よりよい盾ならば強い攻撃も防げるだろう」",
+    "translated_text": "&amp;quot;But be careful how much stamina you expend.\nA better shield will defend \nagainst stronger attacks.&amp;quot;​",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T22:00:39.095094",
+    "updated_at": "2026-08-15T22:00:39.449212",
+    "approved_at": "2026-08-15T22:00:39.449204",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 169,
+    "speaker": "Arisen Corps Regimental Soldier",
+    "entry_type": "Quest Examine"
+  },
+  "081.csv::170": {
+    "id": "081.csv::170",
+    "source_text": "&amp;lt;ICON STG_SUB_WEP&amp;gt;を押す",
+    "translated_text": "Press &lt;ICON STG_SUB_WEP&gt;.",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T22:00:54.640166",
+    "updated_at": "2026-08-15T22:04:06.983228",
+    "approved_at": "2026-08-15T22:04:06.983223",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 170,
     "speaker": "Arisen Corps Regimental Soldier",
     "entry_type": "Quest Examine"
   }
