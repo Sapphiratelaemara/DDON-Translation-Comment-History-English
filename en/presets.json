@@ -6,7 +6,8 @@
     "Substory": 31,
     "Tutorials": 48,
     "Chatbox": 36,
-    "Pop-up/examines": 45
+    "Pop-up/examines": 45,
+    "Unlimited": 999
   },
   "wall_presets": {
     "Dialogue Box": 6,
