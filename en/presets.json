@@ -4,16 +4,14 @@
     "RimWarp": 40,
     "Quest Info": 40,
     "Substory": 31,
-    "Pop-up": 46,
     "Tutorials": 48,
     "Chatbox": 36,
-    "Examines": 45
+    "Pop-up/examines": 45
   },
   "wall_presets": {
     "Dialogue Box": 6,
     "Unlimited": 999,
     "Tutorial Box": 11,
-    "Pop-up": 5,
-    "Examines": 6
+    "Pop-up/examines": 6
   }
 }
