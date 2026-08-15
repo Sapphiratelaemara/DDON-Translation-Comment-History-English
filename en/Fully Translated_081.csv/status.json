@@ -58,5 +58,20 @@
     "row_index": 161,
     "speaker": "Arisen Corps Regimental Soldier",
     "entry_type": "Quest Examine"
+  },
+  "081.csv::167": {
+    "id": "081.csv::167",
+    "source_text": "「続けざまに斬りつければ反撃を受けにくい\n　タイミングをずらせば、技の派生も可能である」",
+    "translated_text": "&quot;Consecutive slashes make it harder for\nenemies to counter.\nShifting the timing allows for\nskill variations.&quot;",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T21:38:16.878636",
+    "updated_at": "2026-08-15T21:38:17.861274",
+    "approved_at": "2026-08-15T21:38:17.861268",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 167,
+    "speaker": "Arisen Corps Regimental Soldier",
+    "entry_type": "Quest Examine"
   }
 }
