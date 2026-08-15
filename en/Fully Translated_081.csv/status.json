@@ -1,0 +1,62 @@
+{
+  "081.csv::151": {
+    "id": "081.csv::151",
+    "source_text": "「巨大な敵を倒すには一人では困難である\n　そのためにパーティーで挑む事が大事で\n　敵を怒らせてスキを作る必要がある」",
+    "translated_text": "&quot;Defeating giant enemies alone is difficult.\nThat&#x27;s why it&#x27;s important to challenge them\nas a party and create openings\nby enraging them.&quot;",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T21:34:55.738906",
+    "updated_at": "2026-08-15T21:34:56.556801",
+    "approved_at": "2026-08-15T21:34:56.556792",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 151,
+    "speaker": "Renton",
+    "entry_type": "Quest Examine"
+  },
+  "081.csv::159": {
+    "id": "081.csv::159",
+    "source_text": "何者かが刻んだ教えの言葉が浮かび上がっている――\n「三つ――敵の振り解き攻撃から耐えるべし」",
+    "translated_text": "Teachings carved by someone emerge—\n\n&quot;Three—endure the enemy&#x27;s \nattempts to shake you off.&quot;",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T21:36:16.755148",
+    "updated_at": "2026-08-15T21:36:17.402610",
+    "approved_at": "2026-08-15T21:36:17.402605",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 159,
+    "speaker": "Arisen Corps Regimental Soldier",
+    "entry_type": "Quest Examine"
+  },
+  "081.csv::160": {
+    "id": "081.csv::160",
+    "source_text": "「怒り状態の敵にしがみついた状態で\n　振り払いアイコン（黄色）が出たら\n　&lt;ICON STG_TOUCH&gt;を押す」",
+    "translated_text": "&quot;While clinging to an enemy in an enraged\nstate, when the yellow shake-off warning\nappears, press &lt;ICON STG_TOUCH&gt;.&quot;",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T21:36:31.587983",
+    "updated_at": "2026-08-15T21:36:31.623496",
+    "approved_at": "2026-08-15T21:36:31.623487",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 160,
+    "speaker": "Arisen Corps Regimental Soldier",
+    "entry_type": "Quest Examine"
+  },
+  "081.csv::161": {
+    "id": "081.csv::161",
+    "source_text": "「怒った敵が振り払い行動が出す時は\n　耐えて回避して揺さぶりを継続できる」",
+    "translated_text": "&quot;When an enraged enemy attempts to shake you\noff, endure it to continue shaking them.&quot;",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T21:36:42.890745",
+    "updated_at": "2026-08-15T21:36:42.910858",
+    "approved_at": "2026-08-15T21:36:42.910853",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\081.csv",
+    "row_index": 161,
+    "speaker": "Arisen Corps Regimental Soldier",
+    "entry_type": "Quest Examine"
+  }
+}
