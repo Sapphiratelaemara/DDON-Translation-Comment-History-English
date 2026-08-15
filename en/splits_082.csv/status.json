@@ -148,5 +148,20 @@
     "row_index": 9,
     "speaker": "Doris",
     "entry_type": "Quest Examine"
+  },
+  "082.csv::10": {
+    "id": "082.csv::10",
+    "source_text": "岩の向こうから巨大な力を感じる――\nこの先に竜がいるのだろう",
+    "translated_text": "You can sense a gigantic power from beyond the rocks — A dragon awaits beyond this point.",
+    "status": "translated",
+    "translator": "translator",
+    "approver": null,
+    "created_at": "2026-08-15T20:59:25.327577",
+    "updated_at": "2026-08-15T20:59:50.885274",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\082.csv",
+    "row_index": 10,
+    "speaker": "Bacias",
+    "entry_type": "Quest Examine"
   }
 }
