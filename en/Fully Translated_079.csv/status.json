@@ -1,0 +1,32 @@
+{
+  "079.csv::263": {
+    "id": "079.csv::263",
+    "source_text": "最奥、《聖滝の間》に入るには\n《水流制御室》で滝を止める必要がある――",
+    "translated_text": "To enter the innermost area, &quot;Holy Waterfall\nHall,&quot; you need to stop the waterfall in the\n&quot;Flow Control Room&quot;.",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T21:01:24.741120",
+    "updated_at": "2026-08-15T21:01:25.353615",
+    "approved_at": "2026-08-15T21:01:25.353609",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\079.csv",
+    "row_index": 263,
+    "speaker": "Klaus",
+    "entry_type": "Quest Examine"
+  },
+  "079.csv::264": {
+    "id": "079.csv::264",
+    "source_text": "問題は&quot;失われた鍵&quot;の所在――\n鍵がなければ、制御室へ入れないのだ",
+    "translated_text": "The problem is the location of the &quot;lost\nkey.&quot; Without the key, there is no way to\nget into the control room.",
+    "status": "approved",
+    "translator": "translator",
+    "approver": "Sapphira",
+    "created_at": "2026-08-15T21:02:06.207280",
+    "updated_at": "2026-08-15T21:02:06.919134",
+    "approved_at": "2026-08-15T21:02:06.919128",
+    "file_path": "C:/DDON-translation/English/Fully Translated\\079.csv",
+    "row_index": 264,
+    "speaker": "Klaus",
+    "entry_type": "Quest Examine"
+  }
+}
