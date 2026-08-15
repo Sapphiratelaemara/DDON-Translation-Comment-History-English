@@ -2,7 +2,7 @@
   "080.csv::251": {
     "id": "080.csv::251",
     "source_text": "乾杯！！",
-    "translated_text": "Proof preparation request complete -\nlet&#x27;s wait a while until it&#x27;s done.",
+    "translated_text": "Proof preparation request complete -\nlet&amp;#x27;s wait a while until it&amp;#x27;s done.",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
