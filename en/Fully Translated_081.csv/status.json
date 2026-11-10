@@ -2,7 +2,7 @@
   "081.csv::390": {
     "id": "081.csv::390",
     "source_text": "何者かが刻んだ教えの言葉が浮かび上がっている――\n「三つ――敵の振り解き攻撃から耐えるべし」",
-    "translated_text": "Teachings carved by someone emerge—\n\n&quot;Three—endure the enemy&#x27;s attempts \n​to shake you off.&quot;",
+    "translated_text": "Teachings carved by someone emerge—\n\n&amp;quot;Three—endure the enemy&amp;#x27;s attempts \n​to shake you off.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -16,8 +16,8 @@
   },
   "081.csv::391": {
     "id": "081.csv::391",
-    "source_text": "「怒り状態の敵にしがみついた状態で\n　振り払いアイコン（黄色）が出たら\n　&lt;ICON STG_TOUCH&gt;を押す」",
-    "translated_text": "&quot;While clinging to an enemy in an enraged\nstate, when the yellow shake-off warning\nappears, press &lt;ICON STG_TOUCH&gt;.&quot;",
+    "source_text": "「怒り状態の敵にしがみついた状態で\n　振り払いアイコン（黄色）が出たら\n　&amp;lt;ICON STG_TOUCH&amp;gt;を押す」",
+    "translated_text": "&amp;quot;While clinging to an enemy in an enraged\nstate, when the yellow shake-off warning\nappears, press &amp;lt;ICON STG_TOUCH&amp;gt;.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -32,7 +32,7 @@
   "081.csv::392": {
     "id": "081.csv::392",
     "source_text": "「怒った敵が振り払い行動が出す時は\n　耐えて回避して揺さぶりを継続できる」",
-    "translated_text": "&quot;When an enraged enemy attempts to shake you\noff, endure it to continue shaking them.&quot;",
+    "translated_text": "&amp;quot;When an enraged enemy attempts to shake you\noff, endure it to continue shaking them.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
@@ -46,8 +46,8 @@
   },
   "081.csv::394": {
     "id": "081.csv::394",
-    "source_text": "「怒り状態の敵にしがみつき中に\n　敵の体力ゲージ上にバーストアイコン（赤色）が\n　出たら&lt;ICON UI_DECIDE&gt;or&lt;ICON UI_CANCEL&gt;を押す」",
-    "translated_text": "&quot;When clinging to enraged enemies,\npress &lt;ICON UI_DECIDE&gt; or &lt;ICON UI_CANCEL&gt;\nwhen the red Struggle icon appears by\ntheir gauge.&quot;",
+    "source_text": "「怒り状態の敵にしがみつき中に\n　敵の体力ゲージ上にバーストアイコン（赤色）が\n　出たら&amp;lt;ICON UI_DECIDE&amp;gt;or&amp;lt;ICON UI_CANCEL&amp;gt;を押す」",
+    "translated_text": "&amp;quot;When clinging to enraged enemies,\npress &amp;lt;ICON UI_DECIDE&amp;gt; or &amp;lt;ICON UI_CANCEL&amp;gt;\nwhen the red Struggle icon appears by\ntheir gauge.&amp;quot;",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
