@@ -17,7 +17,7 @@
   "200.csv::271": {
     "id": "200.csv::271",
     "source_text": "【死亡チェッククエスト】\n依頼者の願いを聞き入れ\n一度も復活することなく狂暴な敵を討伐する",
-    "translated_text": "【Mortality Check Quest】\nListen to the requester&#x27;s wish.\nDefeat the ferocious enemy\nwithout reviving even once.",
+    "translated_text": "【Mortality Check Quest】\nListen to the requester&amp;#x27;s wish.\nDefeat the ferocious enemy\nwithout reviving even once.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -31,8 +31,8 @@
   },
   "200.csv::272": {
     "id": "200.csv::272",
-    "source_text": "&lt;NAME AREA&gt;にいる何者かが、魔物との勝負で\n腕試しをしているようだ",
-    "translated_text": "Someone in the &lt;NAME AREA&gt; \nappears to be testing their skills\nin a battle against an enemy.",
+    "source_text": "&amp;lt;NAME AREA&amp;gt;にいる何者かが、魔物との勝負で\n腕試しをしているようだ",
+    "translated_text": "Someone in the &amp;lt;NAME AREA&amp;gt; \nappears to be testing their skills\nin a battle against an enemy.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -47,7 +47,7 @@
   "200.csv::273": {
     "id": "200.csv::273",
     "source_text": "モルフォールは冷静で知的な人ばかりだったの\nそれが、侵食に脅かされてからは\n噂をしたり、言い合いばかりでなんだか\nとっても陰気な感じ――\n誰か、スカッと晴らしてきてくれないかな",
-    "translated_text": "Morfaul was once home to none but calm, intellectual folk. But since the infection threatened it, they do naught but spread rumors and argue— &#x27;tis a terribly gloomy atmosphere now. I wish someone would come and clear the air.",
+    "translated_text": "Morfaul was once home to none but calm, intellectual folk. But since the infection threatened it, they do naught but spread rumors and argue— &amp;#x27;tis a terribly gloomy atmosphere now. I wish someone would come and clear the air.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
