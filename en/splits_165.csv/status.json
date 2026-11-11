@@ -1,0 +1,47 @@
+{
+  "165.csv::0": {
+    "id": "165.csv::0",
+    "source_text": "あんなお願いしちゃった僕のせいかな――\nす、すみません\nあの、これ、少しですけど\nお詫びとして受け取ってください",
+    "translated_text": "Mayhap &#x27;tis my fault for asking such a thing...\nF-forgive me...\nAh, &#x27;tis but a small token, but...\nPray, accept this as my apology.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-11T04:29:14.314572",
+    "updated_at": "2026-11-11T04:29:14.315137",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\165.csv",
+    "row_index": 0,
+    "speaker": "Finbar",
+    "entry_type": "Quest Dialogue"
+  },
+  "165.csv::1": {
+    "id": "165.csv::1",
+    "source_text": "パーティメンバーが死亡状態になりました",
+    "translated_text": "One of thy party hath perished.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-11T04:29:21.933095",
+    "updated_at": "2026-11-11T04:29:21.934437",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\165.csv",
+    "row_index": 1,
+    "speaker": "The White Dragon",
+    "entry_type": "Quest Dialogue"
+  },
+  "165.csv::2": {
+    "id": "165.csv::2",
+    "source_text": "依頼者からの報酬が下がります",
+    "translated_text": "The reward from the requester doth diminish.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-11T04:29:32.133039",
+    "updated_at": "2026-11-11T04:29:32.134309",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\165.csv",
+    "row_index": 2,
+    "speaker": "The White Dragon",
+    "entry_type": "Quest Dialogue"
+  }
+}
