@@ -2,7 +2,7 @@
   "165.csv::0": {
     "id": "165.csv::0",
     "source_text": "あんなお願いしちゃった僕のせいかな――\nす、すみません\nあの、これ、少しですけど\nお詫びとして受け取ってください",
-    "translated_text": "Mayhap &#x27;tis my fault for asking such a thing...\nF-forgive me...\nAh, &#x27;tis but a small token, but...\nPray, accept this as my apology.",
+    "translated_text": "Mayhap &amp;#x27;tis my fault for asking such a thing...\nF-forgive me...\nAh, &amp;#x27;tis but a small token, but...\nPray, accept this as my apology.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
