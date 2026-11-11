@@ -1,8 +1,8 @@
 {
   "171.csv::6": {
     "id": "171.csv::6",
-    "source_text": "さあ、隊長！　俺とガルドリンからのお返しは\n綺麗なお花に囲まれる&amp;quot;癒し&amp;quot;です！\n隊長ならきっと、美しいものに囲まれる風情を\nわかってくれるかと思いまして！",
-    "translated_text": "Come, Captain! A return gift from me and Gurdolin\n— &amp;#x27;tis &amp;quot;relaxation,&amp;quot; surrounded by fair\nflowers! Thought you&amp;#x27;d understand the charm of\nit, Captain, bein&amp;#x27; amidst all that beauty!",
+    "source_text": "さあ、隊長！　俺とガルドリンからのお返しは\n綺麗なお花に囲まれる&amp;amp;quot;癒し&amp;amp;quot;です！\n隊長ならきっと、美しいものに囲まれる風情を\nわかってくれるかと思いまして！",
+    "translated_text": "Come, Captain! A return gift from me and Gurdolin\n— &amp;amp;#x27;tis &amp;amp;quot;relaxation,&amp;amp;quot; surrounded by fair\nflowers! Thought you&amp;amp;#x27;d understand the charm of\nit, Captain, bein&amp;amp;#x27; amidst all that beauty!",
     "status": "approved",
     "translator": "translator",
     "approver": "Sapphira",
