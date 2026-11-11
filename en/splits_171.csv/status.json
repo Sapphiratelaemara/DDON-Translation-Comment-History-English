@@ -1,8 +1,8 @@
 {
   "171.csv::0": {
     "id": "171.csv::0",
-    "source_text": "最近はやりの&quot;副業&quot;ていうの？\nあれがなかなか好調なのよね\nいっそのことそっちを本職にしちゃおうかしら",
-    "translated_text": "That &quot;side business&quot; popular of late? &#x27;Tis going fair well, I&#x27;d say. Mayhap I&#x27;ll make it my main trade instead.",
+    "source_text": "最近はやりの&amp;quot;副業&amp;quot;ていうの？\nあれがなかなか好調なのよね\nいっそのことそっちを本職にしちゃおうかしら",
+    "translated_text": "That &amp;quot;side business&amp;quot; popular of late? &amp;#x27;Tis going fair well, I&amp;#x27;d say. Mayhap I&amp;#x27;ll make it my main trade instead.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -32,7 +32,7 @@
   "171.csv::2": {
     "id": "171.csv::2",
     "source_text": "最近流行りのお祭りのせいかしらね\n普段よりもよく売れるの\n最後の１つだから特別にサービスするわ\nまたたくさん用意しておくから是非買いに来てね",
-    "translated_text": "Must be that merrymaking that&amp;#x27;s all\nthe rage of late, mind.\nSellin&amp;#x27; better than usual, they are. Last one, so\nI&amp;#x27;ll make it a special price, ser. I&amp;#x27;ll have enow\nready next time — don&amp;#x27;t be scarce, now.",
+    "translated_text": "Must be that merrymaking that&amp;amp;#x27;s all\nthe rage of late, mind.\nSellin&amp;amp;#x27; better than usual, they are. Last one, so\nI&amp;amp;#x27;ll make it a special price, ser. I&amp;amp;#x27;ll have enow\nready next time — don&amp;amp;#x27;t be scarce, now.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -62,7 +62,7 @@
   "171.csv::4": {
     "id": "171.csv::4",
     "source_text": "ナイショの割にはとっても人気なんだもん\n私もなかなか買えないの！\n今度たくさん入荷した時は\n一緒に買いにいこうね！",
-    "translated_text": "For a secret, &amp;#x27;tis terribly popular, mind;\nI can scarce get my own hands on one!\nNext time a big shipment\ncomes... we&amp;#x27;ll go together!",
+    "translated_text": "For a secret, &amp;amp;#x27;tis terribly popular, mind;\nI can scarce get my own hands on one!\nNext time a big shipment\ncomes... we&amp;amp;#x27;ll go together!",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
@@ -77,7 +77,7 @@
   "171.csv::5": {
     "id": "171.csv::5",
     "source_text": "森の妖精マカロン、品切れだったのね\nでも、味見はできたみたいでよかった！\nどう？　とっても美味しかったでしょ？\nうふふ――喜んでもらえたなら、嬉しいな",
-    "translated_text": "The Forest Fairy Macaron... sold out, was it?\nBut you got a taste. That&amp;#x27;s a relief.\nHow was it? Truly delicious, wasn&amp;#x27;t it?\nHehe — if it brought you joy, I&amp;#x27;m glad.",
+    "translated_text": "The Forest Fairy Macaron... sold out, was it?\nBut you got a taste. That&amp;amp;#x27;s a relief.\nHow was it? Truly delicious, wasn&amp;amp;#x27;t it?\nHehe — if it brought you joy, I&amp;amp;#x27;m glad.",
     "status": "pre-translated",
     "translator": "pretranslate",
     "approver": null,
