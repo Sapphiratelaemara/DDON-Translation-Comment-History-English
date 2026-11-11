@@ -33,7 +33,7 @@
         "someone who lost everything"
       ],
       "notes": "Warm underneath, but weighed down. Dignified grief, not self-pity — does not wallow.\nWhen real grief or hesitation is in the content itself, a sentence may break off rather than finish. \"I fear...\" as a sentence opener fits moments of open vulnerability — not a constant tic.\nRegister: mix of plain and lightly archaic. Slips into formality when composing themselves.\nKey phrases: \"I fear...\", \"I know not how to...\", \"Would that I...\", \"Pray, forgive...\", \"It pains me...\"\nExample: \"I fear we know precious little of your condition...\"\nExample: \"I'm...sorry. Forgive my words. I see they offer no use, save add to your burden.\"\nExample: \"Fear of the dragon, fear of my husband... In truth, I know not which frightens me more.\"",
-      "ai_notes": "Warm underneath but weighed down; dignified, never self-pitying. Plain words mixed with lightly archaic ones, turning formal when composing themselves. These phrases fit when the source voices that feeling: \"I fear\", \"I know not how to\", \"would that I\", \"pray, forgive\", \"it pains me\"."
+      "ai_notes": "Warm underneath but weighed down; dignified, never self-pitying. Plain words mixed with lightly archaic ones, turning formal when composing themselves. Tie each phrase to what the source says: \"I fear\" renders stated worry or dread (心配, 恐れ, 怖い); \"pray, forgive\" renders an apology (すまない, 申し訳, 許して); \"it pains me\" renders stated regret (つらい, 心苦しい); \"I know not\" renders わからない; \"would that I\" renders a wish (できれば, たら). Without such a trigger in the source, use plain wording."
     },
     "A4": {
       "name": "Warm but Weary",
@@ -104,7 +104,7 @@
         "very young apprentice"
       ],
       "notes": "Incomplete sentences, trailing off, self-doubt, apologies, qualifications.\nThe energy is inward and contracting rather than outward and eager.\nSentence breaks and self-corrections show up when uncertainty or fear takes over the content — not as a constant verbal tic. Apology before the statement, not after.\nKey phrases: \"I know not...\", \"Pray, forgive me...\", \"I...I fear...\", \"It pains me to...\"\nSelf-deprecating but not broken — there is still agency underneath the timidity.\nExample: \"Forgive me. I cannot remember where I lost it...\"\nExample: \"I dearly wish I could tell you its meaning, but I fear I am yet early in my studies...\"\nExample: \"It pains me to be a burden...\"",
-      "ai_notes": "Soft, deferential, self-effacing wording with modest, simple vocabulary and a light archaic seasoning ('tis, aught). When the source apologises, the apology goes in the opening clause: \"forgive me\", \"pray, forgive me\", \"I fear\", \"I know not\", \"it pains me\". Self-deprecating but with agency underneath. Contractions are natural."
+      "ai_notes": "Soft, deferential, self-effacing wording with modest, simple vocabulary and a light archaic seasoning ('tis, aught). Tie each phrase to what the source says: \"forgive me\" / \"pray, forgive me\" renders an actual apology (すみません, ごめん, 申し訳); \"I fear\" renders stated worry or dread, not every hedge such as 〜と思いますけど; \"it pains me\" renders stated regret; \"I know not\" renders わからない. Fillers and stammers such as あの, えっと, あ、いや are rendered as \"Um,\" \"Er,\" \"Ah, no,\" or dropped, and a stammer (ぼ、僕) as \"I-I\"; they are not apologies. Self-deprecating but with agency underneath. Contractions are natural."
     },
     "E": {
       "name": "Formal / Military",
