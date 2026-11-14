@@ -10,7 +10,7 @@
         "young adult commoner"
       ],
       "notes": "Warm, direct sincerity. Believes things can improve. Not naive, but not cynical.\nFull sentences, gentle hedging. Speaks plainly but with care.\nRegister: 'tis, aught, pray, afore — used naturally, not performed.\nHedging: \"I imagine...\", \"Mayhap...\", \"I should think...\", \"I daresay...\"\nExample: \"I imagine you'll be off again soon. Gone to trample evil underfoot and put fell beasts to the sword and whatnot.\"\nExample: \"But it will take time yet afore life in Cassardis is as it was before. Fear still grips the village...\"\nExample: \"I've a wife and son. They should get word of this afore all else.\"",
-      "ai_notes": "Warm, sincere, plain-spoken. Everyday words with a light archaic seasoning ('tis, aught, pray, afore). Where the source softens a statement, soft hedges fit: \"I imagine\", \"mayhap\", \"I should think\", \"I daresay\". Contractions are natural."
+      "ai_notes": "Warm, sincere, plain-spoken. Everyday words with archaic seasoning ('tis, aught, pray, afore). Where the source softens a statement, soft hedges fit: \"I imagine\", \"mayhap\", \"I should think\", \"I daresay\". Contractions are natural."
     },
     "A2": {
       "name": "Wise Elder",
@@ -33,7 +33,7 @@
         "someone who lost everything"
       ],
       "notes": "Warm underneath, but weighed down. Dignified grief, not self-pity — does not wallow.\nWhen real grief or hesitation is in the content itself, a sentence may break off rather than finish. \"I fear...\" as a sentence opener fits moments of open vulnerability — not a constant tic.\nRegister: mix of plain and lightly archaic. Slips into formality when composing themselves.\nKey phrases: \"I fear...\", \"I know not how to...\", \"Would that I...\", \"Pray, forgive...\", \"It pains me...\"\nExample: \"I fear we know precious little of your condition...\"\nExample: \"I'm...sorry. Forgive my words. I see they offer no use, save add to your burden.\"\nExample: \"Fear of the dragon, fear of my husband... In truth, I know not which frightens me more.\"",
-      "ai_notes": "Warm underneath but weighed down; dignified, never self-pitying. Plain words mixed with lightly archaic ones, turning formal when composing themselves. Tie each phrase to what the source says: \"I fear\" renders stated worry or dread (心配, 恐れ, 怖い); \"pray, forgive\" renders an apology (すまない, 申し訳, 許して); \"it pains me\" renders stated regret (つらい, 心苦しい); \"I know not\" renders わからない; \"would that I\" renders a wish (できれば, たら). Without such a trigger in the source, use plain wording."
+      "ai_notes": "Warm underneath but weighed down; dignified, never self-pitying. Plain words mixed with archaic ones, turning formal when composing themselves. Tie each phrase to what the source says: \"I fear\" renders stated worry or dread (心配, 恐れ, 怖い); \"pray, forgive\" renders an apology (すまない, 申し訳, 許して); \"it pains me\" renders stated regret (つらい, 心苦しい); \"I know not\" renders わからない; \"would that I\" renders a wish (できれば, たら). Without such a trigger in the source, use plain wording."
     },
     "A4": {
       "name": "Warm but Weary",
@@ -57,7 +57,7 @@
         "mercenary"
       ],
       "notes": "Short clauses, punchy, direct. No hedging, no sentiment. Earthy vocabulary.\nThe single strongest marker is \"eh?\" — used to punctuate almost any statement.\nOther markers: \"Hoy!\", \"Hah!\", \"Bah.\", \"Aye\", \"Right,\", \"the lot of them\", \"o'\" for \"of\", \"cos\" for casual address.\nLight on archaic vocabulary — these characters speak plainly, not formally.\nRhetorical questions, mild contempt, no-nonsense observations.\nExample: \"We lost some o' the menfolk... Good men, all.\"\nExample: \"Still, let's have no more brave folly from you, eh?\"\nExample: \"Aye, that's the one. Now I need the other, cos.\"",
-      "ai_notes": "Plain, earthy, direct; no hedging, no sentiment. Light on archaic words. Markers: \"Hoy!\", \"Hah!\", \"Bah.\", \"Aye\", \"Right,\", \"o'\" for \"of\", \"cos\" as casual address, \"the lot of them\". The tag \"eh?\" is the signature marker: use it occasionally where a line invites agreement, not on most lines."
+      "ai_notes": "Plain, earthy, direct; no hedging, no sentiment. Markers: \"Hoy!\", \"Hah!\", \"Bah.\", \"Aye\", \"Right,\", \"o'\" for \"of\", \"cos\" as casual address, \"the lot of them\". The tag \"eh?\" is the signature marker: use it occasionally where a line invites agreement, not on most lines."
     },
     "C1": {
       "name": "Upbeat Merchant / Trader",
@@ -69,7 +69,7 @@
         "travelling vendor"
       ],
       "notes": "Warm but businesslike. Transactions drive the tone — always moving toward the next thing.\nShort sentences. Often ends on a question or invitation to act.\nRegister: \"ser\" as casual respectful address, \"mind\" as mild emphasis, \"daresay\", \"I'd wager\".\nExample: \"Have a look.\"\nExample: \"I daresay you'll find this reasonable.\"\nExample: \"Right, there we are. Fare well!\"",
-      "ai_notes": "Warm, brisk, trade-minded. \"ser\" as casual respectful address, used occasionally rather than on every line; \"mind\" as mild emphasis; \"daresay\", \"I'd wager\". Plain modern grammar with light archaic seasoning. Contractions are natural."
+      "ai_notes": "Warm, brisk, trade-minded. \"ser\" as casual respectful address, used occasionally rather than on every line; \"mind\" as mild emphasis; \"daresay\", \"I'd wager\". Plain modern grammar with archaic seasoning. Contractions are natural."
     },
     "C2": {
       "name": "Gossipy / Chatty Townsfolk",
@@ -81,7 +81,7 @@
         "dockhand"
       ],
       "notes": "Can't help sharing more than asked. Warm and nosy. Information flows freely.\nRun-on sentences and rhetorical qualifications that soften the gossip, with topic changes when a new detail comes to mind — not a constant habit, just how a good story tends to sprawl.\nStrongest markers: \"I hear tell...\", \"Way I heard it...\", \"They say...\", \"Not that..., mind.\"\nSelf-corrections and hedges: \"Not that I blame them, mind.\", \"Not that it's my business, but...\"\nRegister: colloquial, light archaic. \"o'\" for \"of\", \"cos\", \"aught on\" (something going on).\nExample: \"I hear tell you've already made a name for yourself at the encampment.\"\nExample: \"Way I heard it, the guards in Gran Soren spend more time sleeping in their cups than protecting the realm.\"\nExample: \"You're keeping busy, eh? I hear there's aught on with the well?\"",
-      "ai_notes": "Chatty, nosy, warm. Colloquial with light archaic words: \"o'\" for \"of\", \"cos\", \"aught on\" (something going on). Gossip markers where the source gossips: \"I hear tell\", \"Way I heard it\", \"They say\", \"Not that I blame them, mind\". Contractions are natural."
+      "ai_notes": "Chatty, nosy, warm. Colloquial, with archaic words: \"o'\" for \"of\", \"cos\", \"aught on\" (something going on). Gossip markers where the source gossips: \"I hear tell\", \"Way I heard it\", \"They say\", \"Not that I blame them, mind\". Contractions are natural."
     },
     "C3": {
       "name": "Eager / Excitable",
@@ -92,7 +92,7 @@
         "enthusiastic civilian"
       ],
       "notes": "Enthusiastic, slightly breathless. Admires strength or adventure openly.\nThe energy is outward and propulsive rather than hesitant or withdrawn.\nShort sentences, exclamations; may trip over words or restart mid-sentence when genuinely swept up in the moment.\nRegister: light archaic at best — these characters haven't learned formal speech.\nExample: \"Truly?!\"\nExample: \"I knew it!\"\nExample: \"I heard the news! They say you're to set off on a fantastic journey.\"\nExample: \"I hear you've become, what was it... A... Arisen!\"",
-      "ai_notes": "Eager and outward, a little breathless; open admiration of strength and adventure. Light archaic at best, since these characters have not learned formal speech. Contractions are natural."
+      "ai_notes": "Eager and outward, a little breathless; open admiration of strength and adventure. Contractions are natural."
     },
     "D": {
       "name": "Timid / Young / Shy",
@@ -104,7 +104,7 @@
         "very young apprentice"
       ],
       "notes": "Incomplete sentences, trailing off, self-doubt, apologies, qualifications.\nThe energy is inward and contracting rather than outward and eager.\nSentence breaks and self-corrections show up when uncertainty or fear takes over the content — not as a constant verbal tic. Apology before the statement, not after.\nKey phrases: \"I know not...\", \"Pray, forgive me...\", \"I...I fear...\", \"It pains me to...\"\nSelf-deprecating but not broken — there is still agency underneath the timidity.\nExample: \"Forgive me. I cannot remember where I lost it...\"\nExample: \"I dearly wish I could tell you its meaning, but I fear I am yet early in my studies...\"\nExample: \"It pains me to be a burden...\"",
-      "ai_notes": "Soft, deferential, self-effacing wording with modest, simple vocabulary and a light archaic seasoning ('tis, aught). Tie each phrase to what the source says: \"forgive me\" / \"pray, forgive me\" renders an actual apology (すみません, ごめん, 申し訳); \"I fear\" renders stated worry or dread, not every hedge such as 〜と思いますけど; \"it pains me\" renders stated regret; \"I know not\" renders わからない. Fillers and stammers such as あの, えっと, あ、いや are rendered as \"Um,\" \"Er,\" \"Ah, no,\" or dropped, and a stammer (ぼ、僕) as \"I-I\"; they are not apologies. Self-deprecating but with agency underneath. Contractions are natural."
+      "ai_notes": "Soft, deferential, self-effacing wording with modest, simple vocabulary and archaic seasoning ('tis, aught). Tie each phrase to what the source says: \"forgive me\" / \"pray, forgive me\" renders an actual apology (すみません, ごめん, 申し訳); \"I fear\" renders stated worry or dread, not every hedge such as 〜と思いますけど; \"it pains me\" renders stated regret; \"I know not\" renders わからない. Fillers and stammers such as あの, えっと, あ、いや are rendered as \"Um,\" \"Er,\" \"Ah, no,\" or dropped, and a stammer (ぼ、僕) as \"I-I\"; they are not apologies. Self-deprecating but with agency underneath. Contractions are natural."
     },
     "E": {
       "name": "Formal / Military",
@@ -142,7 +142,7 @@
         "barkeep"
       ],
       "notes": "Colloquial, self-aware humor, mild sarcasm. Archaic vocabulary used lightly and knowingly.\nAsides, rhetorical questions aimed at no one in particular. The humor is witty, not contemptuous.\nRegister: \"cos\" casual address, \"naught but\", \"s'pose\", \"eh?\", dry observations.\nWill use archaic words for comic effect or exaggeration, but doesn't live there.\nExample: \"The great Arisen, is it? To be brutally honest, I've no idea what that's even supposed to mean.\"\nExample: \"Not that any of our fates are sealed just yet, mind.\"\nExample: \"Whate'er it was, one of them took summat from the other. He's the more obvious mark.\"",
-      "ai_notes": "Colloquial, wry, self-aware; mild sarcasm, witty rather than contemptuous. Archaic words used lightly and knowingly, sometimes for comic exaggeration: \"cos\" as casual address, \"naught but\", \"s'pose\", \"summat\", \"whate'er\". An occasional \"eh?\" fits. Contractions are natural."
+      "ai_notes": "Colloquial, wry, self-aware; mild sarcasm, witty rather than contemptuous. Archaic words used knowingly, sometimes for comic exaggeration: \"cos\" as casual address, \"naught but\", \"s'pose\", \"summat\", \"whate'er\". An occasional \"eh?\" fits. Contractions are natural."
     },
     "G": {
       "name": "Devout / Clerical",
@@ -225,7 +225,7 @@
         "self-taught historian"
       ],
       "notes": "Warm, curious, and talkative, but anxious underneath — copes with worry through rambling asides and self-deprecating humor rather than confident authority.\nApologizes for interrupting, doubts his own conclusions aloud when genuinely uncertain, and seeks reassurance rather than delivering confident pronouncements.\nWhen he's actually second-guessing himself, a sentence may trail into an added qualifier (—or maybe not, actually); topic changes come easily when nervous — but this reflects real uncertainty in the moment, not a constant tic.\nGenuine warmth and hope surface even mid-worry — curiosity about the world is sincere, not performed.\nRegister: light archaic at most, casual and conversational; contractions used freely, warmer and less composed than a typical confident-scholar register.\nExamples not sourced from DD1/2 yet.\nExample: \"I suppose that's one way to look at it — or, well, maybe not. Still, worth thinking on, isn't it?\"\nExample: \"Ah — sorry, sorry. I was thinking again.\"\nExample: \"The more I learn of this world, the more I want to know. Strange, isn't it?\"",
-      "ai_notes": "Warm, curious, anxious underneath. Casual and conversational, light archaic at most; contractions used freely. Self-deprecating humour and apologies (\"sorry\", \"I suppose\") where the source shows them."
+      "ai_notes": "Warm, curious, anxious underneath. Casual and conversational; contractions used freely. Self-deprecating humour and apologies (\"sorry\", \"I suppose\") where the source shows them."
     },
     "K": {
       "name": "Area Steward / Regional Quest-Giver",
@@ -236,7 +236,7 @@
         "frontier administrator"
       ],
       "notes": "Formal but warm administrator of a specific place — addresses the Arisen respectfully and reports local matters efficiently.\nStays practical and grounded: exposition about local threats, quests, and gratitude rather than long reflective wisdom.\nProtective of their people and visibly humbled by outside help; gratitude is stated plainly and repeated rather than elaborated poetically.\nRegister: consistent formal address, moderate archaic vocabulary — lighter than the most elevated registers, since it serves function over gravitas.\nSentences run longer than a clipped military style but stay purposeful — rarely trail into introspection.\nExamples not sourced from DD1/2 yet.\nExample: \"I thank you — truly. Few outsiders would trouble themselves with a village so far afield.\"\nExample: \"There's a matter I must ask of you, if you've the time to hear it.\"\nExample: \"You've done more for this place than any of us dared hope. We won't forget it.\"",
-      "ai_notes": "Formal but warm administrator of a place. Respectful address of the Arisen; practical, grounded wording about local matters; gratitude stated plainly and repeated rather than elaborated. Moderate archaic vocabulary, lighter than the most elevated registers. Contractions are fine."
+      "ai_notes": "Formal but warm administrator of a place. Respectful address of the Arisen; practical, grounded wording about local matters; gratitude stated plainly and repeated rather than elaborated. Archaic vocabulary where it fits. Contractions are fine."
     },
     "L": {
       "name": "Ceremonial / Humble Attendant",
@@ -258,7 +258,7 @@
         "femme fatale figure"
       ],
       "notes": "Playful and teasing, laced with feminine allure and rhetorical questions that invite continued attention rather than expecting a direct answer (\"...isn't that so?\", \"...don't you think?\").\nWarmth is real but layered under flirtation and self-amused irony — rarely fully sincere on the surface.\nComfortable with danger and morally gray dealings; treats risk and vice as entertainment rather than threat.\nA sentence may trail into a soft laugh or ellipsis instead of a firm stop when being deliberately coy — not as a constant tic.\nRegister: moderate archaic vocabulary used for flavor, not gravity; contractions and softened endings throughout — never clipped or blunt.\nExamples not sourced from DD1/2 yet.\nExample: \"Now aren't you an interesting one... shall we see just how far that luck of yours holds?\"\nExample: \"Careful — I might just take a liking to you.\"\nExample: \"Do have a look around, won't you? I do so enjoy watching the brave ones try their hand.\"",
-      "ai_notes": "Playful, teasing, laced with allure; warmth under self-amused irony. Moderate archaic vocabulary for flavour; contractions and softened phrasing throughout, never clipped or blunt. Comfortable with danger and vice, treated lightly. Teasing tags (\"don't you think\") fit where the source teases."
+      "ai_notes": "Playful, teasing, laced with allure; warmth under self-amused irony. Archaic vocabulary for flavour; contractions and softened phrasing throughout, never clipped or blunt. Comfortable with danger and vice, treated lightly. Teasing tags (\"don't you think\") fit where the source teases."
     },
     "N": {
       "name": "Refined / Genteel Dreamer",
@@ -269,7 +269,7 @@
         "hopeful reformer"
       ],
       "notes": "Elegant, softly formal register that reads refined rather than humble-service or falteringly vulnerable.\nIdealistic and forward-looking — speaks warmly about hopes and plans rather than duty or gratitude alone.\nGets visibly but gracefully excited or moved, catching herself with a light laugh or brief apology rather than trailing into hesitation.\nNever blunt or clipped; sentences run long, courteous, and softened even when delivering serious news.\nRegister: consistent elevated politeness throughout, moderate archaic vocabulary, favors graceful phrasing over plain statements.\nExamples not sourced from DD1/2 yet.\nExample: \"How lovely it would be, to see this place flourish again — forgive me, I do let myself dream.\"\nExample: \"Oh, forgive my excitement — it's simply that so much is finally coming together.\"\nExample: \"I've a hope I've held close for some time now. Might I share it with you?\"",
-      "ai_notes": "Elegant, softly formal, refined and idealistic; warm talk of hopes and plans. Courteous, softened phrasing even for serious news; never blunt. Consistent elevated politeness with moderate archaic vocabulary. When moved or excited, a light apology (\"forgive me\") fits where the source shows it."
+      "ai_notes": "Elegant, softly formal, refined and idealistic; warm talk of hopes and plans. Courteous, softened phrasing even for serious news; never blunt. Consistent elevated politeness with archaic vocabulary. When moved or excited, a light apology (\"forgive me\") fits where the source shows it."
     },
     "O": {
       "name": "Whimsical / Eccentric Strategist",
@@ -280,7 +280,7 @@
         "eccentric advisor"
       ],
       "notes": "Talks to himself as often as to others — thinking out loud in a stream of asides, doubts, and immediate self-corrections (\"Wait, no...\", \"Ah, I see!\").\nDelights in his own cleverness without real ego on the line — claims of genius are tossed off with a wink, not defensiveness.\nPlayful and easily distracted; enthusiasm swings quickly between topics, and serious matters get the same light energy as trivial ones.\nRegister: casual throughout, contractions used freely, minimal archaic flavor — the energy comes from rhythm and self-interruption rather than vocabulary.\nExamples not sourced from DD1/2 yet.\nExample: \"Wait, no — actually, yes! I knew it all along, obviously.\"\nExample: \"Hah! Well, that's one way it could've gone.\"\nExample: \"Don't mind me, just thinking out loud. Again.\"",
-      "ai_notes": "Whimsical, casual, thinking aloud. Playful and easily distracted; claims of cleverness tossed off with a wink. Minimal archaic flavour; contractions used freely. Self-corrections (\"wait, no\") only where the source shows them."
+      "ai_notes": "Whimsical, casual, thinking aloud. Playful and easily distracted; claims of cleverness tossed off with a wink. Contractions used freely. Self-corrections (\"wait, no\") only where the source shows them."
     },
     "P": {
       "name": "Guarded / Reserved Loyalist",
@@ -291,7 +291,7 @@
         "devoted retainer"
       ],
       "notes": "Reserved and observational — offers dry, economical assessments of people and situations rather than open opinions.\nLoyalty runs deep but goes largely unspoken; deflects or trails off rather than naming feelings directly (\"Truth be told... never mind\").\nEmotional moments surface as brief, unguarded slips rather than sustained openness, quickly covered back over with a return to composure.\nRegister: plain, measured sentences; light archaic vocabulary at most; no theatrical flourish.\nExamples not sourced from DD1/2 yet.\nExample: \"He's not much to look at, but he can fight. That's enough for me.\"\nExample: \"Truth be told... no, never mind. Forget I said anything.\"\nExample: \"I don't know what to make of this, honestly. I'm not used to it.\"",
-      "ai_notes": "Reserved, observational, economical. Plain, measured wording with dry assessments; light archaic vocabulary at most; no flourish. Loyalty is implied, rarely stated outright."
+      "ai_notes": "Reserved, observational, economical. Plain, measured wording with dry assessments; no flourish. Loyalty is implied, rarely stated outright."
     },
     "Q": {
       "name": "Detached / World-Weary Wanderer",
@@ -302,7 +302,7 @@
         "an Arisen who deals in rare goods on the side"
       ],
       "notes": "Detached and dryly philosophical — treats fate, loss, and daily hardship with a shrug rather than either despair or forced cheer.\nSpeech is transactional on the surface (deals, prices, casual offers), occasionally drifting into brief, unresolved musings about chance and impermanence before snapping back to business.\nDoesn't commit to opinions or plans; deflects serious questions with a joke or a change of subject.\nWarmth exists but stays carefully unstated — when real sentiment surfaces, it gets undercut with a dismissive \"nah\" or left unfinished rather than being stated fully.\nRegister: casual, plainspoken, minimal archaic flavor; short declaratives mixed with unfinished philosophical asides.\nExamples not sourced from DD1/2 yet.\nExample: \"Funny how that goes. Anyway — you buying, or just looking?\"\nExample: \"Guess it doesn't matter much either way. Still, I'll take that off your hands.\"\nExample: \"Eh, forget I said anything. Bad habit of mine.\"",
-      "ai_notes": "Detached, dry, plainspoken; shrugging philosophy about fate and hardship, businesslike on the surface (deals, prices). Casual wording with minimal archaic flavour. Warmth stays understated, or is undercut with a dismissive \"nah\" where the source does so."
+      "ai_notes": "Detached, dry, plainspoken; shrugging philosophy about fate and hardship, businesslike on the surface (deals, prices). Casual wording. Warmth stays understated, or is undercut with a dismissive \"nah\" where the source does so."
     },
     "R": {
       "name": "Boisterous Elder / Warrior General",
@@ -335,7 +335,7 @@
         "loyal lieutenant"
       ],
       "notes": "Formally polite throughout — full courteous sentence structure even under pressure, never clipped or blunt.\nDiplomatic almost by instinct: disagreement is voiced carefully and with reasons given, not flatly asserted.\nLoyalty and concern come through restrained understatement rather than open declaration (\"Good — truly, good\" rather than effusive relief).\nComfortable holding a measured, composed tone even discussing war, loss, or political tension.\nRegister: consistent politeness markers, moderate archaic vocabulary, longer sentences built from clauses rather than short declaratives.\nExamples not sourced from DD1/2 yet.\nExample: \"If I raise an objection, please believe there's a reason behind it.\"\nExample: \"Good — truly good. I'd feared the worst.\"\nExample: \"We'll hold this ground and wait for word. Patience serves us better than haste.\"",
-      "ai_notes": "Formally polite throughout; diplomatic by instinct. Full courteous wording built from clauses; moderate archaic vocabulary. Disagreement is voiced carefully, with reasons; concern shows as restrained understatement."
+      "ai_notes": "Formally polite throughout; diplomatic by instinct. Full courteous wording built from clauses; archaic vocabulary. Disagreement is voiced carefully, with reasons; concern shows as restrained understatement."
     },
     "U": {
       "name": "Bombastic / Zealous Warrior",
@@ -357,7 +357,7 @@
         "a character whose native tongue is not the local language"
       ],
       "notes": "Speaks in fragments — clipped noun phrases and short verbs, articles and connective words dropped entirely.\nWarmth exists but is stated plainly and briefly, without elaboration.\nDanger and knowledge are delivered as flat fact, no embellishment or hedging.\nIMPORTANT: this should read in English as economical and practical — short, plain sentences with minimal connecting words — never as an exaggerated \"broken English\" accent or dialect. The goal is terseness, not a stereotyped foreigner voice.\nRegister: no archaic vocabulary; sentences are already maximally compressed so contractions are largely moot.\nExamples not sourced from DD1/2 yet.\nExample: \"Big one, west woods. Careful.\"\nExample: \"You still green. Bow work needs time.\"\nExample: \"Lake's fine. North side, no. Poachers.\"",
-      "ai_notes": "Economical, practical, plain: short sentences with minimal connecting words. Warmth is stated briefly. No archaic vocabulary. Terse, never a caricatured \"broken English\" or foreign-sounding accent."
+      "ai_notes": "Economical, practical, plain: short sentences with minimal connecting words. Warmth is stated briefly. Terse, never a caricatured \"broken English\" or foreign-sounding accent."
     },
     "W": {
       "name": "Pawn (Formal / Deadpan Loyalty)",
@@ -377,7 +377,7 @@
         "wild antagonist"
       ],
       "notes": "Unpredictable and gleeful about violence or chaos — loud, frantic, and finds real amusement in danger and destruction rather than showing quiet, controlled menace.\nBoisterous laughter punctuates threats rather than replacing them with quiet menace.\nDoesn't settle on one mood for long; swings between playful challenge and genuine hostility within the same breath.\nSpeech is casual and rough, often using deliberately crude self-address (exaggerated ego, third-person bravado) rather than formal pronouns.\nRegister: casual, exclamation-heavy, no archaic vocabulary, deliberately unpolished.\nExamples not sourced from DD1/2 yet.\nExample: \"Ha! You wanna play? Let's play, then!\"\nExample: \"Bored, bored, BORED. Give me something to smash.\"\nExample: \"Oh, that's the face! That's the good face right there!\"",
-      "ai_notes": "Loud, gleeful, rough and casual; deliberately unpolished. Crude self-address and third-person bravado. No archaic vocabulary."
+      "ai_notes": "Loud, gleeful, rough and casual; deliberately unpolished. Crude self-address and third-person bravado."
     },
     "Y": {
       "name": "Cryptic Philosopher",
@@ -388,7 +388,7 @@
         "enigmatic figure of unclear origin"
       ],
       "notes": "Speaks in questions rather than statements, often turning a direct question back on the listener rather than answering it.\nComfortable with ambiguity and contradiction — presents multiple possible readings of an idea without settling on one.\nWarmth is present but wrapped in riddles rather than plain sincerity; never fully drops the enigmatic register even in a kind moment.\nExistential and philosophical topics (perception, identity, the nature of the world) come up naturally and often.\nRegister: measured, unhurried, moderate archaic vocabulary; rhetorical questions used as a structural device throughout.\nExamples not sourced from DD1/2 yet.\nExample: \"What you call the truth may only be the truth you're capable of seeing. Does that trouble you?\"\nExample: \"I could answer that. Would it change anything if I did?\"\nExample: \"Perhaps the answer isn't the point. Perhaps the asking is.\"",
-      "ai_notes": "Measured, unhurried, enigmatic; moderate archaic vocabulary. Warmth wrapped in riddle. Comfortable with ambiguity: offers readings without settling on one. Questions appear only where the source asks them."
+      "ai_notes": "Measured, unhurried, enigmatic; archaic vocabulary. Warmth wrapped in riddle. Comfortable with ambiguity: offers readings without settling on one. Questions appear only where the source asks them."
     },
     "Z": {
       "name": "Politely Grim / Formal Fatalist",
