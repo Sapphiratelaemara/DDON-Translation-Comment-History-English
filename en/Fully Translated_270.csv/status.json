@@ -1,0 +1,32 @@
+{
+  "270.csv::72": {
+    "id": "270.csv::72",
+    "source_text": "失われた秩序",
+    "translated_text": "The Lost Order",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:28:19.000548",
+    "updated_at": "2026-11-20T22:28:19.002383",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\270.csv",
+    "row_index": 72,
+    "speaker": "Cornelia",
+    "entry_type": "Quest Title/Info"
+  },
+  "270.csv::75": {
+    "id": "270.csv::75",
+    "source_text": "事態は一定の収束をみた、迎撃態勢は解除する\n覚者の協力については報酬を用意している\n集計結果を待ってほしい",
+    "translated_text": "The situation has reached a resolution; the intercept stance is released.\nA reward has been prepared for the Arisen&#x27;s cooperation.\nPray wait for the tally results.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:28:31.407068",
+    "updated_at": "2026-11-20T22:28:31.410751",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\270.csv",
+    "row_index": 75,
+    "speaker": "Seneka",
+    "entry_type": "Quest Title/Info"
+  }
+}
