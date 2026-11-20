@@ -1,0 +1,62 @@
+{
+  "168.csv::348": {
+    "id": "168.csv::348",
+    "source_text": "納品テスト受注前テキスト",
+    "translated_text": "Delivery test pre-acceptance text",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:37:08.723402",
+    "updated_at": "2026-11-20T22:37:08.724847",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\168.csv",
+    "row_index": 348,
+    "speaker": "Kieshildt",
+    "entry_type": "Quest Dialogue"
+  },
+  "168.csv::349": {
+    "id": "168.csv::349",
+    "source_text": "納品テスト納品時会話",
+    "translated_text": "Delivery test: dialogue upon delivery",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:37:24.690814",
+    "updated_at": "2026-11-20T22:37:24.693168",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\168.csv",
+    "row_index": 349,
+    "speaker": "Zuhl",
+    "entry_type": "Quest Dialogue"
+  },
+  "168.csv::350": {
+    "id": "168.csv::350",
+    "source_text": "納品テスト納品前テキスト",
+    "translated_text": "Delivery test, pre-delivery text",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:37:31.610246",
+    "updated_at": "2026-11-20T22:37:31.612593",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\168.csv",
+    "row_index": 350,
+    "speaker": "Kieshildt",
+    "entry_type": "Quest Dialogue"
+  },
+  "168.csv::351": {
+    "id": "168.csv::351",
+    "source_text": "納品テスト納品後テキスト",
+    "translated_text": "Delivery test, post-delivery text",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:37:42.958804",
+    "updated_at": "2026-11-20T22:37:42.961641",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/splits\\168.csv",
+    "row_index": 351,
+    "speaker": "Kieshildt",
+    "entry_type": "Quest Dialogue"
+  }
+}
