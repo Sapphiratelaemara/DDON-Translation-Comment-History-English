@@ -1,0 +1,62 @@
+{
+  "187.csv::355": {
+    "id": "187.csv::355",
+    "source_text": "&quot;シェドレアン大神殿&quot;での問題を\n解決してくれたみたいね！\nアデルドナハからも、礼をいっておいてくれと\n言われたよ――",
+    "translated_text": "Seems you&#x27;ve resolved the trouble at the Shadolean Great Temple! Adair Donnchadh bid me convey his thanks as well—",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:16:02.958223",
+    "updated_at": "2026-11-20T22:16:02.959866",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\187.csv",
+    "row_index": 355,
+    "speaker": "Deryn",
+    "entry_type": "Quest Dialogue"
+  },
+  "187.csv::356": {
+    "id": "187.csv::356",
+    "source_text": "今は戦果の分析中だから\nもうしばらく待っていてちょうだい",
+    "translated_text": "The battle&#x27;s spoils are under analysis even now. Wait a while longer.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:16:17.000161",
+    "updated_at": "2026-11-20T22:16:17.002798",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\187.csv",
+    "row_index": 356,
+    "speaker": "Deryn",
+    "entry_type": "Quest Dialogue"
+  },
+  "187.csv::357": {
+    "id": "187.csv::357",
+    "source_text": "今回のミッションでは物凄いはたらきを\nしてくれたみたいね！",
+    "translated_text": "You&#x27;ve rendered prodigious service this mission, it would seem!",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:16:37.428456",
+    "updated_at": "2026-11-20T22:16:37.431576",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\187.csv",
+    "row_index": 357,
+    "speaker": "Deryn",
+    "entry_type": "Quest Dialogue"
+  },
+  "187.csv::358": {
+    "id": "187.csv::358",
+    "source_text": "戦果の報酬として、シークレットアビリティが\n付与されるよ\n受け取ってちょうだい",
+    "translated_text": "As reward for your deeds, a Secret Augment is bestowed. Accept it.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:16:45.982420",
+    "updated_at": "2026-11-20T22:16:45.985448",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\187.csv",
+    "row_index": 358,
+    "speaker": "Deryn",
+    "entry_type": "Quest Dialogue"
+  }
+}
