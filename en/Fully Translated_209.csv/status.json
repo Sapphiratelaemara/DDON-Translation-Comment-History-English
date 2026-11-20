@@ -1,0 +1,47 @@
+{
+  "209.csv::0": {
+    "id": "209.csv::0",
+    "source_text": "竜の翼たる歴戦の覚者たちよ\n《暗黒の統べる地》に現れた\n理を破壊せんとする黒き竜を打ち滅ぼせ",
+    "translated_text": "Battle-hardened Arisen, wings of the dragon!\nA black dragon has appeared in the Land of Darkness, seeking to destroy Order. Slay it!",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:39:22.875600",
+    "updated_at": "2026-11-20T23:14:34.656698",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\209.csv",
+    "row_index": 0,
+    "speaker": "Black Dragon",
+    "entry_type": "QUEST_TEXT_TYPE_CONTENTS_DETAIL"
+  },
+  "209.csv::2": {
+    "id": "209.csv::2",
+    "source_text": "黒竜を討伐する",
+    "translated_text": "Defeat the Black Dragon",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:39:27.994380",
+    "updated_at": "2026-11-20T23:14:39.369092",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\209.csv",
+    "row_index": 2,
+    "speaker": "Black Dragon",
+    "entry_type": "QUEST_TEXT_TYPE_PURPOSE"
+  },
+  "209.csv::3": {
+    "id": "209.csv::3",
+    "source_text": "報酬を受け取り、進行マーカーへ集合して帰還する",
+    "translated_text": "Receive the reward, assemble at the progress marker, and return.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-20T22:39:42.506156",
+    "updated_at": "2026-11-20T23:14:57.906559",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\209.csv",
+    "row_index": 3,
+    "speaker": "Black Dragon",
+    "entry_type": "QUEST_TEXT_TYPE_PURPOSE"
+  }
+}
