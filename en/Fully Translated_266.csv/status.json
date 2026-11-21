@@ -163,5 +163,50 @@
     "row_index": 86,
     "speaker": "Leo",
     "entry_type": "Quest Dialogue"
+  },
+  "266.csv::178": {
+    "id": "266.csv::178",
+    "source_text": "エリオットの負傷で、ああ、これでもう\nわしらだけで戦うしかないと覚悟したが――",
+    "translated_text": "Elliot&#x27;s wound, ah, I&#x27;d resolved we&#x27;d have to fight alone now—",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-21T00:01:09.218529",
+    "updated_at": "2026-11-21T00:01:09.222223",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\266.csv",
+    "row_index": 178,
+    "speaker": "Meirova",
+    "entry_type": "Quest Dialogue"
+  },
+  "266.csv::179": {
+    "id": "266.csv::179",
+    "source_text": "神にも等しい竜の眼でひと睨み",
+    "translated_text": "With a dragon&#x27;s gaze equal to the gods, I cast a single glare upon thee.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-21T00:01:41.428463",
+    "updated_at": "2026-11-21T00:01:41.431964",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\266.csv",
+    "row_index": 179,
+    "speaker": "The Evil Dragon",
+    "entry_type": "Quest Dialogue"
+  },
+  "266.csv::180": {
+    "id": "266.csv::180",
+    "source_text": "キャキャキャ――他には何もいらん",
+    "translated_text": "Ahahaha... Naught else do I require.",
+    "status": "pre-translated",
+    "translator": "pretranslate",
+    "approver": null,
+    "created_at": "2026-11-21T00:01:54.302623",
+    "updated_at": "2026-11-21T00:01:54.305933",
+    "approved_at": null,
+    "file_path": "C:/DDON-translation/English/Fully Translated\\266.csv",
+    "row_index": 180,
+    "speaker": "The Evil Dragon",
+    "entry_type": "Quest Dialogue"
   }
 }
