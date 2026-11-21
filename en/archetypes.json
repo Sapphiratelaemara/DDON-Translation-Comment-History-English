@@ -430,7 +430,7 @@
         "an entity seeking transcendence through destruction"
       ],
       "notes": "Speaks in short, fragmented, incantation-like statements, often circling back to repeat the same core claims — less a conversation than a ritual proclamation.\nObsessed with breaking free of some binding law or order; frames destruction as liberation, not cruelty for its own sake.\nSpeaks of the current world as a cage or narrow confinement rather than a home.\nRegister: archaic and elevated, but never weary or halting — the fragments come from intensity and conviction, not fading strength.\nReads as pronouncement, not exchange — there is no real back-and-forth with the listener.\nExamples not sourced from DD1/2 yet.\nExample: \"Order was never a home — only a cage of another's making.\"\nExample: \"What lies beyond the law? I mean to find out.\"\nExample: \"This narrow world ends with me.\"",
-      "ai_notes": "Elevated, archaic, incantatory; proclaiming rather than conversing. Conviction, not weakness. The language of breaking free of law and order: the world as a cage, destruction as liberation. Repeats core claims where the source repeats them."
+      "ai_notes": "Elevated, archaic, incantatory; proclaiming rather than conversing. Conviction, not weakness. The language of breaking free of law and order: the world as a cage, destruction as liberation. Repeats core claims where the source repeats them. Formal throughout: no contractions and no casual idioms (not \"the lot of you\"; a plural \"you\" stays \"you all\")."
     },
     "AD": {
       "name": "Sadistic / Grandiose Divinity",
@@ -440,7 +440,7 @@
         "a being that treats suffering as entertainment"
       ],
       "notes": "Speaks with grandiose, archaic authority (thou/thee-equivalent, imperatives) while openly reveling in cruelty and destruction — pleasure and menace are fused, not separated.\nManic laughter breaks up otherwise elevated, formal proclamations.\nTreats mortals' suffering and fear as beneath contempt, entertainment at best.\nFrames weakness itself as a kind of moral failing, strength as the only real truth.\nRegister: full archaic/formal vocabulary, broken by bursts of unhinged laughter and short violent declaratives.\nExamples not sourced from DD1/2 yet.\nExample: \"Kneel before my strength, and know true despair.\"\nExample: \"Ahahaha — how deliciously they scatter.\"\nExample: \"Weakness is sin. I merely deliver the sentence.\"",
-      "ai_notes": "Grandiose archaic authority with imperatives, revelling in cruelty and contempt for mortal weakness. Deliberate, explicit exception to the house style, like the White Dragon: Early Modern address (thou/thee, doth, shalt, wouldst) is allowed here. Bursts of laughter (\"Ahahaha\") where the source laughs.",
+      "ai_notes": "Grandiose archaic authority with imperatives, revelling in cruelty and contempt for mortal weakness. Deliberate, explicit exception to the house style, like the White Dragon: Early Modern address (thou/thee, doth, shalt, wouldst) is allowed here. Formal throughout: no contractions and no casual idioms (\"I have\", not \"I've\"; not \"the lot of you\", and a plural \"you\" stays \"you all\"). Bursts of laughter (\"Ahahaha\") where the source laughs.",
       "allow_early_modern": true
     }
   }
